@@ -1,0 +1,2047 @@
+﻿Categoría_id;Categoría_desc;Cadenas_id;Cadenas_desc;indicador;unidad;año;valor
+1;Agroindustriales;1;Algodón textil;VAB;miles de pesos de 2018;2016;98.416.443
+1;Agroindustriales;2;Apícola;VAB;miles de pesos de 2018;2016;4.544.000
+1;Agroindustriales;3;Azucarera;VAB;miles de pesos de 2018;2016;33.978.008
+1;Agroindustriales;4;Avícola;VAB;miles de pesos de 2018;2016;69.626.634
+1;Agroindustriales;5;Porcina;VAB;miles de pesos de 2018;2016;42.670.466
+1;Agroindustriales;6;Bovina;VAB;miles de pesos de 2018;2016;115.195.813
+1;Agroindustriales;7;Arrocera;VAB;miles de pesos de 2018;2016;20.576.610
+1;Agroindustriales;8;Maicera;VAB;miles de pesos de 2018;2016;73.470.341
+1;Agroindustriales;9;Triguera;VAB;miles de pesos de 2018;2016;121.003.209
+1;Agroindustriales;10;Cítricos dulces;VAB;miles de pesos de 2018;2016;7.567.474
+1;Agroindustriales;11;Fruta de carozo;VAB;miles de pesos de 2018;2016;5.381.150
+1;Agroindustriales;12;Láctea;VAB;miles de pesos de 2018;2016;155.919.901
+1;Agroindustriales;13;Legumbres;VAB;miles de pesos de 2018;2016;17.819.874
+1;Agroindustriales;14;Limón;VAB;miles de pesos de 2018;2016;11.466.335
+1;Agroindustriales;15;Peras y manzanas;VAB;miles de pesos de 2018;2016;57.452.159
+1;Agroindustriales;16;Sojera;VAB;miles de pesos de 2018;2016;383.039.712
+1;Agroindustriales;17;Girasol;VAB;miles de pesos de 2018;2016;32.066.562
+1;Agroindustriales;18;Caprina;VAB;miles de pesos de 2018;2016;299.640
+1;Agroindustriales;19;Ovina;VAB;miles de pesos de 2018;2016;5.870.326
+1;Agroindustriales;20;Pesca;VAB;miles de pesos de 2018;2016;65.541.580
+1;Agroindustriales;21;Tabacalera;VAB;miles de pesos de 2018;2016;14.362.489
+1;Agroindustriales;22;Tealera;VAB;miles de pesos de 2018;2016;1.059.397
+1;Agroindustriales;23;Vitivinícola;VAB;miles de pesos de 2018;2016;63.834.475
+1;Agroindustriales;24;Yerba mate;VAB;miles de pesos de 2018;2016;46.750.227
+1;Agroindustriales;25;Frutas finas;VAB;miles de pesos de 2018;2016;6.229.389
+1;Agroindustriales;26;Cebada;VAB;miles de pesos de 2018;2016;30.655.742
+1;Agroindustriales;27;Hortícola;VAB;miles de pesos de 2018;2016;8.561.367
+1;Agroindustriales;28;Maní;VAB;miles de pesos de 2018;2016;23.769.102
+1;Agroindustriales;29;Olivícola;VAB;miles de pesos de 2018;2016;9.802.296
+1;Agroindustriales;30;Sorgo;VAB;miles de pesos de 2018;2016;2.577.155
+2;Energía y minería;31;Hidrocarburos;VAB;miles de pesos de 2018;2016;676.915.430
+2;Energía y minería;32;Minería metalífera;VAB;miles de pesos de 2018;2016;65.838.370
+2;Energía y minería;33;Minería no metalífera;VAB;miles de pesos de 2018;2016;103.453.596
+3;Industria manufacturera;34;Equipos y aparatos eléctricos;VAB;miles de pesos de 2018;2016;35.781.781
+3;Industria manufacturera;35;Automotriz y autopartista;VAB;miles de pesos de 2018;2016;275.712.821
+3;Industria manufacturera;36;Construcción;VAB;miles de pesos de 2018;2016;669.949.536
+3;Industria manufacturera;37;Medicamentos;VAB;miles de pesos de 2018;2016;60.510.764
+3;Industria manufacturera;38;Quimica básica;VAB;miles de pesos de 2018;2016;28.158.259
+3;Industria manufacturera;39;Forestal, papel y muebles;VAB;miles de pesos de 2018;2016;144.596.659
+3;Industria manufacturera;40;Siderurgia;VAB;miles de pesos de 2018;2016;77.866.239
+3;Industria manufacturera;41;Aluminio;VAB;miles de pesos de 2018;2016;27.578.239
+3;Industria manufacturera;42;Maquinaria agrícola;VAB;miles de pesos de 2018;2016;34.566.148
+3;Industria manufacturera;43;Plástica;VAB;miles de pesos de 2018;2016;106.516.991
+3;Industria manufacturera;44;Cuero, marroquinería y calzado;VAB;miles de pesos de 2018;2016;24.042.008
+3;Industria manufacturera;45;Agroquímica;VAB;miles de pesos de 2018;2016;24.538.851
+3;Industria manufacturera;46;Equipamiento médico;VAB;miles de pesos de 2018;2016;8.287.631
+2;Energía y minería;47;Energía eléctrica;VAB;miles de pesos de 2018;2016;207.898.823
+3;Industria manufacturera;48;Aparatos de uso doméstico;VAB;miles de pesos de 2018;2016;20.194.128
+3;Industria manufacturera;49;Bienes de capital;VAB;miles de pesos de 2018;2016;162.205.801
+3;Industria manufacturera;50;Químicos de consumo;VAB;miles de pesos de 2018;2016;39.426.597
+3;Industria manufacturera;51;Caucho;VAB;miles de pesos de 2018;2016;25.063.877
+3;Industria manufacturera;52;Electrónica;VAB;miles de pesos de 2018;2016;21.241.142
+5;Servicios;53;Servicios empresariales;VAB;miles de pesos de 2018;2016;283.733.171
+5;Servicios;54;Comercio;VAB;miles de pesos de 2018;2016;1.994.057.712
+5;Servicios;55;Industrias culturales;VAB;miles de pesos de 2018;2016;170.771.325
+5;Servicios;56;Investigación y desarrollo;VAB;miles de pesos de 2018;2016;29.734.004
+5;Servicios;57;Software y servicios informáticos;VAB;miles de pesos de 2018;2016;127.379.062
+5;Servicios;58;Telecomunicaciones;VAB;miles de pesos de 2018;2016;283.817.482
+5;Servicios;59;Turismo;VAB;miles de pesos de 2018;2016;323.200.208
+5;Servicios;60;Transporte y logística;VAB;miles de pesos de 2018;2016;397.550.713
+5;Servicios;61;Salud;VAB;miles de pesos de 2018;2016;707.152.356
+5;Servicios;62;Educación;VAB;miles de pesos de 2018;2016;750.980.842
+5;Servicios;63;Servicios financieros;VAB;miles de pesos de 2018;2016;473.218.530
+;Total Cadenas;;Total Cadenas;VAB;miles de pesos de 2018;2016;9.911.446.972
+;No asignado;99;No asignado;VAB;miles de pesos de 2018;2016;1.581.662.672
+;TOTAL (excluyendo Adm. Púb.);;TOTAL (excluyendo Adm. Púb.);VAB;miles de pesos de 2018;2016;11.493.109.643
+1;Agroindustriales;1;Algodón textil;VAB;miles de pesos de 2018;2017;87.570.467
+1;Agroindustriales;2;Apícola;VAB;miles de pesos de 2018;2017;3.947.807
+1;Agroindustriales;3;Azucarera;VAB;miles de pesos de 2018;2017;33.210.255
+1;Agroindustriales;4;Avícola;VAB;miles de pesos de 2018;2017;70.731.072
+1;Agroindustriales;5;Porcina;VAB;miles de pesos de 2018;2017;45.069.397
+1;Agroindustriales;6;Bovina;VAB;miles de pesos de 2018;2017;118.910.050
+1;Agroindustriales;7;Arrocera;VAB;miles de pesos de 2018;2017;19.686.405
+1;Agroindustriales;8;Maicera;VAB;miles de pesos de 2018;2017;90.272.553
+1;Agroindustriales;9;Triguera;VAB;miles de pesos de 2018;2017;136.907.317
+1;Agroindustriales;10;Cítricos dulces;VAB;miles de pesos de 2018;2017;6.420.381
+1;Agroindustriales;11;Fruta de carozo;VAB;miles de pesos de 2018;2017;1.735.064
+1;Agroindustriales;12;Láctea;VAB;miles de pesos de 2018;2017;119.244.977
+1;Agroindustriales;13;Legumbres;VAB;miles de pesos de 2018;2017;20.105.375
+1;Agroindustriales;14;Limón;VAB;miles de pesos de 2018;2017;11.372.586
+1;Agroindustriales;15;Peras y manzanas;VAB;miles de pesos de 2018;2017;57.872.654
+1;Agroindustriales;16;Sojera;VAB;miles de pesos de 2018;2017;356.322.476
+1;Agroindustriales;17;Girasol;VAB;miles de pesos de 2018;2017;37.526.045
+1;Agroindustriales;18;Caprina;VAB;miles de pesos de 2018;2017;309.288
+1;Agroindustriales;19;Ovina;VAB;miles de pesos de 2018;2017;5.983.108
+1;Agroindustriales;20;Pesca;VAB;miles de pesos de 2018;2017;66.132.935
+1;Agroindustriales;21;Tabacalera;VAB;miles de pesos de 2018;2017;18.022.401
+1;Agroindustriales;22;Tealera;VAB;miles de pesos de 2018;2017;1.022.989
+1;Agroindustriales;23;Vitivinícola;VAB;miles de pesos de 2018;2017;60.608.623
+1;Agroindustriales;24;Yerba mate;VAB;miles de pesos de 2018;2017;45.077.172
+1;Agroindustriales;25;Frutas finas;VAB;miles de pesos de 2018;2017;6.288.624
+1;Agroindustriales;26;Cebada;VAB;miles de pesos de 2018;2017;29.213.429
+1;Agroindustriales;27;Hortícola;VAB;miles de pesos de 2018;2017;8.610.698
+1;Agroindustriales;28;Maní;VAB;miles de pesos de 2018;2017;24.376.388
+1;Agroindustriales;29;Olivícola;VAB;miles de pesos de 2018;2017;9.905.942
+1;Agroindustriales;30;Sorgo;VAB;miles de pesos de 2018;2017;2.188.607
+2;Energía y minería;31;Hidrocarburos;VAB;miles de pesos de 2018;2017;604.663.702
+2;Energía y minería;32;Minería metalífera;VAB;miles de pesos de 2018;2017;66.619.111
+2;Energía y minería;33;Minería no metalífera;VAB;miles de pesos de 2018;2017;109.950.626
+3;Industria manufacturera;34;Equipos y aparatos eléctricos;VAB;miles de pesos de 2018;2017;34.963.404
+3;Industria manufacturera;35;Automotriz y autopartista;VAB;miles de pesos de 2018;2017;283.320.837
+3;Industria manufacturera;36;Construcción;VAB;miles de pesos de 2018;2017;720.902.371
+3;Industria manufacturera;37;Medicamentos;VAB;miles de pesos de 2018;2017;61.583.360
+3;Industria manufacturera;38;Quimica básica;VAB;miles de pesos de 2018;2017;28.613.302
+3;Industria manufacturera;39;Forestal, papel y muebles;VAB;miles de pesos de 2018;2017;150.270.574
+3;Industria manufacturera;40;Siderurgia;VAB;miles de pesos de 2018;2017;87.842.220
+3;Industria manufacturera;41;Aluminio;VAB;miles de pesos de 2018;2017;29.091.288
+3;Industria manufacturera;42;Maquinaria agrícola;VAB;miles de pesos de 2018;2017;47.913.246
+3;Industria manufacturera;43;Plástica;VAB;miles de pesos de 2018;2017;108.542.952
+3;Industria manufacturera;44;Cuero, marroquinería y calzado;VAB;miles de pesos de 2018;2017;21.268.566
+3;Industria manufacturera;45;Agroquímica;VAB;miles de pesos de 2018;2017;22.548.637
+3;Industria manufacturera;46;Equipamiento médico;VAB;miles de pesos de 2018;2017;8.731.463
+2;Energía y minería;47;Energía eléctrica;VAB;miles de pesos de 2018;2017;205.855.564
+3;Industria manufacturera;48;Aparatos de uso doméstico;VAB;miles de pesos de 2018;2017;23.255.516
+3;Industria manufacturera;49;Bienes de capital;VAB;miles de pesos de 2018;2017;165.613.463
+3;Industria manufacturera;50;Químicos de consumo;VAB;miles de pesos de 2018;2017;40.879.503
+3;Industria manufacturera;51;Caucho;VAB;miles de pesos de 2018;2017;25.470.236
+3;Industria manufacturera;52;Electrónica;VAB;miles de pesos de 2018;2017;21.186.711
+5;Servicios;53;Servicios empresariales;VAB;miles de pesos de 2018;2017;284.751.118
+5;Servicios;54;Comercio;VAB;miles de pesos de 2018;2017;2.059.743.741
+5;Servicios;55;Industrias culturales;VAB;miles de pesos de 2018;2017;171.124.133
+5;Servicios;56;Investigación y desarrollo;VAB;miles de pesos de 2018;2017;29.815.669
+5;Servicios;57;Software y servicios informáticos;VAB;miles de pesos de 2018;2017;131.752.132
+5;Servicios;58;Telecomunicaciones;VAB;miles de pesos de 2018;2017;285.137.282
+5;Servicios;59;Turismo;VAB;miles de pesos de 2018;2017;331.687.087
+5;Servicios;60;Transporte y logística;VAB;miles de pesos de 2018;2017;403.441.137
+5;Servicios;61;Salud;VAB;miles de pesos de 2018;2017;721.602.847
+5;Servicios;62;Educación;VAB;miles de pesos de 2018;2017;759.895.808
+5;Servicios;63;Servicios financieros;VAB;miles de pesos de 2018;2017;498.407.940
+;Total Cadenas;;Total Cadenas;VAB;miles de pesos de 2018;2017;10.041.090.632
+;No asignado;99;No asignado;VAB;miles de pesos de 2018;2017;1.602.351.128
+;TOTAL (excluyendo Adm. Púb.);;TOTAL (excluyendo Adm. Púb.);VAB;miles de pesos de 2018;2017;11.643.441.760
+1;Agroindustriales;1;Algodón textil;VAB;miles de pesos de 2018;2018;93.772.821
+1;Agroindustriales;2;Apícola;VAB;miles de pesos de 2018;2018;3.960.811
+1;Agroindustriales;3;Azucarera;VAB;miles de pesos de 2018;2018;32.272.998
+1;Agroindustriales;4;Avícola;VAB;miles de pesos de 2018;2018;70.423.349
+1;Agroindustriales;5;Porcina;VAB;miles de pesos de 2018;2018;45.303.180
+1;Agroindustriales;6;Bovina;VAB;miles de pesos de 2018;2018;123.085.895
+1;Agroindustriales;7;Arrocera;VAB;miles de pesos de 2018;2018;20.046.657
+1;Agroindustriales;8;Maicera;VAB;miles de pesos de 2018;2018;79.329.015
+1;Agroindustriales;9;Triguera;VAB;miles de pesos de 2018;2018;133.805.400
+1;Agroindustriales;10;Cítricos dulces;VAB;miles de pesos de 2018;2018;7.189.964
+1;Agroindustriales;11;Fruta de carozo;VAB;miles de pesos de 2018;2018;5.380.087
+1;Agroindustriales;12;Láctea;VAB;miles de pesos de 2018;2018;123.884.095
+1;Agroindustriales;13;Legumbres;VAB;miles de pesos de 2018;2018;23.011.480
+1;Agroindustriales;14;Limón;VAB;miles de pesos de 2018;2018;13.493.840
+1;Agroindustriales;15;Peras y manzanas;VAB;miles de pesos de 2018;2018;57.099.267
+1;Agroindustriales;16;Sojera;VAB;miles de pesos de 2018;2018;279.791.409
+1;Agroindustriales;17;Girasol;VAB;miles de pesos de 2018;2018;37.300.482
+1;Agroindustriales;18;Caprina;VAB;miles de pesos de 2018;2018;302.126
+1;Agroindustriales;19;Ovina;VAB;miles de pesos de 2018;2018;6.434.238
+1;Agroindustriales;20;Pesca;VAB;miles de pesos de 2018;2018;68.297.272
+1;Agroindustriales;21;Tabacalera;VAB;miles de pesos de 2018;2018;16.003.554
+1;Agroindustriales;22;Tealera;VAB;miles de pesos de 2018;2018;1.038.566
+1;Agroindustriales;23;Vitivinícola;VAB;miles de pesos de 2018;2018;64.585.744
+1;Agroindustriales;24;Yerba mate;VAB;miles de pesos de 2018;2018;46.213.805
+1;Agroindustriales;25;Frutas finas;VAB;miles de pesos de 2018;2018;6.214.836
+1;Agroindustriales;26;Cebada;VAB;miles de pesos de 2018;2018;31.820.108
+1;Agroindustriales;27;Hortícola;VAB;miles de pesos de 2018;2018;8.598.817
+1;Agroindustriales;28;Maní;VAB;miles de pesos de 2018;2018;21.151.764
+1;Agroindustriales;29;Olivícola;VAB;miles de pesos de 2018;2018;9.326.970
+1;Agroindustriales;30;Sorgo;VAB;miles de pesos de 2018;2018;1.426.751
+2;Energía y minería;31;Hidrocarburos;VAB;miles de pesos de 2018;2018;577.153.339
+2;Energía y minería;32;Minería metalífera;VAB;miles de pesos de 2018;2018;62.703.489
+2;Energía y minería;33;Minería no metalífera;VAB;miles de pesos de 2018;2018;112.550.808
+3;Industria manufacturera;34;Equipos y aparatos eléctricos;VAB;miles de pesos de 2018;2018;34.780.378
+3;Industria manufacturera;35;Automotriz y autopartista;VAB;miles de pesos de 2018;2018;283.673.618
+3;Industria manufacturera;36;Construcción;VAB;miles de pesos de 2018;2018;729.518.440
+3;Industria manufacturera;37;Medicamentos;VAB;miles de pesos de 2018;2018;60.974.631
+3;Industria manufacturera;38;Quimica básica;VAB;miles de pesos de 2018;2018;29.527.097
+3;Industria manufacturera;39;Forestal, papel y muebles;VAB;miles de pesos de 2018;2018;142.359.828
+3;Industria manufacturera;40;Siderurgia;VAB;miles de pesos de 2018;2018;89.114.458
+3;Industria manufacturera;41;Aluminio;VAB;miles de pesos de 2018;2018;29.155.985
+3;Industria manufacturera;42;Maquinaria agrícola;VAB;miles de pesos de 2018;2018;34.463.944
+3;Industria manufacturera;43;Plástica;VAB;miles de pesos de 2018;2018;98.251.817
+3;Industria manufacturera;44;Cuero, marroquinería y calzado;VAB;miles de pesos de 2018;2018;20.801.098
+3;Industria manufacturera;45;Agroquímica;VAB;miles de pesos de 2018;2018;21.315.174
+3;Industria manufacturera;46;Equipamiento médico;VAB;miles de pesos de 2018;2018;8.663.001
+2;Energía y minería;47;Energía eléctrica;VAB;miles de pesos de 2018;2018;204.902.175
+3;Industria manufacturera;48;Aparatos de uso doméstico;VAB;miles de pesos de 2018;2018;16.575.956
+3;Industria manufacturera;49;Bienes de capital;VAB;miles de pesos de 2018;2018;164.700.907
+3;Industria manufacturera;50;Químicos de consumo;VAB;miles de pesos de 2018;2018;38.109.144
+3;Industria manufacturera;51;Caucho;VAB;miles de pesos de 2018;2018;23.119.502
+3;Industria manufacturera;52;Electrónica;VAB;miles de pesos de 2018;2018;20.067.285
+5;Servicios;53;Servicios empresariales;VAB;miles de pesos de 2018;2018;284.845.140
+5;Servicios;54;Comercio;VAB;miles de pesos de 2018;2018;1.977.157.812
+5;Servicios;55;Industrias culturales;VAB;miles de pesos de 2018;2018;164.460.735
+5;Servicios;56;Investigación y desarrollo;VAB;miles de pesos de 2018;2018;30.456.734
+5;Servicios;57;Software y servicios informáticos;VAB;miles de pesos de 2018;2018;138.894.945
+5;Servicios;58;Telecomunicaciones;VAB;miles de pesos de 2018;2018;275.610.420
+5;Servicios;59;Turismo;VAB;miles de pesos de 2018;2018;332.080.438
+5;Servicios;60;Transporte y logística;VAB;miles de pesos de 2018;2018;404.427.519
+5;Servicios;61;Salud;VAB;miles de pesos de 2018;2018;732.960.096
+5;Servicios;62;Educación;VAB;miles de pesos de 2018;2018;773.743.829
+5;Servicios;63;Servicios financieros;VAB;miles de pesos de 2018;2018;516.945.400
+;Total Cadenas;;Total Cadenas;VAB;miles de pesos de 2018;2018;9.864.630.442
+;No asignado;99;No asignado;VAB;miles de pesos de 2018;2018;1.574.191.718
+;TOTAL (excluyendo Adm. Púb.);;TOTAL (excluyendo Adm. Púb.);VAB;miles de pesos de 2018;2018;11.438.822.160
+1;Agroindustriales;1;Algodón textil;VAB;miles de pesos de 2018;2019;89.105.759
+1;Agroindustriales;2;Apícola;VAB;miles de pesos de 2018;2019;3.658.205
+1;Agroindustriales;3;Azucarera;VAB;miles de pesos de 2018;2019;31.416.276
+1;Agroindustriales;4;Avícola;VAB;miles de pesos de 2018;2019;76.899.498
+1;Agroindustriales;5;Porcina;VAB;miles de pesos de 2018;2019;46.494.690
+1;Agroindustriales;6;Bovina;VAB;miles de pesos de 2018;2019;124.582.459
+1;Agroindustriales;7;Arrocera;VAB;miles de pesos de 2018;2019;19.296.314
+1;Agroindustriales;8;Maicera;VAB;miles de pesos de 2018;2019;103.155.250
+1;Agroindustriales;9;Triguera;VAB;miles de pesos de 2018;2019;143.628.779
+1;Agroindustriales;10;Cítricos dulces;VAB;miles de pesos de 2018;2019;6.904.613
+1;Agroindustriales;11;Fruta de carozo;VAB;miles de pesos de 2018;2019;3.372.330
+1;Agroindustriales;12;Láctea;VAB;miles de pesos de 2018;2019;107.934.589
+1;Agroindustriales;13;Legumbres;VAB;miles de pesos de 2018;2019;28.131.289
+1;Agroindustriales;14;Limón;VAB;miles de pesos de 2018;2019;13.932.827
+1;Agroindustriales;15;Peras y manzanas;VAB;miles de pesos de 2018;2019;52.164.770
+1;Agroindustriales;16;Sojera;VAB;miles de pesos de 2018;2019;357.217.450
+1;Agroindustriales;17;Girasol;VAB;miles de pesos de 2018;2019;40.358.359
+1;Agroindustriales;18;Caprina;VAB;miles de pesos de 2018;2019;294.964
+1;Agroindustriales;19;Ovina;VAB;miles de pesos de 2018;2019;5.792.980
+1;Agroindustriales;20;Pesca;VAB;miles de pesos de 2018;2019;68.117.155
+1;Agroindustriales;21;Tabacalera;VAB;miles de pesos de 2018;2019;16.050.773
+1;Agroindustriales;22;Tealera;VAB;miles de pesos de 2018;2019;1.064.385
+1;Agroindustriales;23;Vitivinícola;VAB;miles de pesos de 2018;2019;68.079.476
+1;Agroindustriales;24;Yerba mate;VAB;miles de pesos de 2018;2019;48.128.067
+1;Agroindustriales;25;Frutas finas;VAB;miles de pesos de 2018;2019;6.292.953
+1;Agroindustriales;26;Cebada;VAB;miles de pesos de 2018;2019;34.098.078
+1;Agroindustriales;27;Hortícola;VAB;miles de pesos de 2018;2019;8.657.736
+1;Agroindustriales;28;Maní;VAB;miles de pesos de 2018;2019;27.856.477
+1;Agroindustriales;29;Olivícola;VAB;miles de pesos de 2018;2019;9.335.799
+1;Agroindustriales;30;Sorgo;VAB;miles de pesos de 2018;2019;1.456.163
+2;Energía y minería;31;Hidrocarburos;VAB;miles de pesos de 2018;2019;581.410.782
+2;Energía y minería;32;Minería metalífera;VAB;miles de pesos de 2018;2019;57.090.059
+2;Energía y minería;33;Minería no metalífera;VAB;miles de pesos de 2018;2019;108.125.335
+3;Industria manufacturera;34;Equipos y aparatos eléctricos;VAB;miles de pesos de 2018;2019;34.582.667
+3;Industria manufacturera;35;Automotriz y autopartista;VAB;miles de pesos de 2018;2019;250.679.479
+3;Industria manufacturera;36;Construcción;VAB;miles de pesos de 2018;2019;706.735.303
+3;Industria manufacturera;37;Medicamentos;VAB;miles de pesos de 2018;2019;60.074.636
+3;Industria manufacturera;38;Quimica básica;VAB;miles de pesos de 2018;2019;30.374.184
+3;Industria manufacturera;39;Forestal, papel y muebles;VAB;miles de pesos de 2018;2019;135.777.914
+3;Industria manufacturera;40;Siderurgia;VAB;miles de pesos de 2018;2019;80.430.159
+3;Industria manufacturera;41;Aluminio;VAB;miles de pesos de 2018;2019;28.570.919
+3;Industria manufacturera;42;Maquinaria agrícola;VAB;miles de pesos de 2018;2019;24.802.258
+3;Industria manufacturera;43;Plástica;VAB;miles de pesos de 2018;2019;90.720.068
+3;Industria manufacturera;44;Cuero, marroquinería y calzado;VAB;miles de pesos de 2018;2019;19.349.645
+3;Industria manufacturera;45;Agroquímica;VAB;miles de pesos de 2018;2019;21.268.144
+3;Industria manufacturera;46;Equipamiento médico;VAB;miles de pesos de 2018;2019;8.499.497
+2;Energía y minería;47;Energía eléctrica;VAB;miles de pesos de 2018;2019;196.434.974
+3;Industria manufacturera;48;Aparatos de uso doméstico;VAB;miles de pesos de 2018;2019;14.662.360
+3;Industria manufacturera;49;Bienes de capital;VAB;miles de pesos de 2018;2019;155.330.204
+3;Industria manufacturera;50;Químicos de consumo;VAB;miles de pesos de 2018;2019;33.609.927
+3;Industria manufacturera;51;Caucho;VAB;miles de pesos de 2018;2019;21.239.147
+3;Industria manufacturera;52;Electrónica;VAB;miles de pesos de 2018;2019;16.735.477
+5;Servicios;53;Servicios empresariales;VAB;miles de pesos de 2018;2019;279.109.353
+5;Servicios;54;Comercio;VAB;miles de pesos de 2018;2019;1.823.125.407
+5;Servicios;55;Industrias culturales;VAB;miles de pesos de 2018;2019;158.970.433
+5;Servicios;56;Investigación y desarrollo;VAB;miles de pesos de 2018;2019;31.845.029
+5;Servicios;57;Software y servicios informáticos;VAB;miles de pesos de 2018;2019;148.831.333
+5;Servicios;58;Telecomunicaciones;VAB;miles de pesos de 2018;2019;269.728.396
+5;Servicios;59;Turismo;VAB;miles de pesos de 2018;2019;331.587.168
+5;Servicios;60;Transporte y logística;VAB;miles de pesos de 2018;2019;393.244.107
+5;Servicios;61;Salud;VAB;miles de pesos de 2018;2019;733.693.882
+5;Servicios;62;Educación;VAB;miles de pesos de 2018;2019;777.905.447
+5;Servicios;63;Servicios financieros;VAB;miles de pesos de 2018;2019;452.765.269
+;Total Cadenas;;Total Cadenas;VAB;miles de pesos de 2018;2019;9.620.787.428
+;No asignado;99;No asignado;VAB;miles de pesos de 2018;2019;1.535.279.399
+;TOTAL (excluyendo Adm. Púb.);;TOTAL (excluyendo Adm. Púb.);VAB;miles de pesos de 2018;2019;11.156.066.827
+1;Agroindustriales;1;Algodón textil;VAB;miles de pesos de 2018;2020;71.954.215
+1;Agroindustriales;2;Apícola;VAB;miles de pesos de 2018;2020;4.005.611
+1;Agroindustriales;3;Azucarera;VAB;miles de pesos de 2018;2020;29.517.683
+1;Agroindustriales;4;Avícola;VAB;miles de pesos de 2018;2020;77.438.219
+1;Agroindustriales;5;Porcina;VAB;miles de pesos de 2018;2020;48.180.363
+1;Agroindustriales;6;Bovina;VAB;miles de pesos de 2018;2020;123.482.706
+1;Agroindustriales;7;Arrocera;VAB;miles de pesos de 2018;2020;19.894.605
+1;Agroindustriales;8;Maicera;VAB;miles de pesos de 2018;2020;105.389.945
+1;Agroindustriales;9;Triguera;VAB;miles de pesos de 2018;2020;145.244.130
+1;Agroindustriales;10;Cítricos dulces;VAB;miles de pesos de 2018;2020;6.619.263
+1;Agroindustriales;11;Fruta de carozo;VAB;miles de pesos de 2018;2020;2.219.709
+1;Agroindustriales;12;Láctea;VAB;miles de pesos de 2018;2020;109.824.312
+1;Agroindustriales;13;Legumbres;VAB;miles de pesos de 2018;2020;30.810.191
+1;Agroindustriales;14;Limón;VAB;miles de pesos de 2018;2020;10.174.304
+1;Agroindustriales;15;Peras y manzanas;VAB;miles de pesos de 2018;2020;53.197.921
+1;Agroindustriales;16;Sojera;VAB;miles de pesos de 2018;2020;316.271.744
+1;Agroindustriales;17;Girasol;VAB;miles de pesos de 2018;2020;31.727.256
+1;Agroindustriales;18;Caprina;VAB;miles de pesos de 2018;2020;298.601
+1;Agroindustriales;19;Ovina;VAB;miles de pesos de 2018;2020;5.990.744
+1;Agroindustriales;20;Pesca;VAB;miles de pesos de 2018;2020;67.548.830
+1;Agroindustriales;21;Tabacalera;VAB;miles de pesos de 2018;2020;16.646.495
+1;Agroindustriales;22;Tealera;VAB;miles de pesos de 2018;2020;982.352
+1;Agroindustriales;23;Vitivinícola;VAB;miles de pesos de 2018;2020;72.164.192
+1;Agroindustriales;24;Yerba mate;VAB;miles de pesos de 2018;2020;45.889.424
+1;Agroindustriales;25;Frutas finas;VAB;miles de pesos de 2018;2020;6.119.011
+1;Agroindustriales;26;Cebada;VAB;miles de pesos de 2018;2020;32.215.653
+1;Agroindustriales;27;Hortícola;VAB;miles de pesos de 2018;2020;8.285.793
+1;Agroindustriales;28;Maní;VAB;miles de pesos de 2018;2020;25.936.613
+1;Agroindustriales;29;Olivícola;VAB;miles de pesos de 2018;2020;8.985.586
+1;Agroindustriales;30;Sorgo;VAB;miles de pesos de 2018;2020;1.643.075
+2;Energía y minería;31;Hidrocarburos;VAB;miles de pesos de 2018;2020;531.342.749
+2;Energía y minería;32;Minería metalífera;VAB;miles de pesos de 2018;2020;53.154.069
+2;Energía y minería;33;Minería no metalífera;VAB;miles de pesos de 2018;2020;97.631.005
+3;Industria manufacturera;34;Equipos y aparatos eléctricos;VAB;miles de pesos de 2018;2020;34.166.712
+3;Industria manufacturera;35;Automotriz y autopartista;VAB;miles de pesos de 2018;2020;225.358.028
+3;Industria manufacturera;36;Construcción;VAB;miles de pesos de 2018;2020;580.897.518
+3;Industria manufacturera;37;Medicamentos;VAB;miles de pesos de 2018;2020;60.330.457
+3;Industria manufacturera;38;Quimica básica;VAB;miles de pesos de 2018;2020;28.779.710
+3;Industria manufacturera;39;Forestal, papel y muebles;VAB;miles de pesos de 2018;2020;134.251.950
+3;Industria manufacturera;40;Siderurgia;VAB;miles de pesos de 2018;2020;67.010.743
+3;Industria manufacturera;41;Aluminio;VAB;miles de pesos de 2018;2020;20.360.879
+3;Industria manufacturera;42;Maquinaria agrícola;VAB;miles de pesos de 2018;2020;35.731.929
+3;Industria manufacturera;43;Plástica;VAB;miles de pesos de 2018;2020;88.507.620
+3;Industria manufacturera;44;Cuero, marroquinería y calzado;VAB;miles de pesos de 2018;2020;12.988.139
+3;Industria manufacturera;45;Agroquímica;VAB;miles de pesos de 2018;2020;19.397.642
+3;Industria manufacturera;46;Equipamiento médico;VAB;miles de pesos de 2018;2020;7.528.846
+2;Energía y minería;47;Energía eléctrica;VAB;miles de pesos de 2018;2020;197.595.901
+3;Industria manufacturera;48;Aparatos de uso doméstico;VAB;miles de pesos de 2018;2020;14.311.856
+3;Industria manufacturera;49;Bienes de capital;VAB;miles de pesos de 2018;2020;126.783.688
+3;Industria manufacturera;50;Químicos de consumo;VAB;miles de pesos de 2018;2020;35.757.901
+3;Industria manufacturera;51;Caucho;VAB;miles de pesos de 2018;2020;18.429.246
+3;Industria manufacturera;52;Electrónica;VAB;miles de pesos de 2018;2020;18.548.063
+5;Servicios;53;Servicios empresariales;VAB;miles de pesos de 2018;2020;270.405.833
+5;Servicios;54;Comercio;VAB;miles de pesos de 2018;2020;1.723.075.749
+5;Servicios;55;Industrias culturales;VAB;miles de pesos de 2018;2020;123.107.967
+5;Servicios;56;Investigación y desarrollo;VAB;miles de pesos de 2018;2020;32.473.844
+5;Servicios;57;Software y servicios informáticos;VAB;miles de pesos de 2018;2020;155.179.764
+5;Servicios;58;Telecomunicaciones;VAB;miles de pesos de 2018;2020;261.280.389
+5;Servicios;59;Turismo;VAB;miles de pesos de 2018;2020;188.115.097
+5;Servicios;60;Transporte y logística;VAB;miles de pesos de 2018;2020;377.407.867
+5;Servicios;61;Salud;VAB;miles de pesos de 2018;2020;660.150.641
+5;Servicios;62;Educación;VAB;miles de pesos de 2018;2020;741.521.187
+5;Servicios;63;Servicios financieros;VAB;miles de pesos de 2018;2020;448.542.512
+;Total Cadenas;;Total Cadenas;VAB;miles de pesos de 2018;2020;8.868.784.047
+;No asignado;99;No asignado;VAB;miles de pesos de 2018;2020;1.415.275.157
+;TOTAL (excluyendo Adm. Púb.);;TOTAL (excluyendo Adm. Púb.);VAB;miles de pesos de 2018;2020;10.284.059.204
+1;Agroindustriales;1;Algodón textil;VAB;miles de pesos de 2018;2021;87.854.729
+1;Agroindustriales;2;Apícola;VAB;miles de pesos de 2018;2021;5.170.204
+1;Agroindustriales;3;Azucarera;VAB;miles de pesos de 2018;2021;30.548.826
+1;Agroindustriales;4;Avícola;VAB;miles de pesos de 2018;2021;76.688.992
+1;Agroindustriales;5;Porcina;VAB;miles de pesos de 2018;2021;51.444.357
+1;Agroindustriales;6;Bovina;VAB;miles de pesos de 2018;2021;118.816.190
+1;Agroindustriales;7;Arrocera;VAB;miles de pesos de 2018;2021;21.608.914
+1;Agroindustriales;8;Maicera;VAB;miles de pesos de 2018;2021;109.844.738
+1;Agroindustriales;9;Triguera;VAB;miles de pesos de 2018;2021;147.329.521
+1;Agroindustriales;10;Cítricos dulces;VAB;miles de pesos de 2018;2021;6.986.184
+1;Agroindustriales;11;Fruta de carozo;VAB;miles de pesos de 2018;2021;3.071.233
+1;Agroindustriales;12;Láctea;VAB;miles de pesos de 2018;2021;102.043.947
+1;Agroindustriales;13;Legumbres;VAB;miles de pesos de 2018;2021;36.882.903
+1;Agroindustriales;14;Limón;VAB;miles de pesos de 2018;2021;10.476.533
+1;Agroindustriales;15;Peras y manzanas;VAB;miles de pesos de 2018;2021;55.300.765
+1;Agroindustriales;16;Sojera;VAB;miles de pesos de 2018;2021;320.644.339
+1;Agroindustriales;17;Girasol;VAB;miles de pesos de 2018;2021;36.508.777
+1;Agroindustriales;18;Caprina;VAB;miles de pesos de 2018;2021;272.216
+1;Agroindustriales;19;Ovina;VAB;miles de pesos de 2018;2021;7.527.049
+1;Agroindustriales;20;Pesca;VAB;miles de pesos de 2018;2021;72.405.642
+1;Agroindustriales;21;Tabacalera;VAB;miles de pesos de 2018;2021;19.680.552
+1;Agroindustriales;22;Tealera;VAB;miles de pesos de 2018;2021;1.085.366
+1;Agroindustriales;23;Vitivinícola;VAB;miles de pesos de 2018;2021;70.341.537
+1;Agroindustriales;24;Yerba mate;VAB;miles de pesos de 2018;2021;50.172.647
+1;Agroindustriales;25;Frutas finas;VAB;miles de pesos de 2018;2021;6.390.792
+1;Agroindustriales;26;Cebada;VAB;miles de pesos de 2018;2021;34.240.919
+1;Agroindustriales;27;Hortícola;VAB;miles de pesos de 2018;2021;8.693.387
+1;Agroindustriales;28;Maní;VAB;miles de pesos de 2018;2021;27.582.677
+1;Agroindustriales;29;Olivícola;VAB;miles de pesos de 2018;2021;9.348.422
+1;Agroindustriales;30;Sorgo;VAB;miles de pesos de 2018;2021;2.828.456
+2;Energía y minería;31;Hidrocarburos;VAB;miles de pesos de 2018;2021;579.394.581
+2;Energía y minería;32;Minería metalífera;VAB;miles de pesos de 2018;2021;59.671.500
+2;Energía y minería;33;Minería no metalífera;VAB;miles de pesos de 2018;2021;121.601.794
+3;Industria manufacturera;34;Equipos y aparatos eléctricos;VAB;miles de pesos de 2018;2021;35.073.351
+3;Industria manufacturera;35;Automotriz y autopartista;VAB;miles de pesos de 2018;2021;256.174.850
+3;Industria manufacturera;36;Construcción;VAB;miles de pesos de 2018;2021;725.789.132
+3;Industria manufacturera;37;Medicamentos;VAB;miles de pesos de 2018;2021;61.970.173
+3;Industria manufacturera;38;Quimica básica;VAB;miles de pesos de 2018;2021;33.729.442
+3;Industria manufacturera;39;Forestal, papel y muebles;VAB;miles de pesos de 2018;2021;152.010.744
+3;Industria manufacturera;40;Siderurgia;VAB;miles de pesos de 2018;2021;89.777.548
+3;Industria manufacturera;41;Aluminio;VAB;miles de pesos de 2018;2021;22.255.211
+3;Industria manufacturera;42;Maquinaria agrícola;VAB;miles de pesos de 2018;2021;52.841.689
+3;Industria manufacturera;43;Plástica;VAB;miles de pesos de 2018;2021;100.666.658
+3;Industria manufacturera;44;Cuero, marroquinería y calzado;VAB;miles de pesos de 2018;2021;20.593.767
+3;Industria manufacturera;45;Agroquímica;VAB;miles de pesos de 2018;2021;19.988.721
+3;Industria manufacturera;46;Equipamiento médico;VAB;miles de pesos de 2018;2021;8.594.074
+2;Energía y minería;47;Energía eléctrica;VAB;miles de pesos de 2018;2021;216.506.393
+3;Industria manufacturera;48;Aparatos de uso doméstico;VAB;miles de pesos de 2018;2021;19.906.490
+3;Industria manufacturera;49;Bienes de capital;VAB;miles de pesos de 2018;2021;142.326.917
+3;Industria manufacturera;50;Químicos de consumo;VAB;miles de pesos de 2018;2021;38.779.585
+3;Industria manufacturera;51;Caucho;VAB;miles de pesos de 2018;2021;23.198.080
+3;Industria manufacturera;52;Electrónica;VAB;miles de pesos de 2018;2021;21.364.216
+5;Servicios;53;Servicios empresariales;VAB;miles de pesos de 2018;2021;277.370.650
+5;Servicios;54;Comercio;VAB;miles de pesos de 2018;2021;1.988.054.200
+5;Servicios;55;Industrias culturales;VAB;miles de pesos de 2018;2021;146.068.103
+5;Servicios;56;Investigación y desarrollo;VAB;miles de pesos de 2018;2021;35.630.173
+5;Servicios;57;Software y servicios informáticos;VAB;miles de pesos de 2018;2021;162.024.022
+5;Servicios;58;Telecomunicaciones;VAB;miles de pesos de 2018;2021;268.019.881
+5;Servicios;59;Turismo;VAB;miles de pesos de 2018;2021;215.297.099
+5;Servicios;60;Transporte y logística;VAB;miles de pesos de 2018;2021;370.571.548
+5;Servicios;61;Salud;VAB;miles de pesos de 2018;2021;738.492.529
+5;Servicios;62;Educación;VAB;miles de pesos de 2018;2021;779.687.944
+5;Servicios;63;Servicios financieros;VAB;miles de pesos de 2018;2021;453.896.338
+;Total Cadenas;;Total Cadenas;VAB;miles de pesos de 2018;2021;9.769.118.220
+;No asignado;99;No asignado;VAB;miles de pesos de 2018;2021;1.558.949.936
+;TOTAL (excluyendo Adm. Púb.);;TOTAL (excluyendo Adm. Púb.);VAB;miles de pesos de 2018;2021;11.328.068.156
+1;Agroindustriales;1;Algodón textil;VAB;%;2018;0,8
+1;Agroindustriales;2;Apícola;VAB;%;2018;0
+1;Agroindustriales;3;Azucarera;VAB;%;2018;0,3
+1;Agroindustriales;4;Avícola;VAB;%;2018;0,6
+1;Agroindustriales;5;Porcina;VAB;%;2018;0,4
+1;Agroindustriales;6;Bovina;VAB;%;2018;1,1
+1;Agroindustriales;7;Arrocera;VAB;%;2018;0,2
+1;Agroindustriales;8;Maicera;VAB;%;2018;0,7
+1;Agroindustriales;9;Triguera;VAB;%;2018;1,2
+1;Agroindustriales;10;Cítricos dulces;VAB;%;2018;0,1
+1;Agroindustriales;11;Fruta de carozo;VAB;%;2018;0
+1;Agroindustriales;12;Láctea;VAB;%;2018;1,1
+1;Agroindustriales;13;Legumbres;VAB;%;2018;0,2
+1;Agroindustriales;14;Limón;VAB;%;2018;0,1
+1;Agroindustriales;15;Peras y manzanas;VAB;%;2018;0,5
+1;Agroindustriales;16;Sojera;VAB;%;2018;2,4
+1;Agroindustriales;17;Girasol;VAB;%;2018;0,3
+1;Agroindustriales;18;Caprina;VAB;%;2018;0
+1;Agroindustriales;19;Ovina;VAB;%;2018;0,1
+1;Agroindustriales;20;Pesca;VAB;%;2018;0,6
+1;Agroindustriales;21;Tabacalera;VAB;%;2018;0,1
+1;Agroindustriales;22;Tealera;VAB;%;2018;0
+1;Agroindustriales;23;Vitivinícola;VAB;%;2018;0,6
+1;Agroindustriales;24;Yerba mate;VAB;%;2018;0,4
+1;Agroindustriales;25;Frutas finas;VAB;%;2018;0,1
+1;Agroindustriales;26;Cebada;VAB;%;2018;0,3
+1;Agroindustriales;27;Hortícola;VAB;%;2018;0,1
+1;Agroindustriales;28;Maní;VAB;%;2018;0,2
+1;Agroindustriales;29;Olivícola;VAB;%;2018;0,1
+1;Agroindustriales;30;Sorgo;VAB;%;2018;0
+2;Energía y minería;31;Hidrocarburos;VAB;%;2018;5
+2;Energía y minería;32;Minería metalífera;VAB;%;2018;0,5
+2;Energía y minería;33;Minería no metalífera;VAB;%;2018;1
+3;Industria manufacturera;34;Equipos y aparatos eléctricos;VAB;%;2018;0,3
+3;Industria manufacturera;35;Automotriz y autopartista;VAB;%;2018;2,5
+3;Industria manufacturera;36;Construcción;VAB;%;2018;6,4
+3;Industria manufacturera;37;Medicamentos;VAB;%;2018;0,5
+3;Industria manufacturera;38;Quimica básica;VAB;%;2018;0,3
+3;Industria manufacturera;39;Forestal, papel y muebles;VAB;%;2018;1,2
+3;Industria manufacturera;40;Siderurgia;VAB;%;2018;0,8
+3;Industria manufacturera;41;Aluminio;VAB;%;2018;0,3
+3;Industria manufacturera;42;Maquinaria agrícola;VAB;%;2018;0,3
+3;Industria manufacturera;43;Plástica;VAB;%;2018;0,9
+3;Industria manufacturera;44;Cuero, marroquinería y calzado;VAB;%;2018;0,2
+3;Industria manufacturera;45;Agroquímica;VAB;%;2018;0,2
+3;Industria manufacturera;46;Equipamiento médico;VAB;%;2018;0,1
+2;Energía y minería;47;Energía eléctrica;VAB;%;2018;1,8
+3;Industria manufacturera;48;Aparatos de uso doméstico;VAB;%;2018;0,1
+3;Industria manufacturera;49;Bienes de capital;VAB;%;2018;1,4
+3;Industria manufacturera;50;Químicos de consumo;VAB;%;2018;0,3
+3;Industria manufacturera;51;Caucho;VAB;%;2018;0,2
+3;Industria manufacturera;52;Electrónica;VAB;%;2018;0,2
+5;Servicios;53;Servicios empresariales;VAB;%;2018;2,5
+5;Servicios;54;Comercio;VAB;%;2018;17,3
+5;Servicios;55;Industrias culturales;VAB;%;2018;1,4
+5;Servicios;56;Investigación y desarrollo;VAB;%;2018;0,3
+5;Servicios;57;Software y servicios informáticos;VAB;%;2018;1,2
+5;Servicios;58;Telecomunicaciones;VAB;%;2018;2,4
+5;Servicios;59;Turismo;VAB;%;2018;2,9
+5;Servicios;60;Transporte y logística;VAB;%;2018;3,5
+5;Servicios;61;Salud;VAB;%;2018;6,4
+5;Servicios;62;Educación;VAB;%;2018;6,8
+5;Servicios;63;Servicios financieros;VAB;%;2018;4,5
+;Total Cadenas;;Total Cadenas;VAB;%;2018;86,2
+;No asignado;99;No asignado;VAB;%;2018;13,8
+;TOTAL (excluyendo Adm. Púb.);;TOTAL (excluyendo Adm. Púb.);VAB;%;2018;100
+1;Agroindustriales;1;Algodón textil;VBP;miles de pesos de 2018;2018;224.325.204
+1;Agroindustriales;2;Apícola;VBP;miles de pesos de 2018;2018;7.779.043
+1;Agroindustriales;3;Azucarera;VBP;miles de pesos de 2018;2018;111.549.549
+1;Agroindustriales;4;Avícola;VBP;miles de pesos de 2018;2018;185.828.175
+1;Agroindustriales;5;Porcina;VBP;miles de pesos de 2018;2018;173.266.663
+1;Agroindustriales;6;Bovina;VBP;miles de pesos de 2018;2018;397.335.764
+1;Agroindustriales;7;Arrocera;VBP;miles de pesos de 2018;2018;68.879.082
+1;Agroindustriales;8;Maicera;VBP;miles de pesos de 2018;2018;210.023.423
+1;Agroindustriales;9;Triguera;VBP;miles de pesos de 2018;2018;335.101.803
+1;Agroindustriales;10;Cítricos dulces;VBP;miles de pesos de 2018;2018;19.324.170
+1;Agroindustriales;11;Fruta de carozo;VBP;miles de pesos de 2018;2018;14.475.180
+1;Agroindustriales;12;Láctea;VBP;miles de pesos de 2018;2018;351.396.051
+1;Agroindustriales;13;Legumbres;VBP;miles de pesos de 2018;2018;57.899.769
+1;Agroindustriales;14;Limón;VBP;miles de pesos de 2018;2018;40.668.070
+1;Agroindustriales;15;Peras y manzanas;VBP;miles de pesos de 2018;2018;154.012.700
+1;Agroindustriales;16;Sojera;VBP;miles de pesos de 2018;2018;694.223.272
+1;Agroindustriales;17;Girasol;VBP;miles de pesos de 2018;2018;117.805.895
+1;Agroindustriales;18;Caprina;VBP;miles de pesos de 2018;2018;1.225.923
+1;Agroindustriales;19;Ovina;VBP;miles de pesos de 2018;2018;15.152.403
+1;Agroindustriales;20;Pesca;VBP;miles de pesos de 2018;2018;123.502.799
+1;Agroindustriales;21;Tabacalera;VBP;miles de pesos de 2018;2018;49.332.206
+1;Agroindustriales;22;Tealera;VBP;miles de pesos de 2018;2018;2.769.199
+1;Agroindustriales;23;Vitivinícola;VBP;miles de pesos de 2018;2018;148.274.454
+1;Agroindustriales;24;Yerba mate;VBP;miles de pesos de 2018;2018;128.165.259
+1;Agroindustriales;25;Frutas finas;VBP;miles de pesos de 2018;2018;16.522.517
+1;Agroindustriales;26;Cebada;VBP;miles de pesos de 2018;2018;83.112.784
+1;Agroindustriales;27;Hortícola;VBP;miles de pesos de 2018;2018;23.460.781
+1;Agroindustriales;28;Maní;VBP;miles de pesos de 2018;2018;59.469.502
+1;Agroindustriales;29;Olivícola;VBP;miles de pesos de 2018;2018;30.062.813
+1;Agroindustriales;30;Sorgo;VBP;miles de pesos de 2018;2018;3.822.330
+2;Energía y minería;31;Hidrocarburos;VBP;miles de pesos de 2018;2018;1.477.872.765
+2;Energía y minería;32;Minería metalífera;VBP;miles de pesos de 2018;2018;92.683.802
+2;Energía y minería;33;Minería no metalífera;VBP;miles de pesos de 2018;2018;227.746.022
+3;Industria manufacturera;34;Equipos y aparatos eléctricos;VBP;miles de pesos de 2018;2018;92.066.220
+3;Industria manufacturera;35;Automotriz y autopartista;VBP;miles de pesos de 2018;2018;737.569.391
+3;Industria manufacturera;36;Construcción;VBP;miles de pesos de 2018;2018;1.314.645.666
+3;Industria manufacturera;37;Medicamentos;VBP;miles de pesos de 2018;2018;170.875.461
+3;Industria manufacturera;38;Quimica básica;VBP;miles de pesos de 2018;2018;96.458.120
+3;Industria manufacturera;39;Forestal, papel y muebles;VBP;miles de pesos de 2018;2018;310.763.417
+3;Industria manufacturera;40;Siderurgia;VBP;miles de pesos de 2018;2018;222.397.383
+3;Industria manufacturera;41;Aluminio;VBP;miles de pesos de 2018;2018;78.095.083
+3;Industria manufacturera;42;Maquinaria agrícola;VBP;miles de pesos de 2018;2018;93.899.641
+3;Industria manufacturera;43;Plástica;VBP;miles de pesos de 2018;2018;320.510.940
+3;Industria manufacturera;44;Cuero, marroquinería y calzado;VBP;miles de pesos de 2018;2018;64.905.390
+3;Industria manufacturera;45;Agroquímica;VBP;miles de pesos de 2018;2018;51.265.217
+3;Industria manufacturera;46;Equipamiento médico;VBP;miles de pesos de 2018;2018;17.595.479
+2;Energía y minería;47;Energía eléctrica;VBP;miles de pesos de 2018;2018;537.196.653
+3;Industria manufacturera;48;Aparatos de uso doméstico;VBP;miles de pesos de 2018;2018;48.104.875
+3;Industria manufacturera;49;Bienes de capital;VBP;miles de pesos de 2018;2018;388.417.909
+3;Industria manufacturera;50;Químicos de consumo;VBP;miles de pesos de 2018;2018;106.797.162
+3;Industria manufacturera;51;Caucho;VBP;miles de pesos de 2018;2018;64.134.513
+3;Industria manufacturera;52;Electrónica;VBP;miles de pesos de 2018;2018;117.174.131
+5;Servicios;53;Servicios empresariales;VBP;miles de pesos de 2018;2018;951.474.583
+5;Servicios;54;Comercio;VBP;miles de pesos de 2018;2018;2.785.992.737
+5;Servicios;55;Industrias culturales;VBP;miles de pesos de 2018;2018;417.455.296
+5;Servicios;56;Investigación y desarrollo;VBP;miles de pesos de 2018;2018;43.583.913
+5;Servicios;57;Software y servicios informáticos;VBP;miles de pesos de 2018;2018;272.788.824
+5;Servicios;58;Telecomunicaciones;VBP;miles de pesos de 2018;2018;643.673.982
+5;Servicios;59;Turismo;VBP;miles de pesos de 2018;2018;956.662.422
+5;Servicios;60;Transporte y logística;VBP;miles de pesos de 2018;2018;1.037.416.718
+5;Servicios;61;Salud;VBP;miles de pesos de 2018;2018;1.148.322.889
+5;Servicios;62;Educación;VBP;miles de pesos de 2018;2018;919.465.802
+5;Servicios;63;Servicios financieros;VBP;miles de pesos de 2018;2018;876.425.962
+;Total Cadenas;;Total Cadenas;VBP;miles de pesos de 2018;2018;20.533.205.151
+;No asignado;99;No asignado;VBP;miles de pesos de 2018;2018;3.396.098.889
+;TOTAL (excluyendo Adm. Púb.);;TOTAL (excluyendo Adm. Púb.);VBP;miles de pesos de 2018;2018;23.929.304.040
+1;Agroindustriales;1;Algodón textil;VBP;%;2018;0,9
+1;Agroindustriales;2;Apícola;VBP;%;2018;0
+1;Agroindustriales;3;Azucarera;VBP;%;2018;0,5
+1;Agroindustriales;4;Avícola;VBP;%;2018;0,8
+1;Agroindustriales;5;Porcina;VBP;%;2018;0,7
+1;Agroindustriales;6;Bovina;VBP;%;2018;1,7
+1;Agroindustriales;7;Arrocera;VBP;%;2018;0,3
+1;Agroindustriales;8;Maicera;VBP;%;2018;0,9
+1;Agroindustriales;9;Triguera;VBP;%;2018;1,4
+1;Agroindustriales;10;Cítricos dulces;VBP;%;2018;0,1
+1;Agroindustriales;11;Fruta de carozo;VBP;%;2018;0,1
+1;Agroindustriales;12;Láctea;VBP;%;2018;1,5
+1;Agroindustriales;13;Legumbres;VBP;%;2018;0,2
+1;Agroindustriales;14;Limón;VBP;%;2018;0,2
+1;Agroindustriales;15;Peras y manzanas;VBP;%;2018;0,6
+1;Agroindustriales;16;Sojera;VBP;%;2018;2,9
+1;Agroindustriales;17;Girasol;VBP;%;2018;0,5
+1;Agroindustriales;18;Caprina;VBP;%;2018;0
+1;Agroindustriales;19;Ovina;VBP;%;2018;0,1
+1;Agroindustriales;20;Pesca;VBP;%;2018;0,5
+1;Agroindustriales;21;Tabacalera;VBP;%;2018;0,2
+1;Agroindustriales;22;Tealera;VBP;%;2018;0
+1;Agroindustriales;23;Vitivinícola;VBP;%;2018;0,6
+1;Agroindustriales;24;Yerba mate;VBP;%;2018;0,5
+1;Agroindustriales;25;Frutas finas;VBP;%;2018;0,1
+1;Agroindustriales;26;Cebada;VBP;%;2018;0,3
+1;Agroindustriales;27;Hortícola;VBP;%;2018;0,1
+1;Agroindustriales;28;Maní;VBP;%;2018;0,2
+1;Agroindustriales;29;Olivícola;VBP;%;2018;0,1
+1;Agroindustriales;30;Sorgo;VBP;%;2018;0
+2;Energía y minería;31;Hidrocarburos;VBP;%;2018;6,2
+2;Energía y minería;32;Minería metalífera;VBP;%;2018;0,4
+2;Energía y minería;33;Minería no metalífera;VBP;%;2018;1
+3;Industria manufacturera;34;Equipos y aparatos eléctricos;VBP;%;2018;0,4
+3;Industria manufacturera;35;Automotriz y autopartista;VBP;%;2018;3,1
+3;Industria manufacturera;36;Construcción;VBP;%;2018;5,5
+3;Industria manufacturera;37;Medicamentos;VBP;%;2018;0,7
+3;Industria manufacturera;38;Quimica básica;VBP;%;2018;0,4
+3;Industria manufacturera;39;Forestal, papel y muebles;VBP;%;2018;1,3
+3;Industria manufacturera;40;Siderurgia;VBP;%;2018;0,9
+3;Industria manufacturera;41;Aluminio;VBP;%;2018;0,3
+3;Industria manufacturera;42;Maquinaria agrícola;VBP;%;2018;0,4
+3;Industria manufacturera;43;Plástica;VBP;%;2018;1,3
+3;Industria manufacturera;44;Cuero, marroquinería y calzado;VBP;%;2018;0,3
+3;Industria manufacturera;45;Agroquímica;VBP;%;2018;0,2
+3;Industria manufacturera;46;Equipamiento médico;VBP;%;2018;0,1
+2;Energía y minería;47;Energía eléctrica;VBP;%;2018;2,2
+3;Industria manufacturera;48;Aparatos de uso doméstico;VBP;%;2018;0,2
+3;Industria manufacturera;49;Bienes de capital;VBP;%;2018;1,6
+3;Industria manufacturera;50;Químicos de consumo;VBP;%;2018;0,4
+3;Industria manufacturera;51;Caucho;VBP;%;2018;0,3
+3;Industria manufacturera;52;Electrónica;VBP;%;2018;0,5
+5;Servicios;53;Servicios empresariales;VBP;%;2018;4
+5;Servicios;54;Comercio;VBP;%;2018;11,6
+5;Servicios;55;Industrias culturales;VBP;%;2018;1,7
+5;Servicios;56;Investigación y desarrollo;VBP;%;2018;0,2
+5;Servicios;57;Software y servicios informáticos;VBP;%;2018;1,1
+5;Servicios;58;Telecomunicaciones;VBP;%;2018;2,7
+5;Servicios;59;Turismo;VBP;%;2018;4
+5;Servicios;60;Transporte y logística;VBP;%;2018;4,3
+5;Servicios;61;Salud;VBP;%;2018;4,8
+5;Servicios;62;Educación;VBP;%;2018;3,8
+5;Servicios;63;Servicios financieros;VBP;%;2018;3,7
+;Total Cadenas;;Total Cadenas;VBP;%;2018;85,8
+;No asignado;99;No asignado;VBP;%;2018;14,2
+;TOTAL (excluyendo Adm. Púb.);;TOTAL (excluyendo Adm. Púb.);VBP;%;2018;100
+1;Agroindustriales;1;Algodón textil;Empleo asalariado;puestos;2018;148.640
+1;Agroindustriales;2;Apícola;Empleo asalariado;puestos;2018;4.745
+1;Agroindustriales;3;Azucarera;Empleo asalariado;puestos;2018;37.750
+1;Agroindustriales;4;Avícola;Empleo asalariado;puestos;2018;86.207
+1;Agroindustriales;5;Porcina;Empleo asalariado;puestos;2018;66.200
+1;Agroindustriales;6;Bovina;Empleo asalariado;puestos;2018;174.794
+1;Agroindustriales;7;Arrocera;Empleo asalariado;puestos;2018;19.826
+1;Agroindustriales;8;Maicera;Empleo asalariado;puestos;2018;122.400
+1;Agroindustriales;9;Triguera;Empleo asalariado;puestos;2018;177.882
+1;Agroindustriales;10;Cítricos dulces;Empleo asalariado;puestos;2018;15.850
+1;Agroindustriales;11;Fruta de carozo;Empleo asalariado;puestos;2018;14.270
+1;Agroindustriales;12;Láctea;Empleo asalariado;puestos;2018;138.495
+1;Agroindustriales;13;Legumbres;Empleo asalariado;puestos;2018;36.312
+1;Agroindustriales;14;Limón;Empleo asalariado;puestos;2018;14.607
+1;Agroindustriales;15;Peras y manzanas;Empleo asalariado;puestos;2018;42.462
+1;Agroindustriales;16;Sojera;Empleo asalariado;puestos;2018;255.483
+1;Agroindustriales;17;Girasol;Empleo asalariado;puestos;2018;29.185
+1;Agroindustriales;18;Caprina;Empleo asalariado;puestos;2018;479
+1;Agroindustriales;19;Ovina;Empleo asalariado;puestos;2018;8.190
+1;Agroindustriales;20;Pesca;Empleo asalariado;puestos;2018;35.502
+1;Agroindustriales;21;Tabacalera;Empleo asalariado;puestos;2018;10.689
+1;Agroindustriales;22;Tealera;Empleo asalariado;puestos;2018;1.580
+1;Agroindustriales;23;Vitivinícola;Empleo asalariado;puestos;2018;54.935
+1;Agroindustriales;24;Yerba mate;Empleo asalariado;puestos;2018;66.989
+1;Agroindustriales;25;Frutas finas;Empleo asalariado;puestos;2018;13.399
+1;Agroindustriales;26;Cebada;Empleo asalariado;puestos;2018;22.017
+1;Agroindustriales;27;Hortícola;Empleo asalariado;puestos;2018;20.549
+1;Agroindustriales;28;Maní;Empleo asalariado;puestos;2018;27.155
+1;Agroindustriales;29;Olivícola;Empleo asalariado;puestos;2018;3.623
+1;Agroindustriales;30;Sorgo;Empleo asalariado;puestos;2018;2.259
+2;Energía y minería;31;Hidrocarburos;Empleo asalariado;puestos;2018;84.664
+2;Energía y minería;32;Minería metalífera;Empleo asalariado;puestos;2018;11.354
+2;Energía y minería;33;Minería no metalífera;Empleo asalariado;puestos;2018;64.249
+3;Industria manufacturera;34;Equipos y aparatos eléctricos;Empleo asalariado;puestos;2018;25.400
+3;Industria manufacturera;35;Automotriz y autopartista;Empleo asalariado;puestos;2018;140.303
+3;Industria manufacturera;36;Construcción;Empleo asalariado;puestos;2018;1.122.750
+3;Industria manufacturera;37;Medicamentos;Empleo asalariado;puestos;2018;41.603
+3;Industria manufacturera;38;Quimica básica;Empleo asalariado;puestos;2018;5.056
+3;Industria manufacturera;39;Forestal, papel y muebles;Empleo asalariado;puestos;2018;155.596
+3;Industria manufacturera;40;Siderurgia;Empleo asalariado;puestos;2018;26.511
+3;Industria manufacturera;41;Aluminio;Empleo asalariado;puestos;2018;2.766
+3;Industria manufacturera;42;Maquinaria agrícola;Empleo asalariado;puestos;2018;13.212
+3;Industria manufacturera;43;Plástica;Empleo asalariado;puestos;2018;64.478
+3;Industria manufacturera;44;Cuero, marroquinería y calzado;Empleo asalariado;puestos;2018;79.554
+3;Industria manufacturera;45;Agroquímica;Empleo asalariado;puestos;2018;10.504
+3;Industria manufacturera;46;Equipamiento médico;Empleo asalariado;puestos;2018;5.936
+2;Energía y minería;47;Energía eléctrica;Empleo asalariado;puestos;2018;81.876
+3;Industria manufacturera;48;Aparatos de uso doméstico;Empleo asalariado;puestos;2018;18.362
+3;Industria manufacturera;49;Bienes de capital;Empleo asalariado;puestos;2018;162.205
+3;Industria manufacturera;50;Químicos de consumo;Empleo asalariado;puestos;2018;19.734
+3;Industria manufacturera;51;Caucho;Empleo asalariado;puestos;2018;14.945
+3;Industria manufacturera;52;Electrónica;Empleo asalariado;puestos;2018;18.927
+5;Servicios;53;Servicios empresariales;Empleo asalariado;puestos;2018;654.521
+5;Servicios;54;Comercio;Empleo asalariado;puestos;2018;863.509
+5;Servicios;55;Industrias culturales;Empleo asalariado;puestos;2018;103.305
+5;Servicios;56;Investigación y desarrollo;Empleo asalariado;puestos;2018;7.090
+5;Servicios;57;Software y servicios informáticos;Empleo asalariado;puestos;2018;100.738
+5;Servicios;58;Telecomunicaciones;Empleo asalariado;puestos;2018;80.340
+5;Servicios;59;Turismo;Empleo asalariado;puestos;2018;527.031
+5;Servicios;60;Transporte y logística;Empleo asalariado;puestos;2018;775.682
+5;Servicios;61;Salud;Empleo asalariado;puestos;2018;1.053.355
+5;Servicios;62;Educación;Empleo asalariado;puestos;2018;2.091.766
+5;Servicios;63;Servicios financieros;Empleo asalariado;puestos;2018;283.095
+;Total Cadenas;;Total Cadenas;Empleo asalariado;puestos;2018;10.362.891
+;No asignado;99;No asignado;Empleo asalariado;puestos;2018;3.653.288
+;TOTAL (excluyendo Adm. Púb.);;TOTAL (excluyendo Adm. Púb.);Empleo asalariado;puestos;2018;14.016.179
+1;Agroindustriales;1;Algodón textil;Empleo asalariado;%;2018;1,1
+1;Agroindustriales;2;Apícola;Empleo asalariado;%;2018;0
+1;Agroindustriales;3;Azucarera;Empleo asalariado;%;2018;0,3
+1;Agroindustriales;4;Avícola;Empleo asalariado;%;2018;0,6
+1;Agroindustriales;5;Porcina;Empleo asalariado;%;2018;0,5
+1;Agroindustriales;6;Bovina;Empleo asalariado;%;2018;1,2
+1;Agroindustriales;7;Arrocera;Empleo asalariado;%;2018;0,1
+1;Agroindustriales;8;Maicera;Empleo asalariado;%;2018;0,9
+1;Agroindustriales;9;Triguera;Empleo asalariado;%;2018;1,3
+1;Agroindustriales;10;Cítricos dulces;Empleo asalariado;%;2018;0,1
+1;Agroindustriales;11;Fruta de carozo;Empleo asalariado;%;2018;0,1
+1;Agroindustriales;12;Láctea;Empleo asalariado;%;2018;1
+1;Agroindustriales;13;Legumbres;Empleo asalariado;%;2018;0,3
+1;Agroindustriales;14;Limón;Empleo asalariado;%;2018;0,1
+1;Agroindustriales;15;Peras y manzanas;Empleo asalariado;%;2018;0,3
+1;Agroindustriales;16;Sojera;Empleo asalariado;%;2018;1,8
+1;Agroindustriales;17;Girasol;Empleo asalariado;%;2018;0,2
+1;Agroindustriales;18;Caprina;Empleo asalariado;%;2018;0
+1;Agroindustriales;19;Ovina;Empleo asalariado;%;2018;0,1
+1;Agroindustriales;20;Pesca;Empleo asalariado;%;2018;0,3
+1;Agroindustriales;21;Tabacalera;Empleo asalariado;%;2018;0,1
+1;Agroindustriales;22;Tealera;Empleo asalariado;%;2018;0
+1;Agroindustriales;23;Vitivinícola;Empleo asalariado;%;2018;0,4
+1;Agroindustriales;24;Yerba mate;Empleo asalariado;%;2018;0,5
+1;Agroindustriales;25;Frutas finas;Empleo asalariado;%;2018;0,1
+1;Agroindustriales;26;Cebada;Empleo asalariado;%;2018;0,2
+1;Agroindustriales;27;Hortícola;Empleo asalariado;%;2018;0,1
+1;Agroindustriales;28;Maní;Empleo asalariado;%;2018;0,2
+1;Agroindustriales;29;Olivícola;Empleo asalariado;%;2018;0
+1;Agroindustriales;30;Sorgo;Empleo asalariado;%;2018;0
+2;Energía y minería;31;Hidrocarburos;Empleo asalariado;%;2018;0,6
+2;Energía y minería;32;Minería metalífera;Empleo asalariado;%;2018;0,1
+2;Energía y minería;33;Minería no metalífera;Empleo asalariado;%;2018;0,5
+3;Industria manufacturera;34;Equipos y aparatos eléctricos;Empleo asalariado;%;2018;0,2
+3;Industria manufacturera;35;Automotriz y autopartista;Empleo asalariado;%;2018;1
+3;Industria manufacturera;36;Construcción;Empleo asalariado;%;2018;8
+3;Industria manufacturera;37;Medicamentos;Empleo asalariado;%;2018;0,3
+3;Industria manufacturera;38;Quimica básica;Empleo asalariado;%;2018;0
+3;Industria manufacturera;39;Forestal, papel y muebles;Empleo asalariado;%;2018;1,1
+3;Industria manufacturera;40;Siderurgia;Empleo asalariado;%;2018;0,2
+3;Industria manufacturera;41;Aluminio;Empleo asalariado;%;2018;0
+3;Industria manufacturera;42;Maquinaria agrícola;Empleo asalariado;%;2018;0,1
+3;Industria manufacturera;43;Plástica;Empleo asalariado;%;2018;0,5
+3;Industria manufacturera;44;Cuero, marroquinería y calzado;Empleo asalariado;%;2018;0,6
+3;Industria manufacturera;45;Agroquímica;Empleo asalariado;%;2018;0,1
+3;Industria manufacturera;46;Equipamiento médico;Empleo asalariado;%;2018;0
+2;Energía y minería;47;Energía eléctrica;Empleo asalariado;%;2018;0,6
+3;Industria manufacturera;48;Aparatos de uso doméstico;Empleo asalariado;%;2018;0,1
+3;Industria manufacturera;49;Bienes de capital;Empleo asalariado;%;2018;1,2
+3;Industria manufacturera;50;Químicos de consumo;Empleo asalariado;%;2018;0,1
+3;Industria manufacturera;51;Caucho;Empleo asalariado;%;2018;0,1
+3;Industria manufacturera;52;Electrónica;Empleo asalariado;%;2018;0,1
+5;Servicios;53;Servicios empresariales;Empleo asalariado;%;2018;4,7
+5;Servicios;54;Comercio;Empleo asalariado;%;2018;6,2
+5;Servicios;55;Industrias culturales;Empleo asalariado;%;2018;0,7
+5;Servicios;56;Investigación y desarrollo;Empleo asalariado;%;2018;0,1
+5;Servicios;57;Software y servicios informáticos;Empleo asalariado;%;2018;0,7
+5;Servicios;58;Telecomunicaciones;Empleo asalariado;%;2018;0,6
+5;Servicios;59;Turismo;Empleo asalariado;%;2018;3,8
+5;Servicios;60;Transporte y logística;Empleo asalariado;%;2018;5,5
+5;Servicios;61;Salud;Empleo asalariado;%;2018;7,5
+5;Servicios;62;Educación;Empleo asalariado;%;2018;14,9
+5;Servicios;63;Servicios financieros;Empleo asalariado;%;2018;2
+;Total Cadenas;;Total Cadenas;Empleo asalariado;%;2018;73,9
+;No asignado;99;No asignado;Empleo asalariado;%;2018;26,1
+;TOTAL (excluyendo Adm. Púb.);;TOTAL (excluyendo Adm. Púb.);Empleo asalariado;%;2018;100
+1;Agroindustriales;1;Algodón textil;Empleo femenino asalariado, registrado y no registrado;puestos;2018;47.545
+1;Agroindustriales;2;Apícola;Empleo femenino asalariado, registrado y no registrado;puestos;2018;270
+1;Agroindustriales;3;Azucarera;Empleo femenino asalariado, registrado y no registrado;puestos;2018;5.849
+1;Agroindustriales;4;Avícola;Empleo femenino asalariado, registrado y no registrado;puestos;2018;6.261
+1;Agroindustriales;5;Porcina;Empleo femenino asalariado, registrado y no registrado;puestos;2018;5.024
+1;Agroindustriales;6;Bovina;Empleo femenino asalariado, registrado y no registrado;puestos;2018;12.402
+1;Agroindustriales;7;Arrocera;Empleo femenino asalariado, registrado y no registrado;puestos;2018;1.869
+1;Agroindustriales;8;Maicera;Empleo femenino asalariado, registrado y no registrado;puestos;2018;8.846
+1;Agroindustriales;9;Triguera;Empleo femenino asalariado, registrado y no registrado;puestos;2018;35.147
+1;Agroindustriales;10;Cítricos dulces;Empleo femenino asalariado, registrado y no registrado;puestos;2018;1.987
+1;Agroindustriales;11;Fruta de carozo;Empleo femenino asalariado, registrado y no registrado;puestos;2018;2.454
+1;Agroindustriales;12;Láctea;Empleo femenino asalariado, registrado y no registrado;puestos;2018;11.935
+1;Agroindustriales;13;Legumbres;Empleo femenino asalariado, registrado y no registrado;puestos;2018;3.019
+1;Agroindustriales;14;Limón;Empleo femenino asalariado, registrado y no registrado;puestos;2018;1.918
+1;Agroindustriales;15;Peras y manzanas;Empleo femenino asalariado, registrado y no registrado;puestos;2018;5.390
+1;Agroindustriales;16;Sojera;Empleo femenino asalariado, registrado y no registrado;puestos;2018;18.988
+1;Agroindustriales;17;Girasol;Empleo femenino asalariado, registrado y no registrado;puestos;2018;2.365
+1;Agroindustriales;18;Caprina;Empleo femenino asalariado, registrado y no registrado;puestos;2018;37
+1;Agroindustriales;19;Ovina;Empleo femenino asalariado, registrado y no registrado;puestos;2018;503
+1;Agroindustriales;20;Pesca;Empleo femenino asalariado, registrado y no registrado;puestos;2018;6.931
+1;Agroindustriales;21;Tabacalera;Empleo femenino asalariado, registrado y no registrado;puestos;2018;1.419
+1;Agroindustriales;22;Tealera;Empleo femenino asalariado, registrado y no registrado;puestos;2018;206
+1;Agroindustriales;23;Vitivinícola;Empleo femenino asalariado, registrado y no registrado;puestos;2018;6.757
+1;Agroindustriales;24;Yerba mate;Empleo femenino asalariado, registrado y no registrado;puestos;2018;11.900
+1;Agroindustriales;25;Frutas finas;Empleo femenino asalariado, registrado y no registrado;puestos;2018;1.562
+1;Agroindustriales;26;Cebada;Empleo femenino asalariado, registrado y no registrado;puestos;2018;2.175
+1;Agroindustriales;27;Hortícola;Empleo femenino asalariado, registrado y no registrado;puestos;2018;2.723
+1;Agroindustriales;28;Maní;Empleo femenino asalariado, registrado y no registrado;puestos;2018;1.876
+1;Agroindustriales;29;Olivícola;Empleo femenino asalariado, registrado y no registrado;puestos;2018;407
+1;Agroindustriales;30;Sorgo;Empleo femenino asalariado, registrado y no registrado;puestos;2018;164
+2;Energía y minería;31;Hidrocarburos;Empleo femenino asalariado, registrado y no registrado;puestos;2018;9.689
+2;Energía y minería;32;Minería metalífera;Empleo femenino asalariado, registrado y no registrado;puestos;2018;1.865
+2;Energía y minería;33;Minería no metalífera;Empleo femenino asalariado, registrado y no registrado;puestos;2018;5.433
+3;Industria manufacturera;34;Equipos y aparatos eléctricos;Empleo femenino asalariado, registrado y no registrado;puestos;2018;2.981
+3;Industria manufacturera;35;Automotriz y autopartista;Empleo femenino asalariado, registrado y no registrado;puestos;2018;13.540
+3;Industria manufacturera;36;Construcción;Empleo femenino asalariado, registrado y no registrado;puestos;2018;85.063
+3;Industria manufacturera;37;Medicamentos;Empleo femenino asalariado, registrado y no registrado;puestos;2018;14.625
+3;Industria manufacturera;38;Quimica básica;Empleo femenino asalariado, registrado y no registrado;puestos;2018;885
+3;Industria manufacturera;39;Forestal, papel y muebles;Empleo femenino asalariado, registrado y no registrado;puestos;2018;13.616
+3;Industria manufacturera;40;Siderurgia;Empleo femenino asalariado, registrado y no registrado;puestos;2018;2.619
+3;Industria manufacturera;41;Aluminio;Empleo femenino asalariado, registrado y no registrado;puestos;2018;251
+3;Industria manufacturera;42;Maquinaria agrícola;Empleo femenino asalariado, registrado y no registrado;puestos;2018;1.175
+3;Industria manufacturera;43;Plástica;Empleo femenino asalariado, registrado y no registrado;puestos;2018;8.560
+3;Industria manufacturera;44;Cuero, marroquinería y calzado;Empleo femenino asalariado, registrado y no registrado;puestos;2018;20.076
+3;Industria manufacturera;45;Agroquímica;Empleo femenino asalariado, registrado y no registrado;puestos;2018;1.975
+3;Industria manufacturera;46;Equipamiento médico;Empleo femenino asalariado, registrado y no registrado;puestos;2018;1.794
+2;Energía y minería;47;Energía eléctrica;Empleo femenino asalariado, registrado y no registrado;puestos;2018;11.894
+3;Industria manufacturera;48;Aparatos de uso doméstico;Empleo femenino asalariado, registrado y no registrado;puestos;2018;3.603
+3;Industria manufacturera;49;Bienes de capital;Empleo femenino asalariado, registrado y no registrado;puestos;2018;17.348
+3;Industria manufacturera;50;Químicos de consumo;Empleo femenino asalariado, registrado y no registrado;puestos;2018;7.119
+3;Industria manufacturera;51;Caucho;Empleo femenino asalariado, registrado y no registrado;puestos;2018;1.593
+3;Industria manufacturera;52;Electrónica;Empleo femenino asalariado, registrado y no registrado;puestos;2018;4.672
+5;Servicios;53;Servicios empresariales;Empleo femenino asalariado, registrado y no registrado;puestos;2018;230.706
+5;Servicios;54;Comercio;Empleo femenino asalariado, registrado y no registrado;puestos;2018;210.657
+5;Servicios;55;Industrias culturales;Empleo femenino asalariado, registrado y no registrado;puestos;2018;23.996
+5;Servicios;56;Investigación y desarrollo;Empleo femenino asalariado, registrado y no registrado;puestos;2018;3.727
+5;Servicios;57;Software y servicios informáticos;Empleo femenino asalariado, registrado y no registrado;puestos;2018;32.414
+5;Servicios;58;Telecomunicaciones;Empleo femenino asalariado, registrado y no registrado;puestos;2018;24.738
+5;Servicios;59;Turismo;Empleo femenino asalariado, registrado y no registrado;puestos;2018;181.243
+5;Servicios;60;Transporte y logística;Empleo femenino asalariado, registrado y no registrado;puestos;2018;70.989
+5;Servicios;61;Salud;Empleo femenino asalariado, registrado y no registrado;puestos;2018;360.931
+5;Servicios;62;Educación;Empleo femenino asalariado, registrado y no registrado;puestos;2018;1.479.579
+5;Servicios;63;Servicios financieros;Empleo femenino asalariado, registrado y no registrado;puestos;2018;131.662
+;Total Cadenas;;Total Cadenas;Empleo femenino asalariado, registrado y no registrado;puestos;2018;3.188.947
+;No asignado;99;No asignado;Empleo femenino asalariado, registrado y no registrado;puestos;2018;1.049.981
+;TOTAL (excluyendo Adm. Púb.);;TOTAL (excluyendo Adm. Púb.);Empleo femenino asalariado, registrado y no registrado;puestos;2018;4.238.928
+1;Agroindustriales;1;Algodón textil;Empleo femenino asalariado, registrado y no registrado;%;2018;1,1
+1;Agroindustriales;2;Apícola;Empleo femenino asalariado, registrado y no registrado;%;2018;0
+1;Agroindustriales;3;Azucarera;Empleo femenino asalariado, registrado y no registrado;%;2018;0,1
+1;Agroindustriales;4;Avícola;Empleo femenino asalariado, registrado y no registrado;%;2018;0,1
+1;Agroindustriales;5;Porcina;Empleo femenino asalariado, registrado y no registrado;%;2018;0,1
+1;Agroindustriales;6;Bovina;Empleo femenino asalariado, registrado y no registrado;%;2018;0,3
+1;Agroindustriales;7;Arrocera;Empleo femenino asalariado, registrado y no registrado;%;2018;0
+1;Agroindustriales;8;Maicera;Empleo femenino asalariado, registrado y no registrado;%;2018;0,2
+1;Agroindustriales;9;Triguera;Empleo femenino asalariado, registrado y no registrado;%;2018;0,8
+1;Agroindustriales;10;Cítricos dulces;Empleo femenino asalariado, registrado y no registrado;%;2018;0
+1;Agroindustriales;11;Fruta de carozo;Empleo femenino asalariado, registrado y no registrado;%;2018;0,1
+1;Agroindustriales;12;Láctea;Empleo femenino asalariado, registrado y no registrado;%;2018;0,3
+1;Agroindustriales;13;Legumbres;Empleo femenino asalariado, registrado y no registrado;%;2018;0,1
+1;Agroindustriales;14;Limón;Empleo femenino asalariado, registrado y no registrado;%;2018;0
+1;Agroindustriales;15;Peras y manzanas;Empleo femenino asalariado, registrado y no registrado;%;2018;0,1
+1;Agroindustriales;16;Sojera;Empleo femenino asalariado, registrado y no registrado;%;2018;0,4
+1;Agroindustriales;17;Girasol;Empleo femenino asalariado, registrado y no registrado;%;2018;0,1
+1;Agroindustriales;18;Caprina;Empleo femenino asalariado, registrado y no registrado;%;2018;0
+1;Agroindustriales;19;Ovina;Empleo femenino asalariado, registrado y no registrado;%;2018;0
+1;Agroindustriales;20;Pesca;Empleo femenino asalariado, registrado y no registrado;%;2018;0,2
+1;Agroindustriales;21;Tabacalera;Empleo femenino asalariado, registrado y no registrado;%;2018;0
+1;Agroindustriales;22;Tealera;Empleo femenino asalariado, registrado y no registrado;%;2018;0
+1;Agroindustriales;23;Vitivinícola;Empleo femenino asalariado, registrado y no registrado;%;2018;0,2
+1;Agroindustriales;24;Yerba mate;Empleo femenino asalariado, registrado y no registrado;%;2018;0,3
+1;Agroindustriales;25;Frutas finas;Empleo femenino asalariado, registrado y no registrado;%;2018;0
+1;Agroindustriales;26;Cebada;Empleo femenino asalariado, registrado y no registrado;%;2018;0,1
+1;Agroindustriales;27;Hortícola;Empleo femenino asalariado, registrado y no registrado;%;2018;0,1
+1;Agroindustriales;28;Maní;Empleo femenino asalariado, registrado y no registrado;%;2018;0
+1;Agroindustriales;29;Olivícola;Empleo femenino asalariado, registrado y no registrado;%;2018;0
+1;Agroindustriales;30;Sorgo;Empleo femenino asalariado, registrado y no registrado;%;2018;0
+2;Energía y minería;31;Hidrocarburos;Empleo femenino asalariado, registrado y no registrado;%;2018;0,2
+2;Energía y minería;32;Minería metalífera;Empleo femenino asalariado, registrado y no registrado;%;2018;0
+2;Energía y minería;33;Minería no metalífera;Empleo femenino asalariado, registrado y no registrado;%;2018;0,1
+3;Industria manufacturera;34;Equipos y aparatos eléctricos;Empleo femenino asalariado, registrado y no registrado;%;2018;0,1
+3;Industria manufacturera;35;Automotriz y autopartista;Empleo femenino asalariado, registrado y no registrado;%;2018;0,3
+3;Industria manufacturera;36;Construcción;Empleo femenino asalariado, registrado y no registrado;%;2018;2
+3;Industria manufacturera;37;Medicamentos;Empleo femenino asalariado, registrado y no registrado;%;2018;0,3
+3;Industria manufacturera;38;Quimica básica;Empleo femenino asalariado, registrado y no registrado;%;2018;0
+3;Industria manufacturera;39;Forestal, papel y muebles;Empleo femenino asalariado, registrado y no registrado;%;2018;0,3
+3;Industria manufacturera;40;Siderurgia;Empleo femenino asalariado, registrado y no registrado;%;2018;0,1
+3;Industria manufacturera;41;Aluminio;Empleo femenino asalariado, registrado y no registrado;%;2018;0
+3;Industria manufacturera;42;Maquinaria agrícola;Empleo femenino asalariado, registrado y no registrado;%;2018;0
+3;Industria manufacturera;43;Plástica;Empleo femenino asalariado, registrado y no registrado;%;2018;0,2
+3;Industria manufacturera;44;Cuero, marroquinería y calzado;Empleo femenino asalariado, registrado y no registrado;%;2018;0,5
+3;Industria manufacturera;45;Agroquímica;Empleo femenino asalariado, registrado y no registrado;%;2018;0
+3;Industria manufacturera;46;Equipamiento médico;Empleo femenino asalariado, registrado y no registrado;%;2018;0
+2;Energía y minería;47;Energía eléctrica;Empleo femenino asalariado, registrado y no registrado;%;2018;0,3
+3;Industria manufacturera;48;Aparatos de uso doméstico;Empleo femenino asalariado, registrado y no registrado;%;2018;0,1
+3;Industria manufacturera;49;Bienes de capital;Empleo femenino asalariado, registrado y no registrado;%;2018;0,4
+3;Industria manufacturera;50;Químicos de consumo;Empleo femenino asalariado, registrado y no registrado;%;2018;0,2
+3;Industria manufacturera;51;Caucho;Empleo femenino asalariado, registrado y no registrado;%;2018;0
+3;Industria manufacturera;52;Electrónica;Empleo femenino asalariado, registrado y no registrado;%;2018;0,1
+5;Servicios;53;Servicios empresariales;Empleo femenino asalariado, registrado y no registrado;%;2018;5,4
+5;Servicios;54;Comercio;Empleo femenino asalariado, registrado y no registrado;%;2018;5
+5;Servicios;55;Industrias culturales;Empleo femenino asalariado, registrado y no registrado;%;2018;0,6
+5;Servicios;56;Investigación y desarrollo;Empleo femenino asalariado, registrado y no registrado;%;2018;0,1
+5;Servicios;57;Software y servicios informáticos;Empleo femenino asalariado, registrado y no registrado;%;2018;0,8
+5;Servicios;58;Telecomunicaciones;Empleo femenino asalariado, registrado y no registrado;%;2018;0,6
+5;Servicios;59;Turismo;Empleo femenino asalariado, registrado y no registrado;%;2018;4,3
+5;Servicios;60;Transporte y logística;Empleo femenino asalariado, registrado y no registrado;%;2018;1,7
+5;Servicios;61;Salud;Empleo femenino asalariado, registrado y no registrado;%;2018;8,5
+5;Servicios;62;Educación;Empleo femenino asalariado, registrado y no registrado;%;2018;34,9
+5;Servicios;63;Servicios financieros;Empleo femenino asalariado, registrado y no registrado;%;2018;3,1
+;Total Cadenas;;Total Cadenas;Empleo femenino asalariado, registrado y no registrado;%;2018;75,2
+;No asignado;99;No asignado;Empleo femenino asalariado, registrado y no registrado;%;2018;24,8
+;TOTAL (excluyendo Adm. Púb.);;TOTAL (excluyendo Adm. Púb.);Empleo femenino asalariado, registrado y no registrado;%;2018;100
+1;Agroindustriales;1;Algodón textil;Asalariado femenino;%;2018;32
+1;Agroindustriales;2;Apícola;Asalariado femenino;%;2018;5,7
+1;Agroindustriales;3;Azucarera;Asalariado femenino;%;2018;15,5
+1;Agroindustriales;4;Avícola;Asalariado femenino;%;2018;7,3
+1;Agroindustriales;5;Porcina;Asalariado femenino;%;2018;7,6
+1;Agroindustriales;6;Bovina;Asalariado femenino;%;2018;7,1
+1;Agroindustriales;7;Arrocera;Asalariado femenino;%;2018;9,4
+1;Agroindustriales;8;Maicera;Asalariado femenino;%;2018;7,2
+1;Agroindustriales;9;Triguera;Asalariado femenino;%;2018;19,8
+1;Agroindustriales;10;Cítricos dulces;Asalariado femenino;%;2018;12,5
+1;Agroindustriales;11;Fruta de carozo;Asalariado femenino;%;2018;17,2
+1;Agroindustriales;12;Láctea;Asalariado femenino;%;2018;8,6
+1;Agroindustriales;13;Legumbres;Asalariado femenino;%;2018;8,3
+1;Agroindustriales;14;Limón;Asalariado femenino;%;2018;13,1
+1;Agroindustriales;15;Peras y manzanas;Asalariado femenino;%;2018;12,7
+1;Agroindustriales;16;Sojera;Asalariado femenino;%;2018;7,4
+1;Agroindustriales;17;Girasol;Asalariado femenino;%;2018;8,1
+1;Agroindustriales;18;Caprina;Asalariado femenino;%;2018;7,7
+1;Agroindustriales;19;Ovina;Asalariado femenino;%;2018;6,1
+1;Agroindustriales;20;Pesca;Asalariado femenino;%;2018;19,5
+1;Agroindustriales;21;Tabacalera;Asalariado femenino;%;2018;13,3
+1;Agroindustriales;22;Tealera;Asalariado femenino;%;2018;13
+1;Agroindustriales;23;Vitivinícola;Asalariado femenino;%;2018;12,3
+1;Agroindustriales;24;Yerba mate;Asalariado femenino;%;2018;17,8
+1;Agroindustriales;25;Frutas finas;Asalariado femenino;%;2018;11,7
+1;Agroindustriales;26;Cebada;Asalariado femenino;%;2018;9,9
+1;Agroindustriales;27;Hortícola;Asalariado femenino;%;2018;13,3
+1;Agroindustriales;28;Maní;Asalariado femenino;%;2018;6,9
+1;Agroindustriales;29;Olivícola;Asalariado femenino;%;2018;11,2
+1;Agroindustriales;30;Sorgo;Asalariado femenino;%;2018;7,3
+2;Energía y minería;31;Hidrocarburos;Asalariado femenino;%;2018;11,4
+2;Energía y minería;32;Minería metalífera;Asalariado femenino;%;2018;16,4
+2;Energía y minería;33;Minería no metalífera;Asalariado femenino;%;2018;8,5
+3;Industria manufacturera;34;Equipos y aparatos eléctricos;Asalariado femenino;%;2018;11,7
+3;Industria manufacturera;35;Automotriz y autopartista;Asalariado femenino;%;2018;9,7
+3;Industria manufacturera;36;Construcción;Asalariado femenino;%;2018;7,6
+3;Industria manufacturera;37;Medicamentos;Asalariado femenino;%;2018;35,2
+3;Industria manufacturera;38;Quimica básica;Asalariado femenino;%;2018;17,5
+3;Industria manufacturera;39;Forestal, papel y muebles;Asalariado femenino;%;2018;8,8
+3;Industria manufacturera;40;Siderurgia;Asalariado femenino;%;2018;9,9
+3;Industria manufacturera;41;Aluminio;Asalariado femenino;%;2018;9,1
+3;Industria manufacturera;42;Maquinaria agrícola;Asalariado femenino;%;2018;8,9
+3;Industria manufacturera;43;Plástica;Asalariado femenino;%;2018;13,3
+3;Industria manufacturera;44;Cuero, marroquinería y calzado;Asalariado femenino;%;2018;25,2
+3;Industria manufacturera;45;Agroquímica;Asalariado femenino;%;2018;18,8
+3;Industria manufacturera;46;Equipamiento médico;Asalariado femenino;%;2018;30,2
+2;Energía y minería;47;Energía eléctrica;Asalariado femenino;%;2018;14,5
+3;Industria manufacturera;48;Aparatos de uso doméstico;Asalariado femenino;%;2018;19,6
+3;Industria manufacturera;49;Bienes de capital;Asalariado femenino;%;2018;10,7
+3;Industria manufacturera;50;Químicos de consumo;Asalariado femenino;%;2018;36,1
+3;Industria manufacturera;51;Caucho;Asalariado femenino;%;2018;10,7
+3;Industria manufacturera;52;Electrónica;Asalariado femenino;%;2018;24,7
+5;Servicios;53;Servicios empresariales;Asalariado femenino;%;2018;35,2
+5;Servicios;54;Comercio;Asalariado femenino;%;2018;24,4
+5;Servicios;55;Industrias culturales;Asalariado femenino;%;2018;23,2
+5;Servicios;56;Investigación y desarrollo;Asalariado femenino;%;2018;52,6
+5;Servicios;57;Software y servicios informáticos;Asalariado femenino;%;2018;32,2
+5;Servicios;58;Telecomunicaciones;Asalariado femenino;%;2018;30,8
+5;Servicios;59;Turismo;Asalariado femenino;%;2018;34,4
+5;Servicios;60;Transporte y logística;Asalariado femenino;%;2018;9,2
+5;Servicios;61;Salud;Asalariado femenino;%;2018;34,3
+5;Servicios;62;Educación;Asalariado femenino;%;2018;70,7
+5;Servicios;63;Servicios financieros;Asalariado femenino;%;2018;46,5
+;Total Cadenas;;Total Cadenas;Asalariado femenino;%;2018;30,8
+;No asignado;99;No asignado;Asalariado femenino;%;2018;28,7
+;TOTAL (excluyendo Adm. Púb.);;TOTAL (excluyendo Adm. Púb.);Asalariado femenino;%;2018;30,2
+1;Agroindustriales;1;Algodón textil;Empleo asalariado registrado;puestos;2018;95.090
+1;Agroindustriales;2;Apícola;Empleo asalariado registrado;puestos;2018;1.789
+1;Agroindustriales;3;Azucarera;Empleo asalariado registrado;puestos;2018;22.901
+1;Agroindustriales;4;Avícola;Empleo asalariado registrado;puestos;2018;37.234
+1;Agroindustriales;5;Porcina;Empleo asalariado registrado;puestos;2018;34.362
+1;Agroindustriales;6;Bovina;Empleo asalariado registrado;puestos;2018;83.069
+1;Agroindustriales;7;Arrocera;Empleo asalariado registrado;puestos;2018;9.985
+1;Agroindustriales;8;Maicera;Empleo asalariado registrado;puestos;2018;47.865
+1;Agroindustriales;9;Triguera;Empleo asalariado registrado;puestos;2018;89.243
+1;Agroindustriales;10;Cítricos dulces;Empleo asalariado registrado;puestos;2018;7.600
+1;Agroindustriales;11;Fruta de carozo;Empleo asalariado registrado;puestos;2018;8.019
+1;Agroindustriales;12;Láctea;Empleo asalariado registrado;puestos;2018;64.588
+1;Agroindustriales;13;Legumbres;Empleo asalariado registrado;puestos;2018;13.895
+1;Agroindustriales;14;Limón;Empleo asalariado registrado;puestos;2018;7.758
+1;Agroindustriales;15;Peras y manzanas;Empleo asalariado registrado;puestos;2018;31.737
+1;Agroindustriales;16;Sojera;Empleo asalariado registrado;puestos;2018;104.110
+1;Agroindustriales;17;Girasol;Empleo asalariado registrado;puestos;2018;12.536
+1;Agroindustriales;18;Caprina;Empleo asalariado registrado;puestos;2018;256
+1;Agroindustriales;19;Ovina;Empleo asalariado registrado;puestos;2018;3.389
+1;Agroindustriales;20;Pesca;Empleo asalariado registrado;puestos;2018;24.493
+1;Agroindustriales;21;Tabacalera;Empleo asalariado registrado;puestos;2018;7.185
+1;Agroindustriales;22;Tealera;Empleo asalariado registrado;puestos;2018;765
+1;Agroindustriales;23;Vitivinícola;Empleo asalariado registrado;puestos;2018;32.948
+1;Agroindustriales;24;Yerba mate;Empleo asalariado registrado;puestos;2018;37.877
+1;Agroindustriales;25;Frutas finas;Empleo asalariado registrado;puestos;2018;6.225
+1;Agroindustriales;26;Cebada;Empleo asalariado registrado;puestos;2018;13.390
+1;Agroindustriales;27;Hortícola;Empleo asalariado registrado;puestos;2018;10.136
+1;Agroindustriales;28;Maní;Empleo asalariado registrado;puestos;2018;10.703
+1;Agroindustriales;29;Olivícola;Empleo asalariado registrado;puestos;2018;1.935
+1;Agroindustriales;30;Sorgo;Empleo asalariado registrado;puestos;2018;891
+2;Energía y minería;31;Hidrocarburos;Empleo asalariado registrado;puestos;2018;75.277
+2;Energía y minería;32;Minería metalífera;Empleo asalariado registrado;puestos;2018;10.159
+2;Energía y minería;33;Minería no metalífera;Empleo asalariado registrado;puestos;2018;48.069
+3;Industria manufacturera;34;Equipos y aparatos eléctricos;Empleo asalariado registrado;puestos;2018;20.309
+3;Industria manufacturera;35;Automotriz y autopartista;Empleo asalariado registrado;puestos;2018;109.251
+3;Industria manufacturera;36;Construcción;Empleo asalariado registrado;puestos;2018;561.127
+3;Industria manufacturera;37;Medicamentos;Empleo asalariado registrado;puestos;2018;39.577
+3;Industria manufacturera;38;Quimica básica;Empleo asalariado registrado;puestos;2018;4.818
+3;Industria manufacturera;39;Forestal, papel y muebles;Empleo asalariado registrado;puestos;2018;87.910
+3;Industria manufacturera;40;Siderurgia;Empleo asalariado registrado;puestos;2018;23.962
+3;Industria manufacturera;41;Aluminio;Empleo asalariado registrado;puestos;2018;2.480
+3;Industria manufacturera;42;Maquinaria agrícola;Empleo asalariado registrado;puestos;2018;12.435
+3;Industria manufacturera;43;Plástica;Empleo asalariado registrado;puestos;2018;55.661
+3;Industria manufacturera;44;Cuero, marroquinería y calzado;Empleo asalariado registrado;puestos;2018;30.100
+3;Industria manufacturera;45;Agroquímica;Empleo asalariado registrado;puestos;2018;9.974
+3;Industria manufacturera;46;Equipamiento médico;Empleo asalariado registrado;puestos;2018;4.395
+2;Energía y minería;47;Energía eléctrica;Empleo asalariado registrado;puestos;2018;64.558
+3;Industria manufacturera;48;Aparatos de uso doméstico;Empleo asalariado registrado;puestos;2018;15.060
+3;Industria manufacturera;49;Bienes de capital;Empleo asalariado registrado;puestos;2018;140.271
+3;Industria manufacturera;50;Químicos de consumo;Empleo asalariado registrado;puestos;2018;18.769
+3;Industria manufacturera;51;Caucho;Empleo asalariado registrado;puestos;2018;12.906
+3;Industria manufacturera;52;Electrónica;Empleo asalariado registrado;puestos;2018;14.044
+5;Servicios;53;Servicios empresariales;Empleo asalariado registrado;puestos;2018;579.142
+5;Servicios;54;Comercio;Empleo asalariado registrado;puestos;2018;569.833
+5;Servicios;55;Industrias culturales;Empleo asalariado registrado;puestos;2018;60.542
+5;Servicios;56;Investigación y desarrollo;Empleo asalariado registrado;puestos;2018;7.058
+5;Servicios;57;Software y servicios informáticos;Empleo asalariado registrado;puestos;2018;99.280
+5;Servicios;58;Telecomunicaciones;Empleo asalariado registrado;puestos;2018;80.182
+5;Servicios;59;Turismo;Empleo asalariado registrado;puestos;2018;311.512
+5;Servicios;60;Transporte y logística;Empleo asalariado registrado;puestos;2018;490.452
+5;Servicios;61;Salud;Empleo asalariado registrado;puestos;2018;780.572
+5;Servicios;62;Educación;Empleo asalariado registrado;puestos;2018;1.975.897
+5;Servicios;63;Servicios financieros;Empleo asalariado registrado;puestos;2018;258.063
+;Total Cadenas;;Total Cadenas;Empleo asalariado registrado;puestos;2018;7.395.619
+;No asignado;99;No asignado;Empleo asalariado registrado;puestos;2018;1.789.878
+;TOTAL (excluyendo Adm. Púb.);;TOTAL (excluyendo Adm. Púb.);Empleo asalariado registrado;puestos;2018;9.185.497
+1;Agroindustriales;1;Algodón textil;Empleo asalariado registrado;%;2018;1
+1;Agroindustriales;2;Apícola;Empleo asalariado registrado;%;2018;0
+1;Agroindustriales;3;Azucarera;Empleo asalariado registrado;%;2018;0,2
+1;Agroindustriales;4;Avícola;Empleo asalariado registrado;%;2018;0,4
+1;Agroindustriales;5;Porcina;Empleo asalariado registrado;%;2018;0,4
+1;Agroindustriales;6;Bovina;Empleo asalariado registrado;%;2018;0,9
+1;Agroindustriales;7;Arrocera;Empleo asalariado registrado;%;2018;0,1
+1;Agroindustriales;8;Maicera;Empleo asalariado registrado;%;2018;0,5
+1;Agroindustriales;9;Triguera;Empleo asalariado registrado;%;2018;1
+1;Agroindustriales;10;Cítricos dulces;Empleo asalariado registrado;%;2018;0,1
+1;Agroindustriales;11;Fruta de carozo;Empleo asalariado registrado;%;2018;0,1
+1;Agroindustriales;12;Láctea;Empleo asalariado registrado;%;2018;0,7
+1;Agroindustriales;13;Legumbres;Empleo asalariado registrado;%;2018;0,2
+1;Agroindustriales;14;Limón;Empleo asalariado registrado;%;2018;0,1
+1;Agroindustriales;15;Peras y manzanas;Empleo asalariado registrado;%;2018;0,3
+1;Agroindustriales;16;Sojera;Empleo asalariado registrado;%;2018;1,1
+1;Agroindustriales;17;Girasol;Empleo asalariado registrado;%;2018;0,1
+1;Agroindustriales;18;Caprina;Empleo asalariado registrado;%;2018;0
+1;Agroindustriales;19;Ovina;Empleo asalariado registrado;%;2018;0
+1;Agroindustriales;20;Pesca;Empleo asalariado registrado;%;2018;0,3
+1;Agroindustriales;21;Tabacalera;Empleo asalariado registrado;%;2018;0,1
+1;Agroindustriales;22;Tealera;Empleo asalariado registrado;%;2018;0
+1;Agroindustriales;23;Vitivinícola;Empleo asalariado registrado;%;2018;0,4
+1;Agroindustriales;24;Yerba mate;Empleo asalariado registrado;%;2018;0,4
+1;Agroindustriales;25;Frutas finas;Empleo asalariado registrado;%;2018;0,1
+1;Agroindustriales;26;Cebada;Empleo asalariado registrado;%;2018;0,1
+1;Agroindustriales;27;Hortícola;Empleo asalariado registrado;%;2018;0,1
+1;Agroindustriales;28;Maní;Empleo asalariado registrado;%;2018;0,1
+1;Agroindustriales;29;Olivícola;Empleo asalariado registrado;%;2018;0
+1;Agroindustriales;30;Sorgo;Empleo asalariado registrado;%;2018;0
+2;Energía y minería;31;Hidrocarburos;Empleo asalariado registrado;%;2018;0,8
+2;Energía y minería;32;Minería metalífera;Empleo asalariado registrado;%;2018;0,1
+2;Energía y minería;33;Minería no metalífera;Empleo asalariado registrado;%;2018;0,5
+3;Industria manufacturera;34;Equipos y aparatos eléctricos;Empleo asalariado registrado;%;2018;0,2
+3;Industria manufacturera;35;Automotriz y autopartista;Empleo asalariado registrado;%;2018;1,2
+3;Industria manufacturera;36;Construcción;Empleo asalariado registrado;%;2018;6,1
+3;Industria manufacturera;37;Medicamentos;Empleo asalariado registrado;%;2018;0,4
+3;Industria manufacturera;38;Quimica básica;Empleo asalariado registrado;%;2018;0,1
+3;Industria manufacturera;39;Forestal, papel y muebles;Empleo asalariado registrado;%;2018;1
+3;Industria manufacturera;40;Siderurgia;Empleo asalariado registrado;%;2018;0,3
+3;Industria manufacturera;41;Aluminio;Empleo asalariado registrado;%;2018;0
+3;Industria manufacturera;42;Maquinaria agrícola;Empleo asalariado registrado;%;2018;0,1
+3;Industria manufacturera;43;Plástica;Empleo asalariado registrado;%;2018;0,6
+3;Industria manufacturera;44;Cuero, marroquinería y calzado;Empleo asalariado registrado;%;2018;0,3
+3;Industria manufacturera;45;Agroquímica;Empleo asalariado registrado;%;2018;0,1
+3;Industria manufacturera;46;Equipamiento médico;Empleo asalariado registrado;%;2018;0
+2;Energía y minería;47;Energía eléctrica;Empleo asalariado registrado;%;2018;0,7
+3;Industria manufacturera;48;Aparatos de uso doméstico;Empleo asalariado registrado;%;2018;0,2
+3;Industria manufacturera;49;Bienes de capital;Empleo asalariado registrado;%;2018;1,5
+3;Industria manufacturera;50;Químicos de consumo;Empleo asalariado registrado;%;2018;0,2
+3;Industria manufacturera;51;Caucho;Empleo asalariado registrado;%;2018;0,1
+3;Industria manufacturera;52;Electrónica;Empleo asalariado registrado;%;2018;0,2
+5;Servicios;53;Servicios empresariales;Empleo asalariado registrado;%;2018;6,3
+5;Servicios;54;Comercio;Empleo asalariado registrado;%;2018;6,2
+5;Servicios;55;Industrias culturales;Empleo asalariado registrado;%;2018;0,7
+5;Servicios;56;Investigación y desarrollo;Empleo asalariado registrado;%;2018;0,1
+5;Servicios;57;Software y servicios informáticos;Empleo asalariado registrado;%;2018;1,1
+5;Servicios;58;Telecomunicaciones;Empleo asalariado registrado;%;2018;0,9
+5;Servicios;59;Turismo;Empleo asalariado registrado;%;2018;3,4
+5;Servicios;60;Transporte y logística;Empleo asalariado registrado;%;2018;5,3
+5;Servicios;61;Salud;Empleo asalariado registrado;%;2018;8,5
+5;Servicios;62;Educación;Empleo asalariado registrado;%;2018;21,5
+5;Servicios;63;Servicios financieros;Empleo asalariado registrado;%;2018;2,8
+;Total Cadenas;;Total Cadenas;Empleo asalariado registrado;%;2018;80,5
+;No asignado;99;No asignado;Empleo asalariado registrado;%;2018;19,5
+;TOTAL (excluyendo Adm. Púb.);;TOTAL (excluyendo Adm. Púb.);Empleo asalariado registrado;%;2018;100
+1;Agroindustriales;1;Algodón textil;Informalidad asalariados;%;2018;36
+1;Agroindustriales;2;Apícola;Informalidad asalariados;%;2018;62,3
+1;Agroindustriales;3;Azucarera;Informalidad asalariados;%;2018;39,3
+1;Agroindustriales;4;Avícola;Informalidad asalariados;%;2018;56,8
+1;Agroindustriales;5;Porcina;Informalidad asalariados;%;2018;48,1
+1;Agroindustriales;6;Bovina;Informalidad asalariados;%;2018;52,5
+1;Agroindustriales;7;Arrocera;Informalidad asalariados;%;2018;49,6
+1;Agroindustriales;8;Maicera;Informalidad asalariados;%;2018;60,9
+1;Agroindustriales;9;Triguera;Informalidad asalariados;%;2018;49,8
+1;Agroindustriales;10;Cítricos dulces;Informalidad asalariados;%;2018;52,1
+1;Agroindustriales;11;Fruta de carozo;Informalidad asalariados;%;2018;43,8
+1;Agroindustriales;12;Láctea;Informalidad asalariados;%;2018;53,4
+1;Agroindustriales;13;Legumbres;Informalidad asalariados;%;2018;61,7
+1;Agroindustriales;14;Limón;Informalidad asalariados;%;2018;46,9
+1;Agroindustriales;15;Peras y manzanas;Informalidad asalariados;%;2018;25,3
+1;Agroindustriales;16;Sojera;Informalidad asalariados;%;2018;59,2
+1;Agroindustriales;17;Girasol;Informalidad asalariados;%;2018;57
+1;Agroindustriales;18;Caprina;Informalidad asalariados;%;2018;46,6
+1;Agroindustriales;19;Ovina;Informalidad asalariados;%;2018;58,6
+1;Agroindustriales;20;Pesca;Informalidad asalariados;%;2018;31
+1;Agroindustriales;21;Tabacalera;Informalidad asalariados;%;2018;32,8
+1;Agroindustriales;22;Tealera;Informalidad asalariados;%;2018;51,6
+1;Agroindustriales;23;Vitivinícola;Informalidad asalariados;%;2018;40
+1;Agroindustriales;24;Yerba mate;Informalidad asalariados;%;2018;43,5
+1;Agroindustriales;25;Frutas finas;Informalidad asalariados;%;2018;53,5
+1;Agroindustriales;26;Cebada;Informalidad asalariados;%;2018;39,2
+1;Agroindustriales;27;Hortícola;Informalidad asalariados;%;2018;50,7
+1;Agroindustriales;28;Maní;Informalidad asalariados;%;2018;60,6
+1;Agroindustriales;29;Olivícola;Informalidad asalariados;%;2018;46,6
+1;Agroindustriales;30;Sorgo;Informalidad asalariados;%;2018;60,6
+2;Energía y minería;31;Hidrocarburos;Informalidad asalariados;%;2018;11,1
+2;Energía y minería;32;Minería metalífera;Informalidad asalariados;%;2018;10,5
+2;Energía y minería;33;Minería no metalífera;Informalidad asalariados;%;2018;25,2
+3;Industria manufacturera;34;Equipos y aparatos eléctricos;Informalidad asalariados;%;2018;20
+3;Industria manufacturera;35;Automotriz y autopartista;Informalidad asalariados;%;2018;22,1
+3;Industria manufacturera;36;Construcción;Informalidad asalariados;%;2018;50
+3;Industria manufacturera;37;Medicamentos;Informalidad asalariados;%;2018;4,9
+3;Industria manufacturera;38;Quimica básica;Informalidad asalariados;%;2018;4,7
+3;Industria manufacturera;39;Forestal, papel y muebles;Informalidad asalariados;%;2018;43,5
+3;Industria manufacturera;40;Siderurgia;Informalidad asalariados;%;2018;9,6
+3;Industria manufacturera;41;Aluminio;Informalidad asalariados;%;2018;10,3
+3;Industria manufacturera;42;Maquinaria agrícola;Informalidad asalariados;%;2018;5,9
+3;Industria manufacturera;43;Plástica;Informalidad asalariados;%;2018;13,7
+3;Industria manufacturera;44;Cuero, marroquinería y calzado;Informalidad asalariados;%;2018;62,2
+3;Industria manufacturera;45;Agroquímica;Informalidad asalariados;%;2018;5
+3;Industria manufacturera;46;Equipamiento médico;Informalidad asalariados;%;2018;26
+2;Energía y minería;47;Energía eléctrica;Informalidad asalariados;%;2018;21,2
+3;Industria manufacturera;48;Aparatos de uso doméstico;Informalidad asalariados;%;2018;18
+3;Industria manufacturera;49;Bienes de capital;Informalidad asalariados;%;2018;13,5
+3;Industria manufacturera;50;Químicos de consumo;Informalidad asalariados;%;2018;4,9
+3;Industria manufacturera;51;Caucho;Informalidad asalariados;%;2018;13,6
+3;Industria manufacturera;52;Electrónica;Informalidad asalariados;%;2018;25,8
+5;Servicios;53;Servicios empresariales;Informalidad asalariados;%;2018;11,5
+5;Servicios;54;Comercio;Informalidad asalariados;%;2018;34
+5;Servicios;55;Industrias culturales;Informalidad asalariados;%;2018;41,4
+5;Servicios;56;Investigación y desarrollo;Informalidad asalariados;%;2018;0,5
+5;Servicios;57;Software y servicios informáticos;Informalidad asalariados;%;2018;1,4
+5;Servicios;58;Telecomunicaciones;Informalidad asalariados;%;2018;0,2
+5;Servicios;59;Turismo;Informalidad asalariados;%;2018;40,9
+5;Servicios;60;Transporte y logística;Informalidad asalariados;%;2018;36,8
+5;Servicios;61;Salud;Informalidad asalariados;%;2018;25,9
+5;Servicios;62;Educación;Informalidad asalariados;%;2018;5,5
+5;Servicios;63;Servicios financieros;Informalidad asalariados;%;2018;8,8
+;Total Cadenas;;Total Cadenas;Informalidad asalariados;%;2018;28,6
+;No asignado;99;No asignado;Informalidad asalariados;%;2018;51
+;TOTAL (excluyendo Adm. Púb.);;TOTAL (excluyendo Adm. Púb.);Informalidad asalariados;%;2018;34,5
+1;Agroindustriales;1;Algodón textil;Intensidad laboral relativa;%;2018;154,5
+1;Agroindustriales;2;Apícola;Intensidad laboral relativa;%;2018;127,2
+1;Agroindustriales;3;Azucarera;Intensidad laboral relativa;%;2018;114
+1;Agroindustriales;4;Avícola;Intensidad laboral relativa;%;2018;127,3
+1;Agroindustriales;5;Porcina;Intensidad laboral relativa;%;2018;146,9
+1;Agroindustriales;6;Bovina;Intensidad laboral relativa;%;2018;145,3
+1;Agroindustriales;7;Arrocera;Intensidad laboral relativa;%;2018;100
+1;Agroindustriales;8;Maicera;Intensidad laboral relativa;%;2018;163,2
+1;Agroindustriales;9;Triguera;Intensidad laboral relativa;%;2018;133,4
+1;Agroindustriales;10;Cítricos dulces;Intensidad laboral relativa;%;2018;224
+1;Agroindustriales;11;Fruta de carozo;Intensidad laboral relativa;%;2018;259,3
+1;Agroindustriales;12;Láctea;Intensidad laboral relativa;%;2018;114,6
+1;Agroindustriales;13;Legumbres;Intensidad laboral relativa;%;2018;167,6
+1;Agroindustriales;14;Limón;Intensidad laboral relativa;%;2018;109,4
+1;Agroindustriales;15;Peras y manzanas;Intensidad laboral relativa;%;2018;73,9
+1;Agroindustriales;16;Sojera;Intensidad laboral relativa;%;2018;96
+1;Agroindustriales;17;Girasol;Intensidad laboral relativa;%;2018;81,5
+1;Agroindustriales;18;Caprina;Intensidad laboral relativa;%;2018;158,4
+1;Agroindustriales;19;Ovina;Intensidad laboral relativa;%;2018;133,3
+1;Agroindustriales;20;Pesca;Intensidad laboral relativa;%;2018;48,6
+1;Agroindustriales;21;Tabacalera;Intensidad laboral relativa;%;2018;67,7
+1;Agroindustriales;22;Tealera;Intensidad laboral relativa;%;2018;154,5
+1;Agroindustriales;23;Vitivinícola;Intensidad laboral relativa;%;2018;87,2
+1;Agroindustriales;24;Yerba mate;Intensidad laboral relativa;%;2018;141,9
+1;Agroindustriales;25;Frutas finas;Intensidad laboral relativa;%;2018;220,5
+1;Agroindustriales;26;Cebada;Intensidad laboral relativa;%;2018;70,8
+1;Agroindustriales;27;Hortícola;Intensidad laboral relativa;%;2018;241,3
+1;Agroindustriales;28;Maní;Intensidad laboral relativa;%;2018;135,6
+1;Agroindustriales;29;Olivícola;Intensidad laboral relativa;%;2018;38,7
+1;Agroindustriales;30;Sorgo;Intensidad laboral relativa;%;2018;167,2
+2;Energía y minería;31;Hidrocarburos;Intensidad laboral relativa;%;2018;10,7
+2;Energía y minería;32;Minería metalífera;Intensidad laboral relativa;%;2018;12,9
+2;Energía y minería;33;Minería no metalífera;Intensidad laboral relativa;%;2018;52,3
+3;Industria manufacturera;34;Equipos y aparatos eléctricos;Intensidad laboral relativa;%;2018;70,8
+3;Industria manufacturera;35;Automotriz y autopartista;Intensidad laboral relativa;%;2018;54,8
+3;Industria manufacturera;36;Construcción;Intensidad laboral relativa;%;2018;184,9
+3;Industria manufacturera;37;Medicamentos;Intensidad laboral relativa;%;2018;66,2
+3;Industria manufacturera;38;Quimica básica;Intensidad laboral relativa;%;2018;16,6
+3;Industria manufacturera;39;Forestal, papel y muebles;Intensidad laboral relativa;%;2018;106,6
+3;Industria manufacturera;40;Siderurgia;Intensidad laboral relativa;%;2018;28,8
+3;Industria manufacturera;41;Aluminio;Intensidad laboral relativa;%;2018;9,2
+3;Industria manufacturera;42;Maquinaria agrícola;Intensidad laboral relativa;%;2018;37,2
+3;Industria manufacturera;43;Plástica;Intensidad laboral relativa;%;2018;63,6
+3;Industria manufacturera;44;Cuero, marroquinería y calzado;Intensidad laboral relativa;%;2018;370,8
+3;Industria manufacturera;45;Agroquímica;Intensidad laboral relativa;%;2018;47,8
+3;Industria manufacturera;46;Equipamiento médico;Intensidad laboral relativa;%;2018;66,4
+2;Energía y minería;47;Energía eléctrica;Intensidad laboral relativa;%;2018;29,9
+3;Industria manufacturera;48;Aparatos de uso doméstico;Intensidad laboral relativa;%;2018;107,4
+3;Industria manufacturera;49;Bienes de capital;Intensidad laboral relativa;%;2018;95,5
+3;Industria manufacturera;50;Químicos de consumo;Intensidad laboral relativa;%;2018;50,2
+3;Industria manufacturera;51;Caucho;Intensidad laboral relativa;%;2018;62,7
+3;Industria manufacturera;52;Electrónica;Intensidad laboral relativa;%;2018;91,5
+5;Servicios;53;Servicios empresariales;Intensidad laboral relativa;%;2018;230,2
+5;Servicios;54;Comercio;Intensidad laboral relativa;%;2018;55,7
+5;Servicios;55;Industrias culturales;Intensidad laboral relativa;%;2018;58,3
+5;Servicios;56;Investigación y desarrollo;Intensidad laboral relativa;%;2018;23,2
+5;Servicios;57;Software y servicios informáticos;Intensidad laboral relativa;%;2018;71,7
+5;Servicios;58;Telecomunicaciones;Intensidad laboral relativa;%;2018;26,9
+5;Servicios;59;Turismo;Intensidad laboral relativa;%;2018;148,4
+5;Servicios;60;Transporte y logística;Intensidad laboral relativa;%;2018;177,1
+5;Servicios;61;Salud;Intensidad laboral relativa;%;2018;122,7
+5;Servicios;62;Educación;Intensidad laboral relativa;%;2018;191,9
+5;Servicios;63;Servicios financieros;Intensidad laboral relativa;%;2018;41,4
+;Total Cadenas;;Total Cadenas;Intensidad laboral relativa;%;2018;100
+;No asignado;99;No asignado;Intensidad laboral relativa;%;2018;
+;TOTAL (excluyendo Adm. Púb.);;TOTAL (excluyendo Adm. Púb.);Intensidad laboral relativa;%;2018;
+1;Agroindustriales;1;Algodón textil;Empleo asalariado, no asalariado, registrado y no registrado;puestos;2018;208.478
+1;Agroindustriales;2;Apícola;Empleo asalariado, no asalariado, registrado y no registrado;puestos;2018;7.253
+1;Agroindustriales;3;Azucarera;Empleo asalariado, no asalariado, registrado y no registrado;puestos;2018;52.964
+1;Agroindustriales;4;Avícola;Empleo asalariado, no asalariado, registrado y no registrado;puestos;2018;129.017
+1;Agroindustriales;5;Porcina;Empleo asalariado, no asalariado, registrado y no registrado;puestos;2018;95.813
+1;Agroindustriales;6;Bovina;Empleo asalariado, no asalariado, registrado y no registrado;puestos;2018;257.411
+1;Agroindustriales;7;Arrocera;Empleo asalariado, no asalariado, registrado y no registrado;puestos;2018;28.859
+1;Agroindustriales;8;Maicera;Empleo asalariado, no asalariado, registrado y no registrado;puestos;2018;186.389
+1;Agroindustriales;9;Triguera;Empleo asalariado, no asalariado, registrado y no registrado;puestos;2018;256.958
+1;Agroindustriales;10;Cítricos dulces;Empleo asalariado, no asalariado, registrado y no registrado;puestos;2018;23.180
+1;Agroindustriales;11;Fruta de carozo;Empleo asalariado, no asalariado, registrado y no registrado;puestos;2018;20.080
+1;Agroindustriales;12;Láctea;Empleo asalariado, no asalariado, registrado y no registrado;puestos;2018;204.356
+1;Agroindustriales;13;Legumbres;Empleo asalariado, no asalariado, registrado y no registrado;puestos;2018;55.510
+1;Agroindustriales;14;Limón;Empleo asalariado, no asalariado, registrado y no registrado;puestos;2018;21.249
+1;Agroindustriales;15;Peras y manzanas;Empleo asalariado, no asalariado, registrado y no registrado;puestos;2018;60.702
+1;Agroindustriales;16;Sojera;Empleo asalariado, no asalariado, registrado y no registrado;puestos;2018;386.495
+1;Agroindustriales;17;Girasol;Empleo asalariado, no asalariado, registrado y no registrado;puestos;2018;43.758
+1;Agroindustriales;18;Caprina;Empleo asalariado, no asalariado, registrado y no registrado;puestos;2018;689
+1;Agroindustriales;19;Ovina;Empleo asalariado, no asalariado, registrado y no registrado;puestos;2018;12.347
+1;Agroindustriales;20;Pesca;Empleo asalariado, no asalariado, registrado y no registrado;puestos;2018;47.812
+1;Agroindustriales;21;Tabacalera;Empleo asalariado, no asalariado, registrado y no registrado;puestos;2018;15.593
+1;Agroindustriales;22;Tealera;Empleo asalariado, no asalariado, registrado y no registrado;puestos;2018;2.310
+1;Agroindustriales;23;Vitivinícola;Empleo asalariado, no asalariado, registrado y no registrado;puestos;2018;81.057
+1;Agroindustriales;24;Yerba mate;Empleo asalariado, no asalariado, registrado y no registrado;puestos;2018;94.362
+1;Agroindustriales;25;Frutas finas;Empleo asalariado, no asalariado, registrado y no registrado;puestos;2018;19.730
+1;Agroindustriales;26;Cebada;Empleo asalariado, no asalariado, registrado y no registrado;puestos;2018;32.451
+1;Agroindustriales;27;Hortícola;Empleo asalariado, no asalariado, registrado y no registrado;puestos;2018;29.861
+1;Agroindustriales;28;Maní;Empleo asalariado, no asalariado, registrado y no registrado;puestos;2018;41.284
+1;Agroindustriales;29;Olivícola;Empleo asalariado, no asalariado, registrado y no registrado;puestos;2018;5.193
+1;Agroindustriales;30;Sorgo;Empleo asalariado, no asalariado, registrado y no registrado;puestos;2018;3.434
+2;Energía y minería;31;Hidrocarburos;Empleo asalariado, no asalariado, registrado y no registrado;puestos;2018;88.735
+2;Energía y minería;32;Minería metalífera;Empleo asalariado, no asalariado, registrado y no registrado;puestos;2018;11.634
+2;Energía y minería;33;Minería no metalífera;Empleo asalariado, no asalariado, registrado y no registrado;puestos;2018;84.796
+3;Industria manufacturera;34;Equipos y aparatos eléctricos;Empleo asalariado, no asalariado, registrado y no registrado;puestos;2018;35.450
+3;Industria manufacturera;35;Automotriz y autopartista;Empleo asalariado, no asalariado, registrado y no registrado;puestos;2018;223.966
+3;Industria manufacturera;36;Construcción;Empleo asalariado, no asalariado, registrado y no registrado;puestos;2018;1.941.434
+3;Industria manufacturera;37;Medicamentos;Empleo asalariado, no asalariado, registrado y no registrado;puestos;2018;58.064
+3;Industria manufacturera;38;Quimica básica;Empleo asalariado, no asalariado, registrado y no registrado;puestos;2018;7.057
+3;Industria manufacturera;39;Forestal, papel y muebles;Empleo asalariado, no asalariado, registrado y no registrado;puestos;2018;218.433
+3;Industria manufacturera;40;Siderurgia;Empleo asalariado, no asalariado, registrado y no registrado;puestos;2018;37.001
+3;Industria manufacturera;41;Aluminio;Empleo asalariado, no asalariado, registrado y no registrado;puestos;2018;3.861
+3;Industria manufacturera;42;Maquinaria agrícola;Empleo asalariado, no asalariado, registrado y no registrado;puestos;2018;18.440
+3;Industria manufacturera;43;Plástica;Empleo asalariado, no asalariado, registrado y no registrado;puestos;2018;89.991
+3;Industria manufacturera;44;Cuero, marroquinería y calzado;Empleo asalariado, no asalariado, registrado y no registrado;puestos;2018;111.031
+3;Industria manufacturera;45;Agroquímica;Empleo asalariado, no asalariado, registrado y no registrado;puestos;2018;14.659
+3;Industria manufacturera;46;Equipamiento médico;Empleo asalariado, no asalariado, registrado y no registrado;puestos;2018;8.284
+2;Energía y minería;47;Energía eléctrica;Empleo asalariado, no asalariado, registrado y no registrado;puestos;2018;88.105
+3;Industria manufacturera;48;Aparatos de uso doméstico;Empleo asalariado, no asalariado, registrado y no registrado;puestos;2018;25.628
+3;Industria manufacturera;49;Bienes de capital;Empleo asalariado, no asalariado, registrado y no registrado;puestos;2018;226.386
+3;Industria manufacturera;50;Químicos de consumo;Empleo asalariado, no asalariado, registrado y no registrado;puestos;2018;27.542
+3;Industria manufacturera;51;Caucho;Empleo asalariado, no asalariado, registrado y no registrado;puestos;2018;20.858
+3;Industria manufacturera;52;Electrónica;Empleo asalariado, no asalariado, registrado y no registrado;puestos;2018;26.416
+5;Servicios;53;Servicios empresariales;Empleo asalariado, no asalariado, registrado y no registrado;puestos;2018;943.965
+5;Servicios;54;Comercio;Empleo asalariado, no asalariado, registrado y no registrado;puestos;2018;1.585.790
+5;Servicios;55;Industrias culturales;Empleo asalariado, no asalariado, registrado y no registrado;puestos;2018;138.100
+5;Servicios;56;Investigación y desarrollo;Empleo asalariado, no asalariado, registrado y no registrado;puestos;2018;10.188
+5;Servicios;57;Software y servicios informáticos;Empleo asalariado, no asalariado, registrado y no registrado;puestos;2018;143.297
+5;Servicios;58;Telecomunicaciones;Empleo asalariado, no asalariado, registrado y no registrado;puestos;2018;106.589
+5;Servicios;59;Turismo;Empleo asalariado, no asalariado, registrado y no registrado;puestos;2018;709.129
+5;Servicios;60;Transporte y logística;Empleo asalariado, no asalariado, registrado y no registrado;puestos;2018;1.031.136
+5;Servicios;61;Salud;Empleo asalariado, no asalariado, registrado y no registrado;puestos;2018;1.294.120
+5;Servicios;62;Educación;Empleo asalariado, no asalariado, registrado y no registrado;puestos;2018;2.137.130
+5;Servicios;63;Servicios financieros;Empleo asalariado, no asalariado, registrado y no registrado;puestos;2018;307.743
+;Total Cadenas;;Total Cadenas;Empleo asalariado, no asalariado, registrado y no registrado;puestos;2018;14.199.553
+;No asignado;99;No asignado;Empleo asalariado, no asalariado, registrado y no registrado;puestos;2018;4.790.085
+;TOTAL (excluyendo Adm. Púb.);;TOTAL (excluyendo Adm. Púb.);Empleo asalariado, no asalariado, registrado y no registrado;puestos;2018;18.989.638
+1;Agroindustriales;1;Algodón textil;Empleo asalariado, no asalariado, registrado y no registrado;%;2018;1,1
+1;Agroindustriales;2;Apícola;Empleo asalariado, no asalariado, registrado y no registrado;%;2018;0
+1;Agroindustriales;3;Azucarera;Empleo asalariado, no asalariado, registrado y no registrado;%;2018;0,3
+1;Agroindustriales;4;Avícola;Empleo asalariado, no asalariado, registrado y no registrado;%;2018;0,7
+1;Agroindustriales;5;Porcina;Empleo asalariado, no asalariado, registrado y no registrado;%;2018;0,5
+1;Agroindustriales;6;Bovina;Empleo asalariado, no asalariado, registrado y no registrado;%;2018;1,4
+1;Agroindustriales;7;Arrocera;Empleo asalariado, no asalariado, registrado y no registrado;%;2018;0,2
+1;Agroindustriales;8;Maicera;Empleo asalariado, no asalariado, registrado y no registrado;%;2018;1
+1;Agroindustriales;9;Triguera;Empleo asalariado, no asalariado, registrado y no registrado;%;2018;1,4
+1;Agroindustriales;10;Cítricos dulces;Empleo asalariado, no asalariado, registrado y no registrado;%;2018;0,1
+1;Agroindustriales;11;Fruta de carozo;Empleo asalariado, no asalariado, registrado y no registrado;%;2018;0,1
+1;Agroindustriales;12;Láctea;Empleo asalariado, no asalariado, registrado y no registrado;%;2018;1,1
+1;Agroindustriales;13;Legumbres;Empleo asalariado, no asalariado, registrado y no registrado;%;2018;0,3
+1;Agroindustriales;14;Limón;Empleo asalariado, no asalariado, registrado y no registrado;%;2018;0,1
+1;Agroindustriales;15;Peras y manzanas;Empleo asalariado, no asalariado, registrado y no registrado;%;2018;0,3
+1;Agroindustriales;16;Sojera;Empleo asalariado, no asalariado, registrado y no registrado;%;2018;2
+1;Agroindustriales;17;Girasol;Empleo asalariado, no asalariado, registrado y no registrado;%;2018;0,2
+1;Agroindustriales;18;Caprina;Empleo asalariado, no asalariado, registrado y no registrado;%;2018;0
+1;Agroindustriales;19;Ovina;Empleo asalariado, no asalariado, registrado y no registrado;%;2018;0,1
+1;Agroindustriales;20;Pesca;Empleo asalariado, no asalariado, registrado y no registrado;%;2018;0,3
+1;Agroindustriales;21;Tabacalera;Empleo asalariado, no asalariado, registrado y no registrado;%;2018;0,1
+1;Agroindustriales;22;Tealera;Empleo asalariado, no asalariado, registrado y no registrado;%;2018;0
+1;Agroindustriales;23;Vitivinícola;Empleo asalariado, no asalariado, registrado y no registrado;%;2018;0,4
+1;Agroindustriales;24;Yerba mate;Empleo asalariado, no asalariado, registrado y no registrado;%;2018;0,5
+1;Agroindustriales;25;Frutas finas;Empleo asalariado, no asalariado, registrado y no registrado;%;2018;0,1
+1;Agroindustriales;26;Cebada;Empleo asalariado, no asalariado, registrado y no registrado;%;2018;0,2
+1;Agroindustriales;27;Hortícola;Empleo asalariado, no asalariado, registrado y no registrado;%;2018;0,2
+1;Agroindustriales;28;Maní;Empleo asalariado, no asalariado, registrado y no registrado;%;2018;0,2
+1;Agroindustriales;29;Olivícola;Empleo asalariado, no asalariado, registrado y no registrado;%;2018;0
+1;Agroindustriales;30;Sorgo;Empleo asalariado, no asalariado, registrado y no registrado;%;2018;0
+2;Energía y minería;31;Hidrocarburos;Empleo asalariado, no asalariado, registrado y no registrado;%;2018;0,5
+2;Energía y minería;32;Minería metalífera;Empleo asalariado, no asalariado, registrado y no registrado;%;2018;0,1
+2;Energía y minería;33;Minería no metalífera;Empleo asalariado, no asalariado, registrado y no registrado;%;2018;0,4
+3;Industria manufacturera;34;Equipos y aparatos eléctricos;Empleo asalariado, no asalariado, registrado y no registrado;%;2018;0,2
+3;Industria manufacturera;35;Automotriz y autopartista;Empleo asalariado, no asalariado, registrado y no registrado;%;2018;1,2
+3;Industria manufacturera;36;Construcción;Empleo asalariado, no asalariado, registrado y no registrado;%;2018;10,2
+3;Industria manufacturera;37;Medicamentos;Empleo asalariado, no asalariado, registrado y no registrado;%;2018;0,3
+3;Industria manufacturera;38;Quimica básica;Empleo asalariado, no asalariado, registrado y no registrado;%;2018;0
+3;Industria manufacturera;39;Forestal, papel y muebles;Empleo asalariado, no asalariado, registrado y no registrado;%;2018;1,2
+3;Industria manufacturera;40;Siderurgia;Empleo asalariado, no asalariado, registrado y no registrado;%;2018;0,2
+3;Industria manufacturera;41;Aluminio;Empleo asalariado, no asalariado, registrado y no registrado;%;2018;0
+3;Industria manufacturera;42;Maquinaria agrícola;Empleo asalariado, no asalariado, registrado y no registrado;%;2018;0,1
+3;Industria manufacturera;43;Plástica;Empleo asalariado, no asalariado, registrado y no registrado;%;2018;0,5
+3;Industria manufacturera;44;Cuero, marroquinería y calzado;Empleo asalariado, no asalariado, registrado y no registrado;%;2018;0,6
+3;Industria manufacturera;45;Agroquímica;Empleo asalariado, no asalariado, registrado y no registrado;%;2018;0,1
+3;Industria manufacturera;46;Equipamiento médico;Empleo asalariado, no asalariado, registrado y no registrado;%;2018;0
+2;Energía y minería;47;Energía eléctrica;Empleo asalariado, no asalariado, registrado y no registrado;%;2018;0,5
+3;Industria manufacturera;48;Aparatos de uso doméstico;Empleo asalariado, no asalariado, registrado y no registrado;%;2018;0,1
+3;Industria manufacturera;49;Bienes de capital;Empleo asalariado, no asalariado, registrado y no registrado;%;2018;1,2
+3;Industria manufacturera;50;Químicos de consumo;Empleo asalariado, no asalariado, registrado y no registrado;%;2018;0,1
+3;Industria manufacturera;51;Caucho;Empleo asalariado, no asalariado, registrado y no registrado;%;2018;0,1
+3;Industria manufacturera;52;Electrónica;Empleo asalariado, no asalariado, registrado y no registrado;%;2018;0,1
+5;Servicios;53;Servicios empresariales;Empleo asalariado, no asalariado, registrado y no registrado;%;2018;5
+5;Servicios;54;Comercio;Empleo asalariado, no asalariado, registrado y no registrado;%;2018;8,4
+5;Servicios;55;Industrias culturales;Empleo asalariado, no asalariado, registrado y no registrado;%;2018;0,7
+5;Servicios;56;Investigación y desarrollo;Empleo asalariado, no asalariado, registrado y no registrado;%;2018;0,1
+5;Servicios;57;Software y servicios informáticos;Empleo asalariado, no asalariado, registrado y no registrado;%;2018;0,8
+5;Servicios;58;Telecomunicaciones;Empleo asalariado, no asalariado, registrado y no registrado;%;2018;0,6
+5;Servicios;59;Turismo;Empleo asalariado, no asalariado, registrado y no registrado;%;2018;3,7
+5;Servicios;60;Transporte y logística;Empleo asalariado, no asalariado, registrado y no registrado;%;2018;5,4
+5;Servicios;61;Salud;Empleo asalariado, no asalariado, registrado y no registrado;%;2018;6,8
+5;Servicios;62;Educación;Empleo asalariado, no asalariado, registrado y no registrado;%;2018;11,3
+5;Servicios;63;Servicios financieros;Empleo asalariado, no asalariado, registrado y no registrado;%;2018;1,6
+;Total Cadenas;;Total Cadenas;Empleo asalariado, no asalariado, registrado y no registrado;%;2018;74,8
+;No asignado;99;No asignado;Empleo asalariado, no asalariado, registrado y no registrado;%;2018;25,2
+;TOTAL (excluyendo Adm. Púb.);;TOTAL (excluyendo Adm. Púb.);Empleo asalariado, no asalariado, registrado y no registrado;%;2018;100
+1;Agroindustriales;1;Algodón textil;Exportaciones FOB neto de DEX;pesos de 2018;2018;603.885.473
+1;Agroindustriales;2;Apícola;Exportaciones FOB neto de DEX;pesos de 2018;2018;180.035.034
+1;Agroindustriales;3;Azucarera;Exportaciones FOB neto de DEX;pesos de 2018;2018;77.469.389
+1;Agroindustriales;4;Avícola;Exportaciones FOB neto de DEX;pesos de 2018;2018;330.310.741
+1;Agroindustriales;5;Porcina;Exportaciones FOB neto de DEX;pesos de 2018;2018;36.116.039
+1;Agroindustriales;6;Bovina;Exportaciones FOB neto de DEX;pesos de 2018;2018;2.329.103.346
+1;Agroindustriales;7;Arrocera;Exportaciones FOB neto de DEX;pesos de 2018;2018;173.432.769
+1;Agroindustriales;8;Maicera;Exportaciones FOB neto de DEX;pesos de 2018;2018;4.298.874.898
+1;Agroindustriales;9;Triguera;Exportaciones FOB neto de DEX;pesos de 2018;2018;2.839.632.411
+1;Agroindustriales;10;Cítricos dulces;Exportaciones FOB neto de DEX;pesos de 2018;2018;74.774.234
+1;Agroindustriales;11;Fruta de carozo;Exportaciones FOB neto de DEX;pesos de 2018;2018;78.179.177
+1;Agroindustriales;12;Láctea;Exportaciones FOB neto de DEX;pesos de 2018;2018;914.563.214
+1;Agroindustriales;13;Legumbres;Exportaciones FOB neto de DEX;pesos de 2018;2018;438.915.360
+1;Agroindustriales;14;Limón;Exportaciones FOB neto de DEX;pesos de 2018;2018;734.335.936
+1;Agroindustriales;15;Peras y manzanas;Exportaciones FOB neto de DEX;pesos de 2018;2018;417.856.129
+1;Agroindustriales;16;Sojera;Exportaciones FOB neto de DEX;pesos de 2018;2018;15.026.880.755
+1;Agroindustriales;17;Girasol;Exportaciones FOB neto de DEX;pesos de 2018;2018;756.687.296
+1;Agroindustriales;18;Caprina;Exportaciones FOB neto de DEX;pesos de 2018;2018;153.235
+1;Agroindustriales;19;Ovina;Exportaciones FOB neto de DEX;pesos de 2018;2018;14.351.455
+1;Agroindustriales;20;Pesca;Exportaciones FOB neto de DEX;pesos de 2018;2018;2.148.279.204
+1;Agroindustriales;21;Tabacalera;Exportaciones FOB neto de DEX;pesos de 2018;2018;300.043.431
+1;Agroindustriales;22;Tealera;Exportaciones FOB neto de DEX;pesos de 2018;2018;94.260.505
+1;Agroindustriales;23;Vitivinícola;Exportaciones FOB neto de DEX;pesos de 2018;2018;972.432.598
+1;Agroindustriales;24;Yerba mate;Exportaciones FOB neto de DEX;pesos de 2018;2018;97.187.239
+1;Agroindustriales;25;Frutas finas;Exportaciones FOB neto de DEX;pesos de 2018;2018;113.138.424
+1;Agroindustriales;26;Cebada;Exportaciones FOB neto de DEX;pesos de 2018;2018;836.993.570
+1;Agroindustriales;27;Hortícola;Exportaciones FOB neto de DEX;pesos de 2018;2018;374.985.167
+1;Agroindustriales;28;Maní;Exportaciones FOB neto de DEX;pesos de 2018;2018;717.113.858
+1;Agroindustriales;29;Olivícola;Exportaciones FOB neto de DEX;pesos de 2018;2018;155.963.693
+1;Agroindustriales;30;Sorgo;Exportaciones FOB neto de DEX;pesos de 2018;2018;55.803.775
+2;Energía y minería;31;Hidrocarburos;Exportaciones FOB neto de DEX;pesos de 2018;2018;4.305.716.112
+2;Energía y minería;32;Minería metalífera;Exportaciones FOB neto de DEX;pesos de 2018;2018;3.090.969.449
+2;Energía y minería;33;Minería no metalífera;Exportaciones FOB neto de DEX;pesos de 2018;2018;442.560.554
+3;Industria manufacturera;34;Equipos y aparatos eléctricos;Exportaciones FOB neto de DEX;pesos de 2018;2018;124.419.239
+3;Industria manufacturera;35;Automotriz y autopartista;Exportaciones FOB neto de DEX;pesos de 2018;2018;8.033.732.415
+3;Industria manufacturera;36;Construcción;Exportaciones FOB neto de DEX;pesos de 2018;2018;
+3;Industria manufacturera;37;Medicamentos;Exportaciones FOB neto de DEX;pesos de 2018;2018;928.031.082
+3;Industria manufacturera;38;Quimica básica;Exportaciones FOB neto de DEX;pesos de 2018;2018;449.474.014
+3;Industria manufacturera;39;Forestal, papel y muebles;Exportaciones FOB neto de DEX;pesos de 2018;2018;673.929.123
+3;Industria manufacturera;40;Siderurgia;Exportaciones FOB neto de DEX;pesos de 2018;2018;993.860.424
+3;Industria manufacturera;41;Aluminio;Exportaciones FOB neto de DEX;pesos de 2018;2018;936.574.645
+3;Industria manufacturera;42;Maquinaria agrícola;Exportaciones FOB neto de DEX;pesos de 2018;2018;146.134.670
+3;Industria manufacturera;43;Plástica;Exportaciones FOB neto de DEX;pesos de 2018;2018;1.076.161.213
+3;Industria manufacturera;44;Cuero, marroquinería y calzado;Exportaciones FOB neto de DEX;pesos de 2018;2018;767.450.010
+3;Industria manufacturera;45;Agroquímica;Exportaciones FOB neto de DEX;pesos de 2018;2018;419.965.491
+3;Industria manufacturera;46;Equipamiento médico;Exportaciones FOB neto de DEX;pesos de 2018;2018;53.099.868
+2;Energía y minería;47;Energía eléctrica;Exportaciones FOB neto de DEX;pesos de 2018;2018;23.906.815
+3;Industria manufacturera;48;Aparatos de uso doméstico;Exportaciones FOB neto de DEX;pesos de 2018;2018;28.956.090
+3;Industria manufacturera;49;Bienes de capital;Exportaciones FOB neto de DEX;pesos de 2018;2018;954.829.430
+3;Industria manufacturera;50;Químicos de consumo;Exportaciones FOB neto de DEX;pesos de 2018;2018;494.324.667
+3;Industria manufacturera;51;Caucho;Exportaciones FOB neto de DEX;pesos de 2018;2018;272.828.959
+3;Industria manufacturera;52;Electrónica;Exportaciones FOB neto de DEX;pesos de 2018;2018;47.959.395
+5;Servicios;53;Servicios empresariales;Exportaciones FOB neto de DEX;pesos de 2018;2018;2.538.437.463
+5;Servicios;54;Comercio;Exportaciones FOB neto de DEX;pesos de 2018;2018;0
+5;Servicios;55;Industrias culturales;Exportaciones FOB neto de DEX;pesos de 2018;2018;418.823.683
+5;Servicios;56;Investigación y desarrollo;Exportaciones FOB neto de DEX;pesos de 2018;2018;317.436.462
+5;Servicios;57;Software y servicios informáticos;Exportaciones FOB neto de DEX;pesos de 2018;2018;1.935.733.904
+5;Servicios;58;Telecomunicaciones;Exportaciones FOB neto de DEX;pesos de 2018;2018;187.680.360
+5;Servicios;59;Turismo;Exportaciones FOB neto de DEX;pesos de 2018;2018;3.751.456.002
+5;Servicios;60;Transporte y logística;Exportaciones FOB neto de DEX;pesos de 2018;2018;1.302.542.272
+5;Servicios;61;Salud;Exportaciones FOB neto de DEX;pesos de 2018;2018;0
+5;Servicios;62;Educación;Exportaciones FOB neto de DEX;pesos de 2018;2018;0
+5;Servicios;63;Servicios financieros;Exportaciones FOB neto de DEX;pesos de 2018;2018;241.418.856
+;Total Cadenas;;Total Cadenas;Exportaciones FOB neto de DEX;pesos de 2018;2018;70.150.171.023
+;No asignado;99;No asignado;Exportaciones FOB neto de DEX;pesos de 2018;2018;2.102.740.000
+;TOTAL (excluyendo Adm. Púb.);;TOTAL (excluyendo Adm. Púb.);Exportaciones FOB neto de DEX;pesos de 2018;2018;72.252.911.023
+1;Agroindustriales;1;Algodón textil;Exportaciones FOB neto de DEX;%;2018;0,8
+1;Agroindustriales;2;Apícola;Exportaciones FOB neto de DEX;%;2018;0,2
+1;Agroindustriales;3;Azucarera;Exportaciones FOB neto de DEX;%;2018;0,1
+1;Agroindustriales;4;Avícola;Exportaciones FOB neto de DEX;%;2018;0,5
+1;Agroindustriales;5;Porcina;Exportaciones FOB neto de DEX;%;2018;0
+1;Agroindustriales;6;Bovina;Exportaciones FOB neto de DEX;%;2018;3,2
+1;Agroindustriales;7;Arrocera;Exportaciones FOB neto de DEX;%;2018;0,2
+1;Agroindustriales;8;Maicera;Exportaciones FOB neto de DEX;%;2018;5,9
+1;Agroindustriales;9;Triguera;Exportaciones FOB neto de DEX;%;2018;3,9
+1;Agroindustriales;10;Cítricos dulces;Exportaciones FOB neto de DEX;%;2018;0,1
+1;Agroindustriales;11;Fruta de carozo;Exportaciones FOB neto de DEX;%;2018;0,1
+1;Agroindustriales;12;Láctea;Exportaciones FOB neto de DEX;%;2018;1,3
+1;Agroindustriales;13;Legumbres;Exportaciones FOB neto de DEX;%;2018;0,6
+1;Agroindustriales;14;Limón;Exportaciones FOB neto de DEX;%;2018;1
+1;Agroindustriales;15;Peras y manzanas;Exportaciones FOB neto de DEX;%;2018;0,6
+1;Agroindustriales;16;Sojera;Exportaciones FOB neto de DEX;%;2018;20,8
+1;Agroindustriales;17;Girasol;Exportaciones FOB neto de DEX;%;2018;1
+1;Agroindustriales;18;Caprina;Exportaciones FOB neto de DEX;%;2018;0
+1;Agroindustriales;19;Ovina;Exportaciones FOB neto de DEX;%;2018;0
+1;Agroindustriales;20;Pesca;Exportaciones FOB neto de DEX;%;2018;3
+1;Agroindustriales;21;Tabacalera;Exportaciones FOB neto de DEX;%;2018;0,4
+1;Agroindustriales;22;Tealera;Exportaciones FOB neto de DEX;%;2018;0,1
+1;Agroindustriales;23;Vitivinícola;Exportaciones FOB neto de DEX;%;2018;1,3
+1;Agroindustriales;24;Yerba mate;Exportaciones FOB neto de DEX;%;2018;0,1
+1;Agroindustriales;25;Frutas finas;Exportaciones FOB neto de DEX;%;2018;0,2
+1;Agroindustriales;26;Cebada;Exportaciones FOB neto de DEX;%;2018;1,2
+1;Agroindustriales;27;Hortícola;Exportaciones FOB neto de DEX;%;2018;0,5
+1;Agroindustriales;28;Maní;Exportaciones FOB neto de DEX;%;2018;1
+1;Agroindustriales;29;Olivícola;Exportaciones FOB neto de DEX;%;2018;0,2
+1;Agroindustriales;30;Sorgo;Exportaciones FOB neto de DEX;%;2018;0,1
+2;Energía y minería;31;Hidrocarburos;Exportaciones FOB neto de DEX;%;2018;6
+2;Energía y minería;32;Minería metalífera;Exportaciones FOB neto de DEX;%;2018;4,3
+2;Energía y minería;33;Minería no metalífera;Exportaciones FOB neto de DEX;%;2018;0,6
+3;Industria manufacturera;34;Equipos y aparatos eléctricos;Exportaciones FOB neto de DEX;%;2018;0,2
+3;Industria manufacturera;35;Automotriz y autopartista;Exportaciones FOB neto de DEX;%;2018;11,1
+3;Industria manufacturera;36;Construcción;Exportaciones FOB neto de DEX;%;2018;0
+3;Industria manufacturera;37;Medicamentos;Exportaciones FOB neto de DEX;%;2018;1,3
+3;Industria manufacturera;38;Quimica básica;Exportaciones FOB neto de DEX;%;2018;0,6
+3;Industria manufacturera;39;Forestal, papel y muebles;Exportaciones FOB neto de DEX;%;2018;0,9
+3;Industria manufacturera;40;Siderurgia;Exportaciones FOB neto de DEX;%;2018;1,4
+3;Industria manufacturera;41;Aluminio;Exportaciones FOB neto de DEX;%;2018;1,3
+3;Industria manufacturera;42;Maquinaria agrícola;Exportaciones FOB neto de DEX;%;2018;0,2
+3;Industria manufacturera;43;Plástica;Exportaciones FOB neto de DEX;%;2018;1,5
+3;Industria manufacturera;44;Cuero, marroquinería y calzado;Exportaciones FOB neto de DEX;%;2018;1,1
+3;Industria manufacturera;45;Agroquímica;Exportaciones FOB neto de DEX;%;2018;0,6
+3;Industria manufacturera;46;Equipamiento médico;Exportaciones FOB neto de DEX;%;2018;0,1
+2;Energía y minería;47;Energía eléctrica;Exportaciones FOB neto de DEX;%;2018;0
+3;Industria manufacturera;48;Aparatos de uso doméstico;Exportaciones FOB neto de DEX;%;2018;0
+3;Industria manufacturera;49;Bienes de capital;Exportaciones FOB neto de DEX;%;2018;1,3
+3;Industria manufacturera;50;Químicos de consumo;Exportaciones FOB neto de DEX;%;2018;0,7
+3;Industria manufacturera;51;Caucho;Exportaciones FOB neto de DEX;%;2018;0,4
+3;Industria manufacturera;52;Electrónica;Exportaciones FOB neto de DEX;%;2018;0,1
+5;Servicios;53;Servicios empresariales;Exportaciones FOB neto de DEX;%;2018;3,5
+5;Servicios;54;Comercio;Exportaciones FOB neto de DEX;%;2018;0
+5;Servicios;55;Industrias culturales;Exportaciones FOB neto de DEX;%;2018;0,6
+5;Servicios;56;Investigación y desarrollo;Exportaciones FOB neto de DEX;%;2018;0,4
+5;Servicios;57;Software y servicios informáticos;Exportaciones FOB neto de DEX;%;2018;2,7
+5;Servicios;58;Telecomunicaciones;Exportaciones FOB neto de DEX;%;2018;0,3
+5;Servicios;59;Turismo;Exportaciones FOB neto de DEX;%;2018;5,2
+5;Servicios;60;Transporte y logística;Exportaciones FOB neto de DEX;%;2018;1,8
+5;Servicios;61;Salud;Exportaciones FOB neto de DEX;%;2018;0
+5;Servicios;62;Educación;Exportaciones FOB neto de DEX;%;2018;0
+5;Servicios;63;Servicios financieros;Exportaciones FOB neto de DEX;%;2018;0,3
+;Total Cadenas;;Total Cadenas;Exportaciones FOB neto de DEX;%;2018;97,1
+;No asignado;99;No asignado;Exportaciones FOB neto de DEX;%;2018;2,9
+;TOTAL (excluyendo Adm. Púb.);;TOTAL (excluyendo Adm. Púb.);Exportaciones FOB neto de DEX;%;2018;100
+1;Agroindustriales;1;Algodón textil;Exportaciones FOB neto de DEX / VBP;%;2018;7,8
+1;Agroindustriales;2;Apícola;Exportaciones FOB neto de DEX / VBP;%;2018;63,8
+1;Agroindustriales;3;Azucarera;Exportaciones FOB neto de DEX / VBP;%;2018;2,1
+1;Agroindustriales;4;Avícola;Exportaciones FOB neto de DEX / VBP;%;2018;5
+1;Agroindustriales;5;Porcina;Exportaciones FOB neto de DEX / VBP;%;2018;0,6
+1;Agroindustriales;6;Bovina;Exportaciones FOB neto de DEX / VBP;%;2018;16,5
+1;Agroindustriales;7;Arrocera;Exportaciones FOB neto de DEX / VBP;%;2018;6,7
+1;Agroindustriales;8;Maicera;Exportaciones FOB neto de DEX / VBP;%;2018;56
+1;Agroindustriales;9;Triguera;Exportaciones FOB neto de DEX / VBP;%;2018;22,9
+1;Agroindustriales;10;Cítricos dulces;Exportaciones FOB neto de DEX / VBP;%;2018;11,1
+1;Agroindustriales;11;Fruta de carozo;Exportaciones FOB neto de DEX / VBP;%;2018;15
+1;Agroindustriales;12;Láctea;Exportaciones FOB neto de DEX / VBP;%;2018;7,6
+1;Agroindustriales;13;Legumbres;Exportaciones FOB neto de DEX / VBP;%;2018;21
+1;Agroindustriales;14;Limón;Exportaciones FOB neto de DEX / VBP;%;2018;52,3
+1;Agroindustriales;15;Peras y manzanas;Exportaciones FOB neto de DEX / VBP;%;2018;6,5
+1;Agroindustriales;16;Sojera;Exportaciones FOB neto de DEX / VBP;%;2018;55,9
+1;Agroindustriales;17;Girasol;Exportaciones FOB neto de DEX / VBP;%;2018;17,3
+1;Agroindustriales;18;Caprina;Exportaciones FOB neto de DEX / VBP;%;2018;0,4
+1;Agroindustriales;19;Ovina;Exportaciones FOB neto de DEX / VBP;%;2018;2,2
+1;Agroindustriales;20;Pesca;Exportaciones FOB neto de DEX / VBP;%;2018;44,7
+1;Agroindustriales;21;Tabacalera;Exportaciones FOB neto de DEX / VBP;%;2018;16,9
+1;Agroindustriales;22;Tealera;Exportaciones FOB neto de DEX / VBP;%;2018;92,2
+1;Agroindustriales;23;Vitivinícola;Exportaciones FOB neto de DEX / VBP;%;2018;18,6
+1;Agroindustriales;24;Yerba mate;Exportaciones FOB neto de DEX / VBP;%;2018;2,1
+1;Agroindustriales;25;Frutas finas;Exportaciones FOB neto de DEX / VBP;%;2018;23,6
+1;Agroindustriales;26;Cebada;Exportaciones FOB neto de DEX / VBP;%;2018;26,6
+1;Agroindustriales;27;Hortícola;Exportaciones FOB neto de DEX / VBP;%;2018;41,3
+1;Agroindustriales;28;Maní;Exportaciones FOB neto de DEX / VBP;%;2018;33,5
+1;Agroindustriales;29;Olivícola;Exportaciones FOB neto de DEX / VBP;%;2018;15
+1;Agroindustriales;30;Sorgo;Exportaciones FOB neto de DEX / VBP;%;2018;36,2
+2;Energía y minería;31;Hidrocarburos;Exportaciones FOB neto de DEX / VBP;%;2018;6,1
+2;Energía y minería;32;Minería metalífera;Exportaciones FOB neto de DEX / VBP;%;2018;89,3
+2;Energía y minería;33;Minería no metalífera;Exportaciones FOB neto de DEX / VBP;%;2018;5,2
+3;Industria manufacturera;34;Equipos y aparatos eléctricos;Exportaciones FOB neto de DEX / VBP;%;2018;3,6
+3;Industria manufacturera;35;Automotriz y autopartista;Exportaciones FOB neto de DEX / VBP;%;2018;30,9
+3;Industria manufacturera;36;Construcción;Exportaciones FOB neto de DEX / VBP;%;2018;0
+3;Industria manufacturera;37;Medicamentos;Exportaciones FOB neto de DEX / VBP;%;2018;15
+3;Industria manufacturera;38;Quimica básica;Exportaciones FOB neto de DEX / VBP;%;2018;12,7
+3;Industria manufacturera;39;Forestal, papel y muebles;Exportaciones FOB neto de DEX / VBP;%;2018;5,9
+3;Industria manufacturera;40;Siderurgia;Exportaciones FOB neto de DEX / VBP;%;2018;12,6
+3;Industria manufacturera;41;Aluminio;Exportaciones FOB neto de DEX / VBP;%;2018;33
+3;Industria manufacturera;42;Maquinaria agrícola;Exportaciones FOB neto de DEX / VBP;%;2018;4,1
+3;Industria manufacturera;43;Plástica;Exportaciones FOB neto de DEX / VBP;%;2018;9,2
+3;Industria manufacturera;44;Cuero, marroquinería y calzado;Exportaciones FOB neto de DEX / VBP;%;2018;31,9
+3;Industria manufacturera;45;Agroquímica;Exportaciones FOB neto de DEX / VBP;%;2018;22,2
+3;Industria manufacturera;46;Equipamiento médico;Exportaciones FOB neto de DEX / VBP;%;2018;8,2
+2;Energía y minería;47;Energía eléctrica;Exportaciones FOB neto de DEX / VBP;%;2018;0,2
+3;Industria manufacturera;48;Aparatos de uso doméstico;Exportaciones FOB neto de DEX / VBP;%;2018;1,7
+3;Industria manufacturera;49;Bienes de capital;Exportaciones FOB neto de DEX / VBP;%;2018;5,4
+3;Industria manufacturera;50;Químicos de consumo;Exportaciones FOB neto de DEX / VBP;%;2018;12,5
+3;Industria manufacturera;51;Caucho;Exportaciones FOB neto de DEX / VBP;%;2018;11,9
+3;Industria manufacturera;52;Electrónica;Exportaciones FOB neto de DEX / VBP;%;2018;1,1
+5;Servicios;53;Servicios empresariales;Exportaciones FOB neto de DEX / VBP;%;2018;7,7
+5;Servicios;54;Comercio;Exportaciones FOB neto de DEX / VBP;%;2018;0
+5;Servicios;55;Industrias culturales;Exportaciones FOB neto de DEX / VBP;%;2018;3
+5;Servicios;56;Investigación y desarrollo;Exportaciones FOB neto de DEX / VBP;%;2018;21,1
+5;Servicios;57;Software y servicios informáticos;Exportaciones FOB neto de DEX / VBP;%;2018;20,6
+5;Servicios;58;Telecomunicaciones;Exportaciones FOB neto de DEX / VBP;%;2018;0,8
+5;Servicios;59;Turismo;Exportaciones FOB neto de DEX / VBP;%;2018;11,4
+5;Servicios;60;Transporte y logística;Exportaciones FOB neto de DEX / VBP;%;2018;3,6
+5;Servicios;61;Salud;Exportaciones FOB neto de DEX / VBP;%;2018;0
+5;Servicios;62;Educación;Exportaciones FOB neto de DEX / VBP;%;2018;0
+5;Servicios;63;Servicios financieros;Exportaciones FOB neto de DEX / VBP;%;2018;0,8
+;Total Cadenas;;Total Cadenas;Exportaciones FOB neto de DEX / VBP;%;2018;9,2
+;No asignado;99;No asignado;Exportaciones FOB neto de DEX / VBP;%;2018;7,1
+;TOTAL (excluyendo Adm. Púb.);;TOTAL (excluyendo Adm. Púb.);Exportaciones FOB neto de DEX / VBP;%;2018;8,9
+1;Agroindustriales;1;Algodón textil;Peso en la ENGHO;%;2018;4,1
+1;Agroindustriales;2;Apícola;Peso en la ENGHO;%;2018;0,1
+1;Agroindustriales;3;Azucarera;Peso en la ENGHO;%;2018;0,5
+1;Agroindustriales;4;Avícola;Peso en la ENGHO;%;2018;1,7
+1;Agroindustriales;5;Porcina;Peso en la ENGHO;%;2018;0,9
+1;Agroindustriales;6;Bovina;Peso en la ENGHO;%;2018;5,3
+1;Agroindustriales;7;Arrocera;Peso en la ENGHO;%;2018;0,2
+1;Agroindustriales;8;Maicera;Peso en la ENGHO;%;2018;0,1
+1;Agroindustriales;9;Triguera;Peso en la ENGHO;%;2018;3,8
+1;Agroindustriales;10;Cítricos dulces;Peso en la ENGHO;%;2018;0,1
+1;Agroindustriales;11;Fruta de carozo;Peso en la ENGHO;%;2018;0,1
+1;Agroindustriales;12;Láctea;Peso en la ENGHO;%;2018;3,4
+1;Agroindustriales;13;Legumbres;Peso en la ENGHO;%;2018;0,3
+1;Agroindustriales;14;Limón;Peso en la ENGHO;%;2018;0
+1;Agroindustriales;15;Peras y manzanas;Peso en la ENGHO;%;2018;0,6
+1;Agroindustriales;16;Sojera;Peso en la ENGHO;%;2018;0,1
+1;Agroindustriales;17;Girasol;Peso en la ENGHO;%;2018;0
+1;Agroindustriales;18;Caprina;Peso en la ENGHO;%;2018;0
+1;Agroindustriales;19;Ovina;Peso en la ENGHO;%;2018;0,7
+1;Agroindustriales;20;Pesca;Peso en la ENGHO;%;2018;0,3
+1;Agroindustriales;21;Tabacalera;Peso en la ENGHO;%;2018;0
+1;Agroindustriales;22;Tealera;Peso en la ENGHO;%;2018;0,4
+1;Agroindustriales;23;Vitivinícola;Peso en la ENGHO;%;2018;1
+1;Agroindustriales;24;Yerba mate;Peso en la ENGHO;%;2018;0
+1;Agroindustriales;25;Frutas finas;Peso en la ENGHO;%;2018;0
+1;Agroindustriales;26;Cebada;Peso en la ENGHO;%;2018;0
+1;Agroindustriales;27;Hortícola;Peso en la ENGHO;%;2018;2,2
+1;Agroindustriales;28;Maní;Peso en la ENGHO;%;2018;0
+1;Agroindustriales;29;Olivícola;Peso en la ENGHO;%;2018;0
+1;Agroindustriales;30;Sorgo;Peso en la ENGHO;%;2018;0
+2;Energía y minería;31;Hidrocarburos;Peso en la ENGHO;%;2018;1,1
+2;Energía y minería;32;Minería metalífera;Peso en la ENGHO;%;2018;0
+2;Energía y minería;33;Minería no metalífera;Peso en la ENGHO;%;2018;0,1
+3;Industria manufacturera;34;Equipos y aparatos eléctricos;Peso en la ENGHO;%;2018;0,7
+3;Industria manufacturera;35;Automotriz y autopartista;Peso en la ENGHO;%;2018;7,2
+3;Industria manufacturera;36;Construcción;Peso en la ENGHO;%;2018;1,6
+3;Industria manufacturera;37;Medicamentos;Peso en la ENGHO;%;2018;1,8
+3;Industria manufacturera;38;Quimica básica;Peso en la ENGHO;%;2018;0
+3;Industria manufacturera;39;Forestal, papel y muebles;Peso en la ENGHO;%;2018;1,6
+3;Industria manufacturera;40;Siderurgia;Peso en la ENGHO;%;2018;0
+3;Industria manufacturera;41;Aluminio;Peso en la ENGHO;%;2018;0
+3;Industria manufacturera;42;Maquinaria agrícola;Peso en la ENGHO;%;2018;0
+3;Industria manufacturera;43;Plástica;Peso en la ENGHO;%;2018;3,4
+3;Industria manufacturera;44;Cuero, marroquinería y calzado;Peso en la ENGHO;%;2018;6,9
+3;Industria manufacturera;45;Agroquímica;Peso en la ENGHO;%;2018;0,2
+3;Industria manufacturera;46;Equipamiento médico;Peso en la ENGHO;%;2018;0,4
+2;Energía y minería;47;Energía eléctrica;Peso en la ENGHO;%;2018;1,8
+3;Industria manufacturera;48;Aparatos de uso doméstico;Peso en la ENGHO;%;2018;0,8
+3;Industria manufacturera;49;Bienes de capital;Peso en la ENGHO;%;2018;0,5
+3;Industria manufacturera;50;Químicos de consumo;Peso en la ENGHO;%;2018;3,9
+3;Industria manufacturera;51;Caucho;Peso en la ENGHO;%;2018;0
+3;Industria manufacturera;52;Electrónica;Peso en la ENGHO;%;2018;3
+5;Servicios;53;Servicios empresariales;Peso en la ENGHO;%;2018;5,5
+5;Servicios;54;Comercio;Peso en la ENGHO;%;2018;0,8
+5;Servicios;55;Industrias culturales;Peso en la ENGHO;%;2018;3,3
+5;Servicios;56;Investigación y desarrollo;Peso en la ENGHO;%;2018;0
+5;Servicios;57;Software y servicios informáticos;Peso en la ENGHO;%;2018;0
+5;Servicios;58;Telecomunicaciones;Peso en la ENGHO;%;2018;2,9
+5;Servicios;59;Turismo;Peso en la ENGHO;%;2018;6,5
+5;Servicios;60;Transporte y logística;Peso en la ENGHO;%;2018;3,1
+5;Servicios;61;Salud;Peso en la ENGHO;%;2018;7,3
+5;Servicios;62;Educación;Peso en la ENGHO;%;2018;2,7
+5;Servicios;63;Servicios financieros;Peso en la ENGHO;%;2018;0
+;Total Cadenas;;Total Cadenas;Peso en la ENGHO;%;2018;82,7
+;No asignado;99;No asignado;Peso en la ENGHO;%;2018;
+;TOTAL (excluyendo Adm. Púb.);;TOTAL (excluyendo Adm. Púb.);Peso en la ENGHO;%;2018;
+1;Agroindustriales;1;Algodón textil;Índice de Herfindal-Hirschman;índice;2018;0,28
+1;Agroindustriales;2;Apícola;Índice de Herfindal-Hirschman;índice;2018;0,19
+1;Agroindustriales;3;Azucarera;Índice de Herfindal-Hirschman;índice;2018;0,18
+1;Agroindustriales;4;Avícola;Índice de Herfindal-Hirschman;índice;2018;0,33
+1;Agroindustriales;5;Porcina;Índice de Herfindal-Hirschman;índice;2018;0,23
+1;Agroindustriales;6;Bovina;Índice de Herfindal-Hirschman;índice;2018;0,21
+1;Agroindustriales;7;Arrocera;Índice de Herfindal-Hirschman;índice;2018;0,47
+1;Agroindustriales;8;Maicera;Índice de Herfindal-Hirschman;índice;2018;0,18
+1;Agroindustriales;9;Triguera;Índice de Herfindal-Hirschman;índice;2018;0,22
+1;Agroindustriales;10;Cítricos dulces;Índice de Herfindal-Hirschman;índice;2018;0,16
+1;Agroindustriales;11;Fruta de carozo;Índice de Herfindal-Hirschman;índice;2018;0,23
+1;Agroindustriales;12;Láctea;Índice de Herfindal-Hirschman;índice;2018;0,24
+1;Agroindustriales;13;Legumbres;Índice de Herfindal-Hirschman;índice;2018;0,34
+1;Agroindustriales;14;Limón;Índice de Herfindal-Hirschman;índice;2018;0,71
+1;Agroindustriales;15;Peras y manzanas;Índice de Herfindal-Hirschman;índice;2018;0,58
+1;Agroindustriales;16;Sojera;Índice de Herfindal-Hirschman;índice;2018;0,36
+1;Agroindustriales;17;Girasol;Índice de Herfindal-Hirschman;índice;2018;0,33
+1;Agroindustriales;18;Caprina;Índice de Herfindal-Hirschman;índice;2018;0,16
+1;Agroindustriales;19;Ovina;Índice de Herfindal-Hirschman;índice;2018;0,18
+1;Agroindustriales;20;Pesca;Índice de Herfindal-Hirschman;índice;2018;0,35
+1;Agroindustriales;21;Tabacalera;Índice de Herfindal-Hirschman;índice;2018;0,24
+1;Agroindustriales;22;Tealera;Índice de Herfindal-Hirschman;índice;2018;0,32
+1;Agroindustriales;23;Vitivinícola;Índice de Herfindal-Hirschman;índice;2018;0,54
+1;Agroindustriales;24;Yerba mate;Índice de Herfindal-Hirschman;índice;2018;0,76
+1;Agroindustriales;25;Frutas finas;Índice de Herfindal-Hirschman;índice;2018;0,1
+1;Agroindustriales;26;Cebada;Índice de Herfindal-Hirschman;índice;2018;0,33
+1;Agroindustriales;27;Hortícola;Índice de Herfindal-Hirschman;índice;2018;0,14
+1;Agroindustriales;28;Maní;Índice de Herfindal-Hirschman;índice;2018;0,64
+1;Agroindustriales;29;Olivícola;Índice de Herfindal-Hirschman;índice;2018;0,21
+1;Agroindustriales;30;Sorgo;Índice de Herfindal-Hirschman;índice;2018;0,2
+2;Energía y minería;31;Hidrocarburos;Índice de Herfindal-Hirschman;índice;2018;0,18
+2;Energía y minería;32;Minería metalífera;Índice de Herfindal-Hirschman;índice;2018;0,47
+2;Energía y minería;33;Minería no metalífera;Índice de Herfindal-Hirschman;índice;2018;0,19
+3;Industria manufacturera;34;Equipos y aparatos eléctricos;Índice de Herfindal-Hirschman;índice;2018;0,36
+3;Industria manufacturera;35;Automotriz y autopartista;Índice de Herfindal-Hirschman;índice;2018;0,3
+3;Industria manufacturera;36;Construcción;Índice de Herfindal-Hirschman;índice;2018;0,16
+3;Industria manufacturera;37;Medicamentos;Índice de Herfindal-Hirschman;índice;2018;0,37
+3;Industria manufacturera;38;Quimica básica;Índice de Herfindal-Hirschman;índice;2018;0,36
+3;Industria manufacturera;39;Forestal, papel y muebles;Índice de Herfindal-Hirschman;índice;2018;0,2
+3;Industria manufacturera;40;Siderurgia;Índice de Herfindal-Hirschman;índice;2018;0,42
+3;Industria manufacturera;41;Aluminio;Índice de Herfindal-Hirschman;índice;2018;0,38
+3;Industria manufacturera;42;Maquinaria agrícola;Índice de Herfindal-Hirschman;índice;2018;0,33
+3;Industria manufacturera;43;Plástica;Índice de Herfindal-Hirschman;índice;2018;0,41
+3;Industria manufacturera;44;Cuero, marroquinería y calzado;Índice de Herfindal-Hirschman;índice;2018;0,36
+3;Industria manufacturera;45;Agroquímica;Índice de Herfindal-Hirschman;índice;2018;0,41
+3;Industria manufacturera;46;Equipamiento médico;Índice de Herfindal-Hirschman;índice;2018;0,32
+2;Energía y minería;47;Energía eléctrica;Índice de Herfindal-Hirschman;índice;2018;0,19
+3;Industria manufacturera;48;Aparatos de uso doméstico;Índice de Herfindal-Hirschman;índice;2018;0,29
+3;Industria manufacturera;49;Bienes de capital;Índice de Herfindal-Hirschman;índice;2018;0,33
+3;Industria manufacturera;50;Químicos de consumo;Índice de Herfindal-Hirschman;índice;2018;0,39
+3;Industria manufacturera;51;Caucho;Índice de Herfindal-Hirschman;índice;2018;0,49
+3;Industria manufacturera;52;Electrónica;Índice de Herfindal-Hirschman;índice;2018;0,34
+5;Servicios;53;Servicios empresariales;Índice de Herfindal-Hirschman;índice;2018;0,23
+5;Servicios;54;Comercio;Índice de Herfindal-Hirschman;índice;2018;0,17
+5;Servicios;55;Industrias culturales;Índice de Herfindal-Hirschman;índice;2018;0,35
+5;Servicios;56;Investigación y desarrollo;Índice de Herfindal-Hirschman;índice;2018;0,46
+5;Servicios;57;Software y servicios informáticos;Índice de Herfindal-Hirschman;índice;2018;0,5
+5;Servicios;58;Telecomunicaciones;Índice de Herfindal-Hirschman;índice;2018;0,23
+5;Servicios;59;Turismo;Índice de Herfindal-Hirschman;índice;2018;0,22
+5;Servicios;60;Transporte y logística;Índice de Herfindal-Hirschman;índice;2018;0,21
+5;Servicios;61;Salud;Índice de Herfindal-Hirschman;índice;2018;0,21
+5;Servicios;62;Educación;Índice de Herfindal-Hirschman;índice;2018;0,21
+5;Servicios;63;Servicios financieros;Índice de Herfindal-Hirschman;índice;2018;0,27
+;Total Cadenas;;Total Cadenas;Índice de Herfindal-Hirschman;índice;2018;
+;No asignado;99;No asignado;Índice de Herfindal-Hirschman;índice;2018;
+;TOTAL (excluyendo Adm. Púb.);;TOTAL (excluyendo Adm. Púb.);Índice de Herfindal-Hirschman;índice;2018;
+1;Agroindustriales;1;Algodón textil;Empresas según MECTRA;empresas;2019;7.793
+1;Agroindustriales;2;Apícola;Empresas según MECTRA;empresas;2019;282
+1;Agroindustriales;3;Azucarera;Empresas según MECTRA;empresas;2019;1.158
+1;Agroindustriales;4;Avícola;Empresas según MECTRA;empresas;2019;1.374
+1;Agroindustriales;5;Porcina;Empresas según MECTRA;empresas;2019;1.432
+1;Agroindustriales;6;Bovina;Empresas según MECTRA;empresas;2019;20.072
+1;Agroindustriales;7;Arrocera;Empresas según MECTRA;empresas;2019;337
+1;Agroindustriales;8;Maicera;Empresas según MECTRA;empresas;2019;584
+1;Agroindustriales;9;Triguera;Empresas según MECTRA;empresas;2019;8.177
+1;Agroindustriales;10;Cítricos dulces;Empresas según MECTRA;empresas;2019;1.302
+1;Agroindustriales;11;Fruta de carozo;Empresas según MECTRA;empresas;2019;414
+1;Agroindustriales;12;Láctea;Empresas según MECTRA;empresas;2019;4.606
+1;Agroindustriales;13;Legumbres;Empresas según MECTRA;empresas;2019;271
+1;Agroindustriales;14;Limón;Empresas según MECTRA;empresas;2019;311
+1;Agroindustriales;15;Peras y manzanas;Empresas según MECTRA;empresas;2019;1.066
+1;Agroindustriales;16;Sojera;Empresas según MECTRA;empresas;2019;9.390
+1;Agroindustriales;17;Girasol;Empresas según MECTRA;empresas;2019;223
+1;Agroindustriales;18;Caprina;Empresas según MECTRA;empresas;2019;22
+1;Agroindustriales;19;Ovina;Empresas según MECTRA;empresas;2019;784
+1;Agroindustriales;20;Pesca;Empresas según MECTRA;empresas;2019;781
+1;Agroindustriales;21;Tabacalera;Empresas según MECTRA;empresas;2019;2.078
+1;Agroindustriales;22;Tealera;Empresas según MECTRA;empresas;2019;289
+1;Agroindustriales;23;Vitivinícola;Empresas según MECTRA;empresas;2019;5.940
+1;Agroindustriales;24;Yerba mate;Empresas según MECTRA;empresas;2019;1.278
+1;Agroindustriales;25;Frutas finas;Empresas según MECTRA;empresas;2019;398
+1;Agroindustriales;26;Cebada;Empresas según MECTRA;empresas;2019;7.080
+1;Agroindustriales;27;Hortícola;Empresas según MECTRA;empresas;2019;2.195
+1;Agroindustriales;28;Maní;Empresas según MECTRA;empresas;2019;600
+1;Agroindustriales;29;Olivícola;Empresas según MECTRA;empresas;2019;186
+1;Agroindustriales;30;Sorgo;Empresas según MECTRA;empresas;2019;299
+2;Energía y minería;31;Hidrocarburos;Empresas según MECTRA;empresas;2019;1.433
+2;Energía y minería;32;Minería metalífera;Empresas según MECTRA;empresas;2019;1.300
+2;Energía y minería;33;Minería no metalífera;Empresas según MECTRA;empresas;2019;985
+3;Industria manufacturera;34;Equipos y aparatos eléctricos;Empresas según MECTRA;empresas;2019;3.520
+3;Industria manufacturera;35;Automotriz y autopartista;Empresas según MECTRA;empresas;2019;27.214
+3;Industria manufacturera;36;Construcción;Empresas según MECTRA;empresas;2019;46.765
+3;Industria manufacturera;37;Medicamentos;Empresas según MECTRA;empresas;2019;1.088
+3;Industria manufacturera;38;Quimica básica;Empresas según MECTRA;empresas;2019;1.817
+3;Industria manufacturera;39;Forestal, papel y muebles;Empresas según MECTRA;empresas;2019;10.444
+3;Industria manufacturera;40;Siderurgia;Empresas según MECTRA;empresas;2019;4.429
+3;Industria manufacturera;41;Aluminio;Empresas según MECTRA;empresas;2019;5.156
+3;Industria manufacturera;42;Maquinaria agrícola;Empresas según MECTRA;empresas;2019;3.413
+3;Industria manufacturera;43;Plástica;Empresas según MECTRA;empresas;2019;3.142
+3;Industria manufacturera;44;Cuero, marroquinería y calzado;Empresas según MECTRA;empresas;2019;1.834
+3;Industria manufacturera;45;Agroquímica;Empresas según MECTRA;empresas;2019;248
+3;Industria manufacturera;46;Equipamiento médico;Empresas según MECTRA;empresas;2019;426
+2;Energía y minería;47;Energía eléctrica;Empresas según MECTRA;empresas;2019;1.732
+3;Industria manufacturera;48;Aparatos de uso doméstico;Empresas según MECTRA;empresas;2019;553
+3;Industria manufacturera;49;Bienes de capital;Empresas según MECTRA;empresas;2019;1.327
+3;Industria manufacturera;50;Químicos de consumo;Empresas según MECTRA;empresas;2019;683
+3;Industria manufacturera;51;Caucho;Empresas según MECTRA;empresas;2019;632
+3;Industria manufacturera;52;Electrónica;Empresas según MECTRA;empresas;2019;831
+5;Servicios;53;Servicios empresariales;Empresas según MECTRA;empresas;2019;132.093
+5;Servicios;54;Comercio;Empresas según MECTRA;empresas;2019;174.683
+5;Servicios;55;Industrias culturales;Empresas según MECTRA;empresas;2019;13.777
+5;Servicios;56;Investigación y desarrollo;Empresas según MECTRA;empresas;2019;4.943
+5;Servicios;57;Software y servicios informáticos;Empresas según MECTRA;empresas;2019;6.854
+5;Servicios;58;Telecomunicaciones;Empresas según MECTRA;empresas;2019;3.786
+5;Servicios;59;Turismo;Empresas según MECTRA;empresas;2019;40.372
+5;Servicios;60;Transporte y logística;Empresas según MECTRA;empresas;2019;56.443
+5;Servicios;61;Salud;Empresas según MECTRA;empresas;2019;29.452
+5;Servicios;62;Educación;Empresas según MECTRA;empresas;2019;11.386
+5;Servicios;63;Servicios financieros;Empresas según MECTRA;empresas;2019;9.846
+;Total Cadenas;;Total Cadenas;Empresas según MECTRA;empresas;2019;683.329
+;No asignado;99;No asignado;Empresas según MECTRA;empresas;2019;19.843
+;TOTAL (excluyendo Adm. Púb.);;TOTAL (excluyendo Adm. Púb.);Empresas según MECTRA;empresas;2019;703.172
+1;Agroindustriales;1;Algodón textil;Empresas según MECTRA;%;2019;1,1
+1;Agroindustriales;2;Apícola;Empresas según MECTRA;%;2019;0
+1;Agroindustriales;3;Azucarera;Empresas según MECTRA;%;2019;0,2
+1;Agroindustriales;4;Avícola;Empresas según MECTRA;%;2019;0,2
+1;Agroindustriales;5;Porcina;Empresas según MECTRA;%;2019;0,2
+1;Agroindustriales;6;Bovina;Empresas según MECTRA;%;2019;2,9
+1;Agroindustriales;7;Arrocera;Empresas según MECTRA;%;2019;0
+1;Agroindustriales;8;Maicera;Empresas según MECTRA;%;2019;0,1
+1;Agroindustriales;9;Triguera;Empresas según MECTRA;%;2019;1,2
+1;Agroindustriales;10;Cítricos dulces;Empresas según MECTRA;%;2019;0,2
+1;Agroindustriales;11;Fruta de carozo;Empresas según MECTRA;%;2019;0,1
+1;Agroindustriales;12;Láctea;Empresas según MECTRA;%;2019;0,7
+1;Agroindustriales;13;Legumbres;Empresas según MECTRA;%;2019;0
+1;Agroindustriales;14;Limón;Empresas según MECTRA;%;2019;0
+1;Agroindustriales;15;Peras y manzanas;Empresas según MECTRA;%;2019;0,2
+1;Agroindustriales;16;Sojera;Empresas según MECTRA;%;2019;1,3
+1;Agroindustriales;17;Girasol;Empresas según MECTRA;%;2019;0
+1;Agroindustriales;18;Caprina;Empresas según MECTRA;%;2019;0
+1;Agroindustriales;19;Ovina;Empresas según MECTRA;%;2019;0,1
+1;Agroindustriales;20;Pesca;Empresas según MECTRA;%;2019;0,1
+1;Agroindustriales;21;Tabacalera;Empresas según MECTRA;%;2019;0,3
+1;Agroindustriales;22;Tealera;Empresas según MECTRA;%;2019;0
+1;Agroindustriales;23;Vitivinícola;Empresas según MECTRA;%;2019;0,8
+1;Agroindustriales;24;Yerba mate;Empresas según MECTRA;%;2019;0,2
+1;Agroindustriales;25;Frutas finas;Empresas según MECTRA;%;2019;0,1
+1;Agroindustriales;26;Cebada;Empresas según MECTRA;%;2019;1
+1;Agroindustriales;27;Hortícola;Empresas según MECTRA;%;2019;0,3
+1;Agroindustriales;28;Maní;Empresas según MECTRA;%;2019;0,1
+1;Agroindustriales;29;Olivícola;Empresas según MECTRA;%;2019;0
+1;Agroindustriales;30;Sorgo;Empresas según MECTRA;%;2019;0
+2;Energía y minería;31;Hidrocarburos;Empresas según MECTRA;%;2019;0,2
+2;Energía y minería;32;Minería metalífera;Empresas según MECTRA;%;2019;0,2
+2;Energía y minería;33;Minería no metalífera;Empresas según MECTRA;%;2019;0,1
+3;Industria manufacturera;34;Equipos y aparatos eléctricos;Empresas según MECTRA;%;2019;0,5
+3;Industria manufacturera;35;Automotriz y autopartista;Empresas según MECTRA;%;2019;3,9
+3;Industria manufacturera;36;Construcción;Empresas según MECTRA;%;2019;6,7
+3;Industria manufacturera;37;Medicamentos;Empresas según MECTRA;%;2019;0,2
+3;Industria manufacturera;38;Quimica básica;Empresas según MECTRA;%;2019;0,3
+3;Industria manufacturera;39;Forestal, papel y muebles;Empresas según MECTRA;%;2019;1,5
+3;Industria manufacturera;40;Siderurgia;Empresas según MECTRA;%;2019;0,6
+3;Industria manufacturera;41;Aluminio;Empresas según MECTRA;%;2019;0,7
+3;Industria manufacturera;42;Maquinaria agrícola;Empresas según MECTRA;%;2019;0,5
+3;Industria manufacturera;43;Plástica;Empresas según MECTRA;%;2019;0,4
+3;Industria manufacturera;44;Cuero, marroquinería y calzado;Empresas según MECTRA;%;2019;0,3
+3;Industria manufacturera;45;Agroquímica;Empresas según MECTRA;%;2019;0
+3;Industria manufacturera;46;Equipamiento médico;Empresas según MECTRA;%;2019;0,1
+2;Energía y minería;47;Energía eléctrica;Empresas según MECTRA;%;2019;0,2
+3;Industria manufacturera;48;Aparatos de uso doméstico;Empresas según MECTRA;%;2019;0,1
+3;Industria manufacturera;49;Bienes de capital;Empresas según MECTRA;%;2019;0,2
+3;Industria manufacturera;50;Químicos de consumo;Empresas según MECTRA;%;2019;0,1
+3;Industria manufacturera;51;Caucho;Empresas según MECTRA;%;2019;0,1
+3;Industria manufacturera;52;Electrónica;Empresas según MECTRA;%;2019;0,1
+5;Servicios;53;Servicios empresariales;Empresas según MECTRA;%;2019;18,8
+5;Servicios;54;Comercio;Empresas según MECTRA;%;2019;24,8
+5;Servicios;55;Industrias culturales;Empresas según MECTRA;%;2019;2
+5;Servicios;56;Investigación y desarrollo;Empresas según MECTRA;%;2019;0,7
+5;Servicios;57;Software y servicios informáticos;Empresas según MECTRA;%;2019;1
+5;Servicios;58;Telecomunicaciones;Empresas según MECTRA;%;2019;0,5
+5;Servicios;59;Turismo;Empresas según MECTRA;%;2019;5,7
+5;Servicios;60;Transporte y logística;Empresas según MECTRA;%;2019;8
+5;Servicios;61;Salud;Empresas según MECTRA;%;2019;4,2
+5;Servicios;62;Educación;Empresas según MECTRA;%;2019;1,6
+5;Servicios;63;Servicios financieros;Empresas según MECTRA;%;2019;1,4
+;Total Cadenas;;Total Cadenas;Empresas según MECTRA;%;2019;97,2
+;No asignado;99;No asignado;Empresas según MECTRA;%;2019;2,8
+;TOTAL (excluyendo Adm. Púb.);;TOTAL (excluyendo Adm. Púb.);Empresas según MECTRA;%;2019;100
+1;Agroindustriales;1;Algodón textil;Intensidad empresarial relativa;índice;2018;1,2
+1;Agroindustriales;2;Apícola;Intensidad empresarial relativa;índice;2018;1,03
+1;Agroindustriales;3;Azucarera;Intensidad empresarial relativa;índice;2018;0,52
+1;Agroindustriales;4;Avícola;Intensidad empresarial relativa;índice;2018;0,28
+1;Agroindustriales;5;Porcina;Intensidad empresarial relativa;índice;2018;0,46
+1;Agroindustriales;6;Bovina;Intensidad empresarial relativa;índice;2018;2,35
+1;Agroindustriales;7;Arrocera;Intensidad empresarial relativa;índice;2018;0,24
+1;Agroindustriales;8;Maicera;Intensidad empresarial relativa;índice;2018;0,11
+1;Agroindustriales;9;Triguera;Intensidad empresarial relativa;índice;2018;0,88
+1;Agroindustriales;10;Cítricos dulces;Intensidad empresarial relativa;índice;2018;2,61
+1;Agroindustriales;11;Fruta de carozo;Intensidad empresarial relativa;índice;2018;1,11
+1;Agroindustriales;12;Láctea;Intensidad empresarial relativa;índice;2018;0,54
+1;Agroindustriales;13;Legumbres;Intensidad empresarial relativa;índice;2018;0,17
+1;Agroindustriales;14;Limón;Intensidad empresarial relativa;índice;2018;0,33
+1;Agroindustriales;15;Peras y manzanas;Intensidad empresarial relativa;índice;2018;0,27
+1;Agroindustriales;16;Sojera;Intensidad empresarial relativa;índice;2018;0,48
+1;Agroindustriales;17;Girasol;Intensidad empresarial relativa;índice;2018;0,09
+1;Agroindustriales;18;Caprina;Intensidad empresarial relativa;índice;2018;1,05
+1;Agroindustriales;19;Ovina;Intensidad empresarial relativa;índice;2018;1,76
+1;Agroindustriales;20;Pesca;Intensidad empresarial relativa;índice;2018;0,17
+1;Agroindustriales;21;Tabacalera;Intensidad empresarial relativa;índice;2018;1,87
+1;Agroindustriales;22;Tealera;Intensidad empresarial relativa;índice;2018;4,02
+1;Agroindustriales;23;Vitivinícola;Intensidad empresarial relativa;índice;2018;1,33
+1;Agroindustriales;24;Yerba mate;Intensidad empresarial relativa;índice;2018;0,4
+1;Agroindustriales;25;Frutas finas;Intensidad empresarial relativa;índice;2018;0,92
+1;Agroindustriales;26;Cebada;Intensidad empresarial relativa;índice;2018;3,21
+1;Agroindustriales;27;Hortícola;Intensidad empresarial relativa;índice;2018;3,69
+1;Agroindustriales;28;Maní;Intensidad empresarial relativa;índice;2018;0,41
+1;Agroindustriales;29;Olivícola;Intensidad empresarial relativa;índice;2018;0,29
+1;Agroindustriales;30;Sorgo;Intensidad empresarial relativa;índice;2018;3,03
+2;Energía y minería;31;Hidrocarburos;Intensidad empresarial relativa;índice;2018;0,04
+2;Energía y minería;32;Minería metalífera;Intensidad empresarial relativa;índice;2018;0,3
+2;Energía y minería;33;Minería no metalífera;Intensidad empresarial relativa;índice;2018;0,13
+3;Industria manufacturera;34;Equipos y aparatos eléctricos;Intensidad empresarial relativa;índice;2018;1,46
+3;Industria manufacturera;35;Automotriz y autopartista;Intensidad empresarial relativa;índice;2018;1,38
+3;Industria manufacturera;36;Construcción;Intensidad empresarial relativa;índice;2018;0,93
+3;Industria manufacturera;37;Medicamentos;Intensidad empresarial relativa;índice;2018;0,26
+3;Industria manufacturera;38;Quimica básica;Intensidad empresarial relativa;índice;2018;0,89
+3;Industria manufacturera;39;Forestal, papel y muebles;Intensidad empresarial relativa;índice;2018;1,06
+3;Industria manufacturera;40;Siderurgia;Intensidad empresarial relativa;índice;2018;0,72
+3;Industria manufacturera;41;Aluminio;Intensidad empresarial relativa;índice;2018;2,55
+3;Industria manufacturera;42;Maquinaria agrícola;Intensidad empresarial relativa;índice;2018;1,43
+3;Industria manufacturera;43;Plástica;Intensidad empresarial relativa;índice;2018;0,46
+3;Industria manufacturera;44;Cuero, marroquinería y calzado;Intensidad empresarial relativa;índice;2018;1,27
+3;Industria manufacturera;45;Agroquímica;Intensidad empresarial relativa;índice;2018;0,17
+3;Industria manufacturera;46;Equipamiento médico;Intensidad empresarial relativa;índice;2018;0,71
+2;Energía y minería;47;Energía eléctrica;Intensidad empresarial relativa;índice;2018;0,12
+3;Industria manufacturera;48;Aparatos de uso doméstico;Intensidad empresarial relativa;índice;2018;0,48
+3;Industria manufacturera;49;Bienes de capital;Intensidad empresarial relativa;índice;2018;0,12
+3;Industria manufacturera;50;Químicos de consumo;Intensidad empresarial relativa;índice;2018;0,26
+3;Industria manufacturera;51;Caucho;Intensidad empresarial relativa;índice;2018;0,39
+3;Industria manufacturera;52;Electrónica;Intensidad empresarial relativa;índice;2018;0,6
+5;Servicios;53;Servicios empresariales;Intensidad empresarial relativa;índice;2018;6,69
+5;Servicios;54;Comercio;Intensidad empresarial relativa;índice;2018;1,28
+5;Servicios;55;Industrias culturales;Intensidad empresarial relativa;índice;2018;1,21
+5;Servicios;56;Investigación y desarrollo;Intensidad empresarial relativa;índice;2018;2,34
+5;Servicios;57;Software y servicios informáticos;Intensidad empresarial relativa;índice;2018;0,71
+5;Servicios;58;Telecomunicaciones;Intensidad empresarial relativa;índice;2018;0,2
+5;Servicios;59;Turismo;Intensidad empresarial relativa;índice;2018;1,76
+5;Servicios;60;Transporte y logística;Intensidad empresarial relativa;índice;2018;2,01
+5;Servicios;61;Salud;Intensidad empresarial relativa;índice;2018;0,58
+5;Servicios;62;Educación;Intensidad empresarial relativa;índice;2018;0,21
+5;Servicios;63;Servicios financieros;Intensidad empresarial relativa;índice;2018;0,27
+;Total Cadenas;;Total Cadenas;Intensidad empresarial relativa;índice;2018;1
+;No asignado;99;No asignado;Intensidad empresarial relativa;índice;2018;
+;TOTAL (excluyendo Adm. Púb.);;TOTAL (excluyendo Adm. Púb.);Intensidad empresarial relativa;índice;2018;
+1;Agroindustriales;1;Algodón textil;Índice de Herfindal-Hirschman - Empresas;índice;2018;0,28
+1;Agroindustriales;2;Apícola;Índice de Herfindal-Hirschman - Empresas;índice;2018;0,28
+1;Agroindustriales;3;Azucarera;Índice de Herfindal-Hirschman - Empresas;índice;2018;0,22
+1;Agroindustriales;4;Avícola;Índice de Herfindal-Hirschman - Empresas;índice;2018;0,27
+1;Agroindustriales;5;Porcina;Índice de Herfindal-Hirschman - Empresas;índice;2018;0,18
+1;Agroindustriales;6;Bovina;Índice de Herfindal-Hirschman - Empresas;índice;2018;0,19
+1;Agroindustriales;7;Arrocera;Índice de Herfindal-Hirschman - Empresas;índice;2018;0,32
+1;Agroindustriales;8;Maicera;Índice de Herfindal-Hirschman - Empresas;índice;2018;0,21
+1;Agroindustriales;9;Triguera;Índice de Herfindal-Hirschman - Empresas;índice;2018;0,19
+1;Agroindustriales;10;Cítricos dulces;Índice de Herfindal-Hirschman - Empresas;índice;2018;0,13
+1;Agroindustriales;11;Fruta de carozo;Índice de Herfindal-Hirschman - Empresas;índice;2018;0,49
+1;Agroindustriales;12;Láctea;Índice de Herfindal-Hirschman - Empresas;índice;2018;0,23
+1;Agroindustriales;13;Legumbres;Índice de Herfindal-Hirschman - Empresas;índice;2018;0,2
+1;Agroindustriales;14;Limón;Índice de Herfindal-Hirschman - Empresas;índice;2018;0,14
+1;Agroindustriales;15;Peras y manzanas;Índice de Herfindal-Hirschman - Empresas;índice;2018;0,6
+1;Agroindustriales;16;Sojera;Índice de Herfindal-Hirschman - Empresas;índice;2018;0,25
+1;Agroindustriales;17;Girasol;Índice de Herfindal-Hirschman - Empresas;índice;2018;0,28
+1;Agroindustriales;18;Caprina;Índice de Herfindal-Hirschman - Empresas;índice;2018;0,09
+1;Agroindustriales;19;Ovina;Índice de Herfindal-Hirschman - Empresas;índice;2018;0,33
+1;Agroindustriales;20;Pesca;Índice de Herfindal-Hirschman - Empresas;índice;2018;0,28
+1;Agroindustriales;21;Tabacalera;Índice de Herfindal-Hirschman - Empresas;índice;2018;0,4
+1;Agroindustriales;22;Tealera;Índice de Herfindal-Hirschman - Empresas;índice;2018;0,42
+1;Agroindustriales;23;Vitivinícola;Índice de Herfindal-Hirschman - Empresas;índice;2018;0,56
+1;Agroindustriales;24;Yerba mate;Índice de Herfindal-Hirschman - Empresas;índice;2018;0,77
+1;Agroindustriales;25;Frutas finas;Índice de Herfindal-Hirschman - Empresas;índice;2018;0,17
+1;Agroindustriales;26;Cebada;Índice de Herfindal-Hirschman - Empresas;índice;2018;0,29
+1;Agroindustriales;27;Hortícola;Índice de Herfindal-Hirschman - Empresas;índice;2018;0,17
+1;Agroindustriales;28;Maní;Índice de Herfindal-Hirschman - Empresas;índice;2018;0,14
+1;Agroindustriales;29;Olivícola;Índice de Herfindal-Hirschman - Empresas;índice;2018;0,18
+1;Agroindustriales;30;Sorgo;Índice de Herfindal-Hirschman - Empresas;índice;2018;0,26
+2;Energía y minería;31;Hidrocarburos;Índice de Herfindal-Hirschman - Empresas;índice;2018;0,12
+2;Energía y minería;32;Minería metalífera;Índice de Herfindal-Hirschman - Empresas;índice;2018;0,14
+2;Energía y minería;33;Minería no metalífera;Índice de Herfindal-Hirschman - Empresas;índice;2018;0,1
+3;Industria manufacturera;34;Equipos y aparatos eléctricos;Índice de Herfindal-Hirschman - Empresas;índice;2018;0,2
+3;Industria manufacturera;35;Automotriz y autopartista;Índice de Herfindal-Hirschman - Empresas;índice;2018;0,16
+3;Industria manufacturera;36;Construcción;Índice de Herfindal-Hirschman - Empresas;índice;2018;0,18
+3;Industria manufacturera;37;Medicamentos;Índice de Herfindal-Hirschman - Empresas;índice;2018;0,14
+3;Industria manufacturera;38;Quimica básica;Índice de Herfindal-Hirschman - Empresas;índice;2018;0,27
+3;Industria manufacturera;39;Forestal, papel y muebles;Índice de Herfindal-Hirschman - Empresas;índice;2018;0,16
+3;Industria manufacturera;40;Siderurgia;Índice de Herfindal-Hirschman - Empresas;índice;2018;0,21
+3;Industria manufacturera;41;Aluminio;Índice de Herfindal-Hirschman - Empresas;índice;2018;0,32
+3;Industria manufacturera;42;Maquinaria agrícola;Índice de Herfindal-Hirschman - Empresas;índice;2018;0,23
+3;Industria manufacturera;43;Plástica;Índice de Herfindal-Hirschman - Empresas;índice;2018;0,35
+3;Industria manufacturera;44;Cuero, marroquinería y calzado;Índice de Herfindal-Hirschman - Empresas;índice;2018;0,34
+3;Industria manufacturera;45;Agroquímica;Índice de Herfindal-Hirschman - Empresas;índice;2018;0,15
+3;Industria manufacturera;46;Equipamiento médico;Índice de Herfindal-Hirschman - Empresas;índice;2018;0,29
+2;Energía y minería;47;Energía eléctrica;Índice de Herfindal-Hirschman - Empresas;índice;2018;0,17
+3;Industria manufacturera;48;Aparatos de uso doméstico;Índice de Herfindal-Hirschman - Empresas;índice;2018;0,29
+3;Industria manufacturera;49;Bienes de capital;Índice de Herfindal-Hirschman - Empresas;índice;2018;0,25
+3;Industria manufacturera;50;Químicos de consumo;Índice de Herfindal-Hirschman - Empresas;índice;2018;0,16
+3;Industria manufacturera;51;Caucho;Índice de Herfindal-Hirschman - Empresas;índice;2018;0,28
+3;Industria manufacturera;52;Electrónica;Índice de Herfindal-Hirschman - Empresas;índice;2018;0,24
+5;Servicios;53;Servicios empresariales;Índice de Herfindal-Hirschman - Empresas;índice;2018;0,24
+5;Servicios;54;Comercio;Índice de Herfindal-Hirschman - Empresas;índice;2018;0,17
+5;Servicios;55;Industrias culturales;Índice de Herfindal-Hirschman - Empresas;índice;2018;0,2
+5;Servicios;56;Investigación y desarrollo;Índice de Herfindal-Hirschman - Empresas;índice;2018;0,14
+5;Servicios;57;Software y servicios informáticos;Índice de Herfindal-Hirschman - Empresas;índice;2018;0,33
+5;Servicios;58;Telecomunicaciones;Índice de Herfindal-Hirschman - Empresas;índice;2018;0,15
+5;Servicios;59;Turismo;Índice de Herfindal-Hirschman - Empresas;índice;2018;0,16
+5;Servicios;60;Transporte y logística;Índice de Herfindal-Hirschman - Empresas;índice;2018;0,15
+5;Servicios;61;Salud;Índice de Herfindal-Hirschman - Empresas;índice;2018;0,15
+5;Servicios;62;Educación;Índice de Herfindal-Hirschman - Empresas;índice;2018;0,17
+5;Servicios;63;Servicios financieros;Índice de Herfindal-Hirschman - Empresas;índice;2018;0,13
+;Total Cadenas;;Total Cadenas;Índice de Herfindal-Hirschman - Empresas;índice;2018;
+;No asignado;99;No asignado;Índice de Herfindal-Hirschman - Empresas;índice;2018;
+;TOTAL (excluyendo Adm. Púb.);;TOTAL (excluyendo Adm. Púb.);Índice de Herfindal-Hirschman - Empresas;índice;2018;
+1;Agroindustriales;1;Algodón textil;Índice de Herfindal-Hirschman Normalizado;índice;2018;0,08
+1;Agroindustriales;2;Apícola;Índice de Herfindal-Hirschman Normalizado;índice;2018;0,31
+1;Agroindustriales;3;Azucarera;Índice de Herfindal-Hirschman Normalizado;índice;2018;0,35
+1;Agroindustriales;4;Avícola;Índice de Herfindal-Hirschman Normalizado;índice;2018;0,13
+1;Agroindustriales;5;Porcina;Índice de Herfindal-Hirschman Normalizado;índice;2018;0,49
+1;Agroindustriales;6;Bovina;Índice de Herfindal-Hirschman Normalizado;índice;2018;0,19
+1;Agroindustriales;7;Arrocera;Índice de Herfindal-Hirschman Normalizado;índice;2018;0,12
+1;Agroindustriales;8;Maicera;Índice de Herfindal-Hirschman Normalizado;índice;2018;0,09
+1;Agroindustriales;9;Triguera;Índice de Herfindal-Hirschman Normalizado;índice;2018;0,27
+1;Agroindustriales;10;Cítricos dulces;Índice de Herfindal-Hirschman Normalizado;índice;2018;0,13
+1;Agroindustriales;11;Fruta de carozo;Índice de Herfindal-Hirschman Normalizado;índice;2018;0,14
+1;Agroindustriales;12;Láctea;Índice de Herfindal-Hirschman Normalizado;índice;2018;0,16
+1;Agroindustriales;13;Legumbres;Índice de Herfindal-Hirschman Normalizado;índice;2018;0,07
+1;Agroindustriales;14;Limón;Índice de Herfindal-Hirschman Normalizado;índice;2018;0,13
+1;Agroindustriales;15;Peras y manzanas;Índice de Herfindal-Hirschman Normalizado;índice;2018;0,15
+1;Agroindustriales;16;Sojera;Índice de Herfindal-Hirschman Normalizado;índice;2018;0,04
+1;Agroindustriales;17;Girasol;Índice de Herfindal-Hirschman Normalizado;índice;2018;0,07
+1;Agroindustriales;18;Caprina;Índice de Herfindal-Hirschman Normalizado;índice;2018;0,59
+1;Agroindustriales;19;Ovina;Índice de Herfindal-Hirschman Normalizado;índice;2018;0,15
+1;Agroindustriales;20;Pesca;Índice de Herfindal-Hirschman Normalizado;índice;2018;0,12
+1;Agroindustriales;21;Tabacalera;Índice de Herfindal-Hirschman Normalizado;índice;2018;0,14
+1;Agroindustriales;22;Tealera;Índice de Herfindal-Hirschman Normalizado;índice;2018;0,51
+1;Agroindustriales;23;Vitivinícola;Índice de Herfindal-Hirschman Normalizado;índice;2018;0,13
+1;Agroindustriales;24;Yerba mate;Índice de Herfindal-Hirschman Normalizado;índice;2018;0,56
+1;Agroindustriales;25;Frutas finas;Índice de Herfindal-Hirschman Normalizado;índice;2018;0,31
+1;Agroindustriales;26;Cebada;Índice de Herfindal-Hirschman Normalizado;índice;2018;0,16
+1;Agroindustriales;27;Hortícola;Índice de Herfindal-Hirschman Normalizado;índice;2018;0,53
+1;Agroindustriales;28;Maní;Índice de Herfindal-Hirschman Normalizado;índice;2018;0,13
+1;Agroindustriales;29;Olivícola;Índice de Herfindal-Hirschman Normalizado;índice;2018;0,37
+1;Agroindustriales;30;Sorgo;Índice de Herfindal-Hirschman Normalizado;índice;2018;0,26
+2;Energía y minería;31;Hidrocarburos;Índice de Herfindal-Hirschman Normalizado;índice;2018;0,15
+2;Energía y minería;32;Minería metalífera;Índice de Herfindal-Hirschman Normalizado;índice;2018;0,27
+2;Energía y minería;33;Minería no metalífera;Índice de Herfindal-Hirschman Normalizado;índice;2018;0,13
+3;Industria manufacturera;34;Equipos y aparatos eléctricos;Índice de Herfindal-Hirschman Normalizado;índice;2018;0,1
+3;Industria manufacturera;35;Automotriz y autopartista;Índice de Herfindal-Hirschman Normalizado;índice;2018;0,46
+3;Industria manufacturera;36;Construcción;Índice de Herfindal-Hirschman Normalizado;índice;2018;
+3;Industria manufacturera;37;Medicamentos;Índice de Herfindal-Hirschman Normalizado;índice;2018;0,07
+3;Industria manufacturera;38;Quimica básica;Índice de Herfindal-Hirschman Normalizado;índice;2018;0,11
+3;Industria manufacturera;39;Forestal, papel y muebles;Índice de Herfindal-Hirschman Normalizado;índice;2018;0,11
+3;Industria manufacturera;40;Siderurgia;Índice de Herfindal-Hirschman Normalizado;índice;2018;0,08
+3;Industria manufacturera;41;Aluminio;Índice de Herfindal-Hirschman Normalizado;índice;2018;0,37
+3;Industria manufacturera;42;Maquinaria agrícola;Índice de Herfindal-Hirschman Normalizado;índice;2018;0,1
+3;Industria manufacturera;43;Plástica;Índice de Herfindal-Hirschman Normalizado;índice;2018;0,41
+3;Industria manufacturera;44;Cuero, marroquinería y calzado;Índice de Herfindal-Hirschman Normalizado;índice;2018;0,08
+3;Industria manufacturera;45;Agroquímica;Índice de Herfindal-Hirschman Normalizado;índice;2018;0,19
+3;Industria manufacturera;46;Equipamiento médico;Índice de Herfindal-Hirschman Normalizado;índice;2018;0,09
+2;Energía y minería;47;Energía eléctrica;Índice de Herfindal-Hirschman Normalizado;índice;2018;0,88
+3;Industria manufacturera;48;Aparatos de uso doméstico;Índice de Herfindal-Hirschman Normalizado;índice;2018;0,15
+3;Industria manufacturera;49;Bienes de capital;Índice de Herfindal-Hirschman Normalizado;índice;2018;0,1
+3;Industria manufacturera;50;Químicos de consumo;Índice de Herfindal-Hirschman Normalizado;índice;2018;0,16
+3;Industria manufacturera;51;Caucho;Índice de Herfindal-Hirschman Normalizado;índice;2018;0,45
+3;Industria manufacturera;52;Electrónica;Índice de Herfindal-Hirschman Normalizado;índice;2018;0,21
+5;Servicios;53;Servicios empresariales;Índice de Herfindal-Hirschman Normalizado;índice;2018;
+5;Servicios;54;Comercio;Índice de Herfindal-Hirschman Normalizado;índice;2018;
+5;Servicios;55;Industrias culturales;Índice de Herfindal-Hirschman Normalizado;índice;2018;0,2
+5;Servicios;56;Investigación y desarrollo;Índice de Herfindal-Hirschman Normalizado;índice;2018;
+5;Servicios;57;Software y servicios informáticos;Índice de Herfindal-Hirschman Normalizado;índice;2018;
+5;Servicios;58;Telecomunicaciones;Índice de Herfindal-Hirschman Normalizado;índice;2018;
+5;Servicios;59;Turismo;Índice de Herfindal-Hirschman Normalizado;índice;2018;
+5;Servicios;60;Transporte y logística;Índice de Herfindal-Hirschman Normalizado;índice;2018;
+5;Servicios;61;Salud;Índice de Herfindal-Hirschman Normalizado;índice;2018;
+5;Servicios;62;Educación;Índice de Herfindal-Hirschman Normalizado;índice;2018;
+5;Servicios;63;Servicios financieros;Índice de Herfindal-Hirschman Normalizado;índice;2018;
+;Total Cadenas;;Total Cadenas;Índice de Herfindal-Hirschman Normalizado;índice;2018;
+;No asignado;99;No asignado;Índice de Herfindal-Hirschman Normalizado;índice;2018;0,1
+;TOTAL (excluyendo Adm. Púb.);;TOTAL (excluyendo Adm. Púb.);Índice de Herfindal-Hirschman Normalizado;índice;2018;
+1;Agroindustriales;1;Algodón textil;Total destinos de las exportaciones;destinos;2018;95
+1;Agroindustriales;2;Apícola;Total destinos de las exportaciones;destinos;2018;34
+1;Agroindustriales;3;Azucarera;Total destinos de las exportaciones;destinos;2018;27
+1;Agroindustriales;4;Avícola;Total destinos de las exportaciones;destinos;2018;63
+1;Agroindustriales;5;Porcina;Total destinos de las exportaciones;destinos;2018;22
+1;Agroindustriales;6;Bovina;Total destinos de las exportaciones;destinos;2018;75
+1;Agroindustriales;7;Arrocera;Total destinos de las exportaciones;destinos;2018;28
+1;Agroindustriales;8;Maicera;Total destinos de las exportaciones;destinos;2018;124
+1;Agroindustriales;9;Triguera;Total destinos de las exportaciones;destinos;2018;79
+1;Agroindustriales;10;Cítricos dulces;Total destinos de las exportaciones;destinos;2018;46
+1;Agroindustriales;11;Fruta de carozo;Total destinos de las exportaciones;destinos;2018;59
+1;Agroindustriales;12;Láctea;Total destinos de las exportaciones;destinos;2018;70
+1;Agroindustriales;13;Legumbres;Total destinos de las exportaciones;destinos;2018;92
+1;Agroindustriales;14;Limón;Total destinos de las exportaciones;destinos;2018;75
+1;Agroindustriales;15;Peras y manzanas;Total destinos de las exportaciones;destinos;2018;59
+1;Agroindustriales;16;Sojera;Total destinos de las exportaciones;destinos;2018;98
+1;Agroindustriales;17;Girasol;Total destinos de las exportaciones;destinos;2018;81
+1;Agroindustriales;18;Caprina;Total destinos de las exportaciones;destinos;2018;2
+1;Agroindustriales;19;Ovina;Total destinos de las exportaciones;destinos;2018;21
+1;Agroindustriales;20;Pesca;Total destinos de las exportaciones;destinos;2018;101
+1;Agroindustriales;21;Tabacalera;Total destinos de las exportaciones;destinos;2018;58
+1;Agroindustriales;22;Tealera;Total destinos de las exportaciones;destinos;2018;38
+1;Agroindustriales;23;Vitivinícola;Total destinos de las exportaciones;destinos;2018;122
+1;Agroindustriales;24;Yerba mate;Total destinos de las exportaciones;destinos;2018;42
+1;Agroindustriales;25;Frutas finas;Total destinos de las exportaciones;destinos;2018;38
+1;Agroindustriales;26;Cebada;Total destinos de las exportaciones;destinos;2018;35
+1;Agroindustriales;27;Hortícola;Total destinos de las exportaciones;destinos;2018;40
+1;Agroindustriales;28;Maní;Total destinos de las exportaciones;destinos;2018;84
+1;Agroindustriales;29;Olivícola;Total destinos de las exportaciones;destinos;2018;29
+1;Agroindustriales;30;Sorgo;Total destinos de las exportaciones;destinos;2018;17
+2;Energía y minería;31;Hidrocarburos;Total destinos de las exportaciones;destinos;2018;46
+2;Energía y minería;32;Minería metalífera;Total destinos de las exportaciones;destinos;2018;79
+2;Energía y minería;33;Minería no metalífera;Total destinos de las exportaciones;destinos;2018;71
+3;Industria manufacturera;34;Equipos y aparatos eléctricos;Total destinos de las exportaciones;destinos;2018;100
+3;Industria manufacturera;35;Automotriz y autopartista;Total destinos de las exportaciones;destinos;2018;122
+3;Industria manufacturera;36;Construcción;Total destinos de las exportaciones;destinos;2018;
+3;Industria manufacturera;37;Medicamentos;Total destinos de las exportaciones;destinos;2018;124
+3;Industria manufacturera;38;Quimica básica;Total destinos de las exportaciones;destinos;2018;77
+3;Industria manufacturera;39;Forestal, papel y muebles;Total destinos de las exportaciones;destinos;2018;117
+3;Industria manufacturera;40;Siderurgia;Total destinos de las exportaciones;destinos;2018;108
+3;Industria manufacturera;41;Aluminio;Total destinos de las exportaciones;destinos;2018;64
+3;Industria manufacturera;42;Maquinaria agrícola;Total destinos de las exportaciones;destinos;2018;78
+3;Industria manufacturera;43;Plástica;Total destinos de las exportaciones;destinos;2018;109
+3;Industria manufacturera;44;Cuero, marroquinería y calzado;Total destinos de las exportaciones;destinos;2018;76
+3;Industria manufacturera;45;Agroquímica;Total destinos de las exportaciones;destinos;2018;55
+3;Industria manufacturera;46;Equipamiento médico;Total destinos de las exportaciones;destinos;2018;81
+2;Energía y minería;47;Energía eléctrica;Total destinos de las exportaciones;destinos;2018;2
+3;Industria manufacturera;48;Aparatos de uso doméstico;Total destinos de las exportaciones;destinos;2018;64
+3;Industria manufacturera;49;Bienes de capital;Total destinos de las exportaciones;destinos;2018;136
+3;Industria manufacturera;50;Químicos de consumo;Total destinos de las exportaciones;destinos;2018;64
+3;Industria manufacturera;51;Caucho;Total destinos de las exportaciones;destinos;2018;95
+3;Industria manufacturera;52;Electrónica;Total destinos de las exportaciones;destinos;2018;79
+5;Servicios;53;Servicios empresariales;Total destinos de las exportaciones;destinos;2018;
+5;Servicios;54;Comercio;Total destinos de las exportaciones;destinos;2018;
+5;Servicios;55;Industrias culturales;Total destinos de las exportaciones;destinos;2018;63
+5;Servicios;56;Investigación y desarrollo;Total destinos de las exportaciones;destinos;2018;
+5;Servicios;57;Software y servicios informáticos;Total destinos de las exportaciones;destinos;2018;
+5;Servicios;58;Telecomunicaciones;Total destinos de las exportaciones;destinos;2018;
+5;Servicios;59;Turismo;Total destinos de las exportaciones;destinos;2018;
+5;Servicios;60;Transporte y logística;Total destinos de las exportaciones;destinos;2018;
+5;Servicios;61;Salud;Total destinos de las exportaciones;destinos;2018;
+5;Servicios;62;Educación;Total destinos de las exportaciones;destinos;2018;
+5;Servicios;63;Servicios financieros;Total destinos de las exportaciones;destinos;2018;
+;Total Cadenas;;Total Cadenas;Total destinos de las exportaciones;destinos;2018;3.564
+;No asignado;99;No asignado;Total destinos de las exportaciones;destinos;2018;155
+;TOTAL (excluyendo Adm. Púb.);;TOTAL (excluyendo Adm. Púb.);Total destinos de las exportaciones;destinos;2018;3.719
