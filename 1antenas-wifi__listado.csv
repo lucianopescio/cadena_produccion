@@ -480,7 +480,6 @@ id;identificador;ubicacion;latitud;longitud;municipio_id;provincia_id;id_departa
 1026;CBA380-01;;0.000000;0.000000;CBA380;AR-X;1382;Vicuña Mackenna;Córdoba;Rio Cuarto
 1092;ERI020-01;;-32.719944;-59.396500;ERI020;AR-E;1445;General Galarza;Entre Ríos;Gualeguay
 389;MZA017-01;Tunuyan - Delegacion Municipal;-33.602579;-69.005322;MZA017;AR-M;1531;Tunuyán;Mendoza;Tunuyan
-692;MZA017-02;Delegacion Municipal, Colonia Las Rosas;-34.000000;-69.000000;MZA017;AR-M;1531;Tunuyán;Mendoza;Tunuyan
 915;SGO078-01;Punto Digital Rio Hondo;-27.498382;-64.863337;SGO078;AR-G;1626;Termas de Río Hondo;Santiago del Estero;Rio Hondo
 205;SGO078-02;Municipalidad;-27.496989;-64.858392;SGO078;AR-G;1626;Termas de Río Hondo;Santiago del Estero;Rio Hondo
 206;SGO078-03;Direccion de Turismo;-27.497778;-64.860324;SGO078;AR-G;1626;Termas de Río Hondo;Santiago del Estero;Rio Hondo
